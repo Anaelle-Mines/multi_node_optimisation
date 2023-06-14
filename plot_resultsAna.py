@@ -8,6 +8,7 @@ from Functions.f_graphicTools import *
 
 ouputPath = 'output/'
 
-outputFolder=ouputPath+'out'
+outputFolder = ouputPath+'out'
+# outputFolder='out_test_highs'
 
 capa=plot_capacity(scenarioPACA,outputFolder)

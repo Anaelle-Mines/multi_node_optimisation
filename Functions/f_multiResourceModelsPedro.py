@@ -18,7 +18,7 @@ def loadScenario(scenario, printTables=False):
         if k not in TechParameters:
             TechParameters[k] = 0 
     TechParameters.drop(columns=['Conversion', 'Category'], inplace=True)
-    TechParameters['yearStart']= TechParameters['YEAR'] - TechParameters['lifeSpan']//dy * dy 
+    TechParameters['yearStart']= TechParameters['YEAR'] - TechParameters['LifeSpan']//dy * dy 
     TechParameters.loc[TechParameters['yearStart'] < yearZero, 'yearStart'] = 0
     TechParameters.set_index(['YEAR', TechParameters.index], inplace=True)
    
@@ -29,7 +29,7 @@ def loadScenario(scenario, printTables=False):
         if k not in StorageParameters:
             StorageParameters[k] = 0 
     StorageParameters.drop(columns=['chargeFactors', 'dischargeFactors', 'dissipation'], inplace=True)
-    StorageParameters['storageYearStart'] = StorageParameters['YEAR'] - round(StorageParameters['storagelifeSpan'] / dy)  * dy
+    StorageParameters['storageYearStart'] = StorageParameters['YEAR'] - round(StorageParameters['storageLifeSpan'] / dy)  * dy
     StorageParameters.loc[StorageParameters['storageYearStart'] < yearZero, 'storageYearStart'] = 0
     StorageParameters.set_index(['YEAR', StorageParameters.index], inplace=True)
 
@@ -313,7 +313,7 @@ def systemModelPedro(scenario,isAbstract=False):
     # capacityCosts definition Constraints
     def capacityCostsDef_rule(model,y,tech):  # EQ forall tech in TECHNOLOGIES
         return sum(model.investCost[yi,tech] 
-            * f1(i,model.lifeSpan[yi,tech]) * f3(r,y-dy) 
+            * f1(i,model.LifeSpan[yi,tech]) * f3(r,y-dy) 
             * (model.capacityInvest_Dvar[yi,tech] - model.capacityDel_Pvar[yi,y-dy,tech]) 
                     for yi in yearList[yearList < y]) + model.operationCost[y-dy,tech]*f3(r,y)*model.capacity_Pvar[y,tech] == model.capacityCosts_Pvar[y,tech]
     model.capacityCostsCtr = Constraint(model.YEAR_op,model.TECHNOLOGIES, rule=capacityCostsDef_rule)
@@ -474,7 +474,7 @@ def systemModelPedro(scenario,isAbstract=False):
     # storageCosts definition Constraint
     def storageCostsDef_rule(model,y,s_tech):  # EQ forall s_tech in STOCK_TECHNO
         return sum((model.storageEnergyCost[yi,s_tech] * model.Cmax_Pvar[yi+dy,s_tech] +
-                model.storagePowerCost[yi,s_tech] * model.Pmax_Pvar[yi+dy,s_tech]) * f1(i, model.storagelifeSpan[yi, s_tech]) * f3(r, y-dy) for yi in yearList[yearList < y]) \
+                model.storagePowerCost[yi,s_tech] * model.Pmax_Pvar[yi+dy,s_tech]) * f1(i, model.storageLifeSpan[yi, s_tech]) * f3(r, y-dy) for yi in yearList[yearList < y]) \
                + model.storageOperationCost[y-dy,s_tech]*f3(r,y)* model.Pmax_Pvar[y,s_tech]  == model.storageCosts_Pvar[y,s_tech]
     model.storageCostsCtr = Constraint(model.YEAR_op,model.STOCK_TECHNO, rule=storageCostsDef_rule)
 

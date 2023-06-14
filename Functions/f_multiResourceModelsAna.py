@@ -511,9 +511,9 @@ def systemModel(scenario, isAbstract=False):
     model.transportCarbonCosts_Pvar = Var(
         model.YEAR_op, model.TRANS_TECHNO, model.AREA_AREA, domain=NonNegativeReals)
 
-    model.dual = Suffix(direction=Suffix.IMPORT)
-    model.rc = Suffix(direction=Suffix.IMPORT)
-    model.slack = Suffix(direction=Suffix.IMPORT)
+    # model.dual = Suffix(direction=Suffix.IMPORT)
+    # model.rc = Suffix(direction=Suffix.IMPORT)
+    # model.slack = Suffix(direction=Suffix.IMPORT)
 
     ########################
     # Objective Function   #

@@ -12,7 +12,6 @@ t = np.arange(1, nHours + 1, timeStep)
 nHours = len(t)
 
 zones = ['PACA']
-scenar = 1
 
 yearZero = 2010
 yearFinal = 2050
