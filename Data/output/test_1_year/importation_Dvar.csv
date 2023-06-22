@@ -1,0 +1,441 @@
+,YEAR_op,TIMESTAMP,RESOURCES,AREA,importation_Dvar
+0,2030,1,hydrogen,Marseille,0.0
+1,2030,1,gas,Marseille,0.0
+2,2030,1,natural gas,Marseille,1094.75
+3,2030,1,biogas,Marseille,0.0
+4,2030,1,electricity,Marseille,0.0
+5,2030,4101,hydrogen,Marseille,0.0
+6,2030,4101,gas,Marseille,0.0
+7,2030,4101,natural gas,Marseille,1094.75
+8,2030,4101,biogas,Marseille,0.0
+9,2030,4101,electricity,Marseille,0.0
+10,2030,8201,hydrogen,Marseille,0.0
+11,2030,8201,gas,Marseille,0.0
+12,2030,8201,natural gas,Marseille,1094.75
+13,2030,8201,biogas,Marseille,0.0
+14,2030,8201,electricity,Marseille,0.0
+15,2030,3601,hydrogen,Marseille,0.0
+16,2030,3601,gas,Marseille,0.0
+17,2030,3601,natural gas,Marseille,1094.75
+18,2030,3601,biogas,Marseille,0.0
+19,2030,3601,electricity,Marseille,0.0
+20,2030,7701,hydrogen,Marseille,0.0
+21,2030,7701,gas,Marseille,0.0
+22,2030,7701,natural gas,Marseille,1094.75
+23,2030,7701,biogas,Marseille,0.0
+24,2030,7701,electricity,Marseille,0.0
+25,2030,3101,hydrogen,Marseille,0.0
+26,2030,3101,gas,Marseille,0.0
+27,2030,3101,natural gas,Marseille,1094.75
+28,2030,3101,biogas,Marseille,0.0
+29,2030,3101,electricity,Marseille,0.0
+30,2030,7201,hydrogen,Marseille,0.0
+31,2030,7201,gas,Marseille,0.0
+32,2030,7201,natural gas,Marseille,1094.75
+33,2030,7201,biogas,Marseille,0.0
+34,2030,7201,electricity,Marseille,0.0
+35,2030,2601,hydrogen,Marseille,0.0
+36,2030,2601,gas,Marseille,0.0
+37,2030,2601,natural gas,Marseille,1094.75
+38,2030,2601,biogas,Marseille,0.0
+39,2030,2601,electricity,Marseille,0.0
+40,2030,6701,hydrogen,Marseille,0.0
+41,2030,6701,gas,Marseille,0.0
+42,2030,6701,natural gas,Marseille,1094.75
+43,2030,6701,biogas,Marseille,0.0
+44,2030,6701,electricity,Marseille,0.0
+45,2030,2101,hydrogen,Marseille,0.0
+46,2030,2101,gas,Marseille,0.0
+47,2030,2101,natural gas,Marseille,1094.75
+48,2030,2101,biogas,Marseille,0.0
+49,2030,2101,electricity,Marseille,0.0
+50,2030,6201,hydrogen,Marseille,0.0
+51,2030,6201,gas,Marseille,0.0
+52,2030,6201,natural gas,Marseille,1094.75
+53,2030,6201,biogas,Marseille,0.0
+54,2030,6201,electricity,Marseille,0.0
+55,2030,1601,hydrogen,Marseille,0.0
+56,2030,1601,gas,Marseille,0.0
+57,2030,1601,natural gas,Marseille,1094.75
+58,2030,1601,biogas,Marseille,0.0
+59,2030,1601,electricity,Marseille,0.0
+60,2030,5701,hydrogen,Marseille,0.0
+61,2030,5701,gas,Marseille,0.0
+62,2030,5701,natural gas,Marseille,1094.75
+63,2030,5701,biogas,Marseille,0.0
+64,2030,5701,electricity,Marseille,0.0
+65,2030,1101,hydrogen,Marseille,0.0
+66,2030,1101,gas,Marseille,0.0
+67,2030,1101,natural gas,Marseille,1094.75
+68,2030,1101,biogas,Marseille,0.0
+69,2030,1101,electricity,Marseille,0.0
+70,2030,5201,hydrogen,Marseille,0.0
+71,2030,5201,gas,Marseille,0.0
+72,2030,5201,natural gas,Marseille,1094.75
+73,2030,5201,biogas,Marseille,0.0
+74,2030,5201,electricity,Marseille,0.0
+75,2030,601,hydrogen,Marseille,0.0
+76,2030,601,gas,Marseille,0.0
+77,2030,601,natural gas,Marseille,1094.75
+78,2030,601,biogas,Marseille,0.0
+79,2030,601,electricity,Marseille,0.0
+80,2030,4701,hydrogen,Marseille,0.0
+81,2030,4701,gas,Marseille,0.0
+82,2030,4701,natural gas,Marseille,1094.75
+83,2030,4701,biogas,Marseille,0.0
+84,2030,4701,electricity,Marseille,0.0
+85,2030,101,hydrogen,Marseille,0.0
+86,2030,101,gas,Marseille,0.0
+87,2030,101,natural gas,Marseille,1094.75
+88,2030,101,biogas,Marseille,0.0
+89,2030,101,electricity,Marseille,0.0
+90,2030,4201,hydrogen,Marseille,0.0
+91,2030,4201,gas,Marseille,0.0
+92,2030,4201,natural gas,Marseille,1094.75
+93,2030,4201,biogas,Marseille,0.0
+94,2030,4201,electricity,Marseille,0.0
+95,2030,8301,hydrogen,Marseille,0.0
+96,2030,8301,gas,Marseille,0.0
+97,2030,8301,natural gas,Marseille,1094.75
+98,2030,8301,biogas,Marseille,0.0
+99,2030,8301,electricity,Marseille,0.0
+100,2030,3701,hydrogen,Marseille,0.0
+101,2030,3701,gas,Marseille,0.0
+102,2030,3701,natural gas,Marseille,1094.75
+103,2030,3701,biogas,Marseille,0.0
+104,2030,3701,electricity,Marseille,0.0
+105,2030,7801,hydrogen,Marseille,0.0
+106,2030,7801,gas,Marseille,0.0
+107,2030,7801,natural gas,Marseille,1094.75
+108,2030,7801,biogas,Marseille,0.0
+109,2030,7801,electricity,Marseille,0.0
+110,2030,3201,hydrogen,Marseille,0.0
+111,2030,3201,gas,Marseille,0.0
+112,2030,3201,natural gas,Marseille,1094.75
+113,2030,3201,biogas,Marseille,0.0
+114,2030,3201,electricity,Marseille,0.0
+115,2030,7301,hydrogen,Marseille,0.0
+116,2030,7301,gas,Marseille,0.0
+117,2030,7301,natural gas,Marseille,1094.75
+118,2030,7301,biogas,Marseille,0.0
+119,2030,7301,electricity,Marseille,0.0
+120,2030,2701,hydrogen,Marseille,0.0
+121,2030,2701,gas,Marseille,0.0
+122,2030,2701,natural gas,Marseille,1094.75
+123,2030,2701,biogas,Marseille,0.0
+124,2030,2701,electricity,Marseille,0.0
+125,2030,6801,hydrogen,Marseille,0.0
+126,2030,6801,gas,Marseille,0.0
+127,2030,6801,natural gas,Marseille,1094.75
+128,2030,6801,biogas,Marseille,0.0
+129,2030,6801,electricity,Marseille,0.0
+130,2030,2201,hydrogen,Marseille,0.0
+131,2030,2201,gas,Marseille,0.0
+132,2030,2201,natural gas,Marseille,1094.75
+133,2030,2201,biogas,Marseille,0.0
+134,2030,2201,electricity,Marseille,0.0
+135,2030,6301,hydrogen,Marseille,0.0
+136,2030,6301,gas,Marseille,0.0
+137,2030,6301,natural gas,Marseille,1094.75
+138,2030,6301,biogas,Marseille,0.0
+139,2030,6301,electricity,Marseille,0.0
+140,2030,1701,hydrogen,Marseille,0.0
+141,2030,1701,gas,Marseille,0.0
+142,2030,1701,natural gas,Marseille,1094.75
+143,2030,1701,biogas,Marseille,0.0
+144,2030,1701,electricity,Marseille,0.0
+145,2030,5801,hydrogen,Marseille,0.0
+146,2030,5801,gas,Marseille,0.0
+147,2030,5801,natural gas,Marseille,1094.75
+148,2030,5801,biogas,Marseille,0.0
+149,2030,5801,electricity,Marseille,0.0
+150,2030,1201,hydrogen,Marseille,0.0
+151,2030,1201,gas,Marseille,0.0
+152,2030,1201,natural gas,Marseille,1094.75
+153,2030,1201,biogas,Marseille,0.0
+154,2030,1201,electricity,Marseille,0.0
+155,2030,5301,hydrogen,Marseille,0.0
+156,2030,5301,gas,Marseille,0.0
+157,2030,5301,natural gas,Marseille,1094.75
+158,2030,5301,biogas,Marseille,0.0
+159,2030,5301,electricity,Marseille,0.0
+160,2030,701,hydrogen,Marseille,0.0
+161,2030,701,gas,Marseille,0.0
+162,2030,701,natural gas,Marseille,1094.75
+163,2030,701,biogas,Marseille,0.0
+164,2030,701,electricity,Marseille,0.0
+165,2030,4801,hydrogen,Marseille,0.0
+166,2030,4801,gas,Marseille,0.0
+167,2030,4801,natural gas,Marseille,1094.75
+168,2030,4801,biogas,Marseille,0.0
+169,2030,4801,electricity,Marseille,0.0
+170,2030,201,hydrogen,Marseille,0.0
+171,2030,201,gas,Marseille,0.0
+172,2030,201,natural gas,Marseille,1094.75
+173,2030,201,biogas,Marseille,0.0
+174,2030,201,electricity,Marseille,0.0
+175,2030,4301,hydrogen,Marseille,0.0
+176,2030,4301,gas,Marseille,0.0
+177,2030,4301,natural gas,Marseille,1094.75
+178,2030,4301,biogas,Marseille,0.0
+179,2030,4301,electricity,Marseille,0.0
+180,2030,8401,hydrogen,Marseille,0.0
+181,2030,8401,gas,Marseille,0.0
+182,2030,8401,natural gas,Marseille,1094.75
+183,2030,8401,biogas,Marseille,0.0
+184,2030,8401,electricity,Marseille,0.0
+185,2030,3801,hydrogen,Marseille,0.0
+186,2030,3801,gas,Marseille,0.0
+187,2030,3801,natural gas,Marseille,1094.75
+188,2030,3801,biogas,Marseille,0.0
+189,2030,3801,electricity,Marseille,0.0
+190,2030,7901,hydrogen,Marseille,0.0
+191,2030,7901,gas,Marseille,0.0
+192,2030,7901,natural gas,Marseille,1094.75
+193,2030,7901,biogas,Marseille,0.0
+194,2030,7901,electricity,Marseille,0.0
+195,2030,3301,hydrogen,Marseille,0.0
+196,2030,3301,gas,Marseille,0.0
+197,2030,3301,natural gas,Marseille,1094.75
+198,2030,3301,biogas,Marseille,0.0
+199,2030,3301,electricity,Marseille,0.0
+200,2030,7401,hydrogen,Marseille,0.0
+201,2030,7401,gas,Marseille,0.0
+202,2030,7401,natural gas,Marseille,1094.75
+203,2030,7401,biogas,Marseille,0.0
+204,2030,7401,electricity,Marseille,0.0
+205,2030,2801,hydrogen,Marseille,0.0
+206,2030,2801,gas,Marseille,0.0
+207,2030,2801,natural gas,Marseille,1094.75
+208,2030,2801,biogas,Marseille,0.0
+209,2030,2801,electricity,Marseille,0.0
+210,2030,6901,hydrogen,Marseille,0.0
+211,2030,6901,gas,Marseille,0.0
+212,2030,6901,natural gas,Marseille,1094.75
+213,2030,6901,biogas,Marseille,0.0
+214,2030,6901,electricity,Marseille,0.0
+215,2030,2301,hydrogen,Marseille,0.0
+216,2030,2301,gas,Marseille,0.0
+217,2030,2301,natural gas,Marseille,1094.75
+218,2030,2301,biogas,Marseille,0.0
+219,2030,2301,electricity,Marseille,0.0
+220,2030,6401,hydrogen,Marseille,0.0
+221,2030,6401,gas,Marseille,0.0
+222,2030,6401,natural gas,Marseille,1094.75
+223,2030,6401,biogas,Marseille,0.0
+224,2030,6401,electricity,Marseille,0.0
+225,2030,1801,hydrogen,Marseille,0.0
+226,2030,1801,gas,Marseille,0.0
+227,2030,1801,natural gas,Marseille,1094.75
+228,2030,1801,biogas,Marseille,0.0
+229,2030,1801,electricity,Marseille,0.0
+230,2030,5901,hydrogen,Marseille,0.0
+231,2030,5901,gas,Marseille,0.0
+232,2030,5901,natural gas,Marseille,1094.75
+233,2030,5901,biogas,Marseille,0.0
+234,2030,5901,electricity,Marseille,0.0
+235,2030,1301,hydrogen,Marseille,0.0
+236,2030,1301,gas,Marseille,0.0
+237,2030,1301,natural gas,Marseille,1094.75
+238,2030,1301,biogas,Marseille,0.0
+239,2030,1301,electricity,Marseille,0.0
+240,2030,5401,hydrogen,Marseille,0.0
+241,2030,5401,gas,Marseille,0.0
+242,2030,5401,natural gas,Marseille,1094.75
+243,2030,5401,biogas,Marseille,0.0
+244,2030,5401,electricity,Marseille,0.0
+245,2030,801,hydrogen,Marseille,0.0
+246,2030,801,gas,Marseille,0.0
+247,2030,801,natural gas,Marseille,1094.75
+248,2030,801,biogas,Marseille,0.0
+249,2030,801,electricity,Marseille,0.0
+250,2030,4901,hydrogen,Marseille,0.0
+251,2030,4901,gas,Marseille,0.0
+252,2030,4901,natural gas,Marseille,1094.75
+253,2030,4901,biogas,Marseille,0.0
+254,2030,4901,electricity,Marseille,0.0
+255,2030,301,hydrogen,Marseille,0.0
+256,2030,301,gas,Marseille,0.0
+257,2030,301,natural gas,Marseille,1094.75
+258,2030,301,biogas,Marseille,0.0
+259,2030,301,electricity,Marseille,0.0
+260,2030,4401,hydrogen,Marseille,0.0
+261,2030,4401,gas,Marseille,0.0
+262,2030,4401,natural gas,Marseille,1094.75
+263,2030,4401,biogas,Marseille,0.0
+264,2030,4401,electricity,Marseille,0.0
+265,2030,8501,hydrogen,Marseille,0.0
+266,2030,8501,gas,Marseille,0.0
+267,2030,8501,natural gas,Marseille,1094.75
+268,2030,8501,biogas,Marseille,0.0
+269,2030,8501,electricity,Marseille,0.0
+270,2030,3901,hydrogen,Marseille,0.0
+271,2030,3901,gas,Marseille,0.0
+272,2030,3901,natural gas,Marseille,1094.75
+273,2030,3901,biogas,Marseille,0.0
+274,2030,3901,electricity,Marseille,0.0
+275,2030,8001,hydrogen,Marseille,0.0
+276,2030,8001,gas,Marseille,0.0
+277,2030,8001,natural gas,Marseille,1094.75
+278,2030,8001,biogas,Marseille,0.0
+279,2030,8001,electricity,Marseille,0.0
+280,2030,3401,hydrogen,Marseille,0.0
+281,2030,3401,gas,Marseille,0.0
+282,2030,3401,natural gas,Marseille,1094.75
+283,2030,3401,biogas,Marseille,0.0
+284,2030,3401,electricity,Marseille,0.0
+285,2030,7501,hydrogen,Marseille,0.0
+286,2030,7501,gas,Marseille,0.0
+287,2030,7501,natural gas,Marseille,1094.75
+288,2030,7501,biogas,Marseille,0.0
+289,2030,7501,electricity,Marseille,0.0
+290,2030,2901,hydrogen,Marseille,0.0
+291,2030,2901,gas,Marseille,0.0
+292,2030,2901,natural gas,Marseille,1094.75
+293,2030,2901,biogas,Marseille,0.0
+294,2030,2901,electricity,Marseille,0.0
+295,2030,7001,hydrogen,Marseille,0.0
+296,2030,7001,gas,Marseille,0.0
+297,2030,7001,natural gas,Marseille,1094.75
+298,2030,7001,biogas,Marseille,0.0
+299,2030,7001,electricity,Marseille,0.0
+300,2030,2401,hydrogen,Marseille,0.0
+301,2030,2401,gas,Marseille,0.0
+302,2030,2401,natural gas,Marseille,1094.75
+303,2030,2401,biogas,Marseille,0.0
+304,2030,2401,electricity,Marseille,0.0
+305,2030,6501,hydrogen,Marseille,0.0
+306,2030,6501,gas,Marseille,0.0
+307,2030,6501,natural gas,Marseille,1094.75
+308,2030,6501,biogas,Marseille,0.0
+309,2030,6501,electricity,Marseille,0.0
+310,2030,1901,hydrogen,Marseille,0.0
+311,2030,1901,gas,Marseille,0.0
+312,2030,1901,natural gas,Marseille,1094.75
+313,2030,1901,biogas,Marseille,0.0
+314,2030,1901,electricity,Marseille,0.0
+315,2030,6001,hydrogen,Marseille,0.0
+316,2030,6001,gas,Marseille,0.0
+317,2030,6001,natural gas,Marseille,1094.75
+318,2030,6001,biogas,Marseille,0.0
+319,2030,6001,electricity,Marseille,0.0
+320,2030,1401,hydrogen,Marseille,0.0
+321,2030,1401,gas,Marseille,0.0
+322,2030,1401,natural gas,Marseille,1094.75
+323,2030,1401,biogas,Marseille,0.0
+324,2030,1401,electricity,Marseille,0.0
+325,2030,5501,hydrogen,Marseille,0.0
+326,2030,5501,gas,Marseille,0.0
+327,2030,5501,natural gas,Marseille,1094.75
+328,2030,5501,biogas,Marseille,0.0
+329,2030,5501,electricity,Marseille,0.0
+330,2030,901,hydrogen,Marseille,0.0
+331,2030,901,gas,Marseille,0.0
+332,2030,901,natural gas,Marseille,1094.75
+333,2030,901,biogas,Marseille,0.0
+334,2030,901,electricity,Marseille,0.0
+335,2030,5001,hydrogen,Marseille,0.0
+336,2030,5001,gas,Marseille,0.0
+337,2030,5001,natural gas,Marseille,1094.75
+338,2030,5001,biogas,Marseille,0.0
+339,2030,5001,electricity,Marseille,0.0
+340,2030,401,hydrogen,Marseille,0.0
+341,2030,401,gas,Marseille,0.0
+342,2030,401,natural gas,Marseille,1094.75
+343,2030,401,biogas,Marseille,0.0
+344,2030,401,electricity,Marseille,0.0
+345,2030,4501,hydrogen,Marseille,0.0
+346,2030,4501,gas,Marseille,0.0
+347,2030,4501,natural gas,Marseille,1094.75
+348,2030,4501,biogas,Marseille,0.0
+349,2030,4501,electricity,Marseille,0.0
+350,2030,8601,hydrogen,Marseille,0.0
+351,2030,8601,gas,Marseille,0.0
+352,2030,8601,natural gas,Marseille,1094.75
+353,2030,8601,biogas,Marseille,0.0
+354,2030,8601,electricity,Marseille,0.0
+355,2030,4001,hydrogen,Marseille,0.0
+356,2030,4001,gas,Marseille,0.0
+357,2030,4001,natural gas,Marseille,1094.75
+358,2030,4001,biogas,Marseille,0.0
+359,2030,4001,electricity,Marseille,0.0
+360,2030,8101,hydrogen,Marseille,0.0
+361,2030,8101,gas,Marseille,0.0
+362,2030,8101,natural gas,Marseille,1094.75
+363,2030,8101,biogas,Marseille,0.0
+364,2030,8101,electricity,Marseille,0.0
+365,2030,3501,hydrogen,Marseille,0.0
+366,2030,3501,gas,Marseille,0.0
+367,2030,3501,natural gas,Marseille,1094.75
+368,2030,3501,biogas,Marseille,0.0
+369,2030,3501,electricity,Marseille,0.0
+370,2030,7601,hydrogen,Marseille,0.0
+371,2030,7601,gas,Marseille,0.0
+372,2030,7601,natural gas,Marseille,1094.75
+373,2030,7601,biogas,Marseille,0.0
+374,2030,7601,electricity,Marseille,0.0
+375,2030,3001,hydrogen,Marseille,0.0
+376,2030,3001,gas,Marseille,0.0
+377,2030,3001,natural gas,Marseille,1094.75
+378,2030,3001,biogas,Marseille,0.0
+379,2030,3001,electricity,Marseille,0.0
+380,2030,7101,hydrogen,Marseille,0.0
+381,2030,7101,gas,Marseille,0.0
+382,2030,7101,natural gas,Marseille,1094.75
+383,2030,7101,biogas,Marseille,0.0
+384,2030,7101,electricity,Marseille,0.0
+385,2030,2501,hydrogen,Marseille,0.0
+386,2030,2501,gas,Marseille,0.0
+387,2030,2501,natural gas,Marseille,1094.75
+388,2030,2501,biogas,Marseille,0.0
+389,2030,2501,electricity,Marseille,0.0
+390,2030,6601,hydrogen,Marseille,0.0
+391,2030,6601,gas,Marseille,0.0
+392,2030,6601,natural gas,Marseille,1094.75
+393,2030,6601,biogas,Marseille,0.0
+394,2030,6601,electricity,Marseille,0.0
+395,2030,2001,hydrogen,Marseille,0.0
+396,2030,2001,gas,Marseille,0.0
+397,2030,2001,natural gas,Marseille,1094.75
+398,2030,2001,biogas,Marseille,0.0
+399,2030,2001,electricity,Marseille,0.0
+400,2030,6101,hydrogen,Marseille,0.0
+401,2030,6101,gas,Marseille,0.0
+402,2030,6101,natural gas,Marseille,1094.75
+403,2030,6101,biogas,Marseille,0.0
+404,2030,6101,electricity,Marseille,0.0
+405,2030,1501,hydrogen,Marseille,0.0
+406,2030,1501,gas,Marseille,0.0
+407,2030,1501,natural gas,Marseille,1094.75
+408,2030,1501,biogas,Marseille,0.0
+409,2030,1501,electricity,Marseille,0.0
+410,2030,5601,hydrogen,Marseille,0.0
+411,2030,5601,gas,Marseille,0.0
+412,2030,5601,natural gas,Marseille,1094.75
+413,2030,5601,biogas,Marseille,0.0
+414,2030,5601,electricity,Marseille,0.0
+415,2030,1001,hydrogen,Marseille,0.0
+416,2030,1001,gas,Marseille,0.0
+417,2030,1001,natural gas,Marseille,1094.75
+418,2030,1001,biogas,Marseille,0.0
+419,2030,1001,electricity,Marseille,0.0
+420,2030,5101,hydrogen,Marseille,0.0
+421,2030,5101,gas,Marseille,0.0
+422,2030,5101,natural gas,Marseille,1094.75
+423,2030,5101,biogas,Marseille,0.0
+424,2030,5101,electricity,Marseille,0.0
+425,2030,501,hydrogen,Marseille,0.0
+426,2030,501,gas,Marseille,0.0
+427,2030,501,natural gas,Marseille,1094.75
+428,2030,501,biogas,Marseille,0.0
+429,2030,501,electricity,Marseille,0.0
+430,2030,4601,hydrogen,Marseille,0.0
+431,2030,4601,gas,Marseille,0.0
+432,2030,4601,natural gas,Marseille,1094.75
+433,2030,4601,biogas,Marseille,0.0
+434,2030,4601,electricity,Marseille,0.0
+435,2030,8701,hydrogen,Marseille,0.0
+436,2030,8701,gas,Marseille,0.0
+437,2030,8701,natural gas,Marseille,1094.75
+438,2030,8701,biogas,Marseille,0.0
+439,2030,8701,electricity,Marseille,0.0

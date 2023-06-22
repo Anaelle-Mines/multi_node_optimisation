@@ -146,7 +146,8 @@ def plot_capacity(scenario,outputFolder='output/'):
     ax[0].set_title("Evolution of H2 production assets")
     ax[1].set_title("Evolution of local RE assets")
     # ax[2].set_title("Evolution of load factors")
-    plt.xticks(x, ['2010-2020','2020-2030','2030-2040', '2040-2050'])#['2010-2020','2020-2030','2030-2040', '2040-2050']'2050-2060'])
+    plt.xticks(x, ['2010-2020','2020-2030','2030-2040', '2040-2050'])
+    # plt.xticks(x, ['2020-2030'])
     # Shrink current axis by 20%
     box = ax[0].get_position()
     ax[0].set_position([box.x0, box.y0, box.width * 0.73, box.height*0.95])
@@ -176,8 +177,6 @@ def plot_capacity(scenario,outputFolder='output/'):
     for y in YEAR :
         for tech in TECHNO:
             loadFactors_df.loc[y,slice(None)][tech]=(Variables['power_Dvar'].set_index(['YEAR_op','TIMESTAMP','TECHNOLOGIES']).loc[(y,slice(None),tech),'power_Dvar']/(Variables['capacity_Pvar'].set_index(['YEAR_op','TECHNOLOGIES']).loc[(y,tech),'capacity_Pvar'])).reset_index().drop(columns=['TECHNOLOGIES','YEAR_op']).set_index('TIMESTAMP')['power_Dvar']
-
-    print(Variables['power_Dvar'].set_index(['YEAR_op','TIMESTAMP','TECHNOLOGIES']).loc[(y,slice(None),tech),'power_Dvar'])
 
     month=np.unique(TIMESTAMP//730+1)
 

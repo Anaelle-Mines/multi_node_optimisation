@@ -7,11 +7,9 @@ from scipy.interpolate import interp1d
 
 nHours = 8760
 
-timeStep = 100  # For now only integers work
+timeStep = 4  # For now only integers work
 t = np.arange(1, nHours + 1, timeStep)
 nHours = len(t)
-
-zones = ['PACA']
 
 yearZero = 2010
 yearFinal = 2050
@@ -19,7 +17,7 @@ yearStep = 10
 # +1 to include the final year
 yearList = [yr for yr in range(yearZero, yearFinal+yearStep, yearStep)]
 nYears = len(yearList)
-areaList = ["Marseille","Alpin"]
+areaList = ["Marseille"]
 
 
 scenarioPACA = {}
@@ -46,9 +44,9 @@ scenarioPACA['distances'] = scenarioPACA['distances'].reset_index().drop_duplica
 # donne la liste des couples de noeuds
 couples_noeuds = list(scenarioPACA['distances'].index)
 
+yearL=[2020,2030,2040,2050]
 
-#hourlyDemand_H2=[360,390,460,755]
-hourlyDemand_H2=interp1d(yearList[1:], [360 * (1 + 0.025) ** (k * yearStep) for k in np.arange(len(yearList[1:]))], fill_value=(360,755),bounds_error=False)
+hourlyDemand_H2=interp1d(yearL, [360 * (1 + 0.025) ** (k * yearStep) for k in np.arange(len(yearL))], fill_value=(360,755),bounds_error=False)
 
 
 def demande_h_area(area, year):
@@ -99,8 +97,8 @@ scenarioPACA['conversionTechs'] = []
 for area in areaList:
     for k, year in enumerate(yearList[:-1]):
         tech = "Offshore wind - floating"
-        maxcap = [0,50,50,50]
-        if area == "Alpin":
+        maxcap = [0,500,500,500]
+        if area != "Marseille":
             maxcap = [0,0,0,0]
 
         capex, opex, LifeSpan = tech_eco_data.get_capex_new_tech_RTE(
@@ -114,7 +112,6 @@ for area in areaList:
                                 'EnergyNbhourCap': 0,  # used for hydroelectricity
                                 'capacityLim': 1e3,  # capacité max d'une zone et d'une techno (MW)
                                 # puissance fonctionnelle maximale produite par une unité
-                                'techUnitPower': tech_eco_data.p_max_fonc[tech]
                                 }
                                }
                          )
@@ -122,7 +119,7 @@ for area in areaList:
 
 
         tech = "Onshore wind"
-        maxcap = [0,15,15,15]
+        maxcap = [0,100,100,100]
         if area == "Alpin":
             maxcap = [0,0,0,0]
         capex, opex, LifeSpan = tech_eco_data.get_capex_new_tech_RTE(
@@ -136,14 +133,14 @@ for area in areaList:
                                 'minCapacity': 0, 'maxCapacity': maxcap[k],
                                 'EmissionCO2': 0, 'Conversion': {'electricity': 1, 'hydrogen': 0},
                                 'EnergyNbhourCap': 0,  # used for hydroelectricity
-                                'capacityLim': 150, 'techUnitPower': tech_eco_data.p_max_fonc[tech]
+                                'capacityLim': 150
                                 },
                                }
                          )
         )
 
         tech = "Ground PV"
-        maxcap = [0,35,35,35]
+        maxcap = [0,100,100,100]
         if area == "Alpin":
             maxcap = [0,0,0,0]
         capex, opex, LifeSpan = tech_eco_data.get_capex_new_tech_RTE(
@@ -157,30 +154,30 @@ for area in areaList:
                                 'minCapacity': 0, 'maxCapacity': maxcap[k],
                                 'EmissionCO2': 0, 'Conversion': {'electricity': 1, 'hydrogen': 0},
                                 'EnergyNbhourCap': 0,  # used for hydroelectricity
-                                'capacityLim': 150, 'techUnitPower': tech_eco_data.p_max_fonc[tech]
+                                'capacityLim': 150
                                 },
                                }
                          )
         )
 
-        tech = "ElectrolysisS"
-        capex, opex, LifeSpan = tech_eco_data.get_capex_new_tech_RTE(
-            tech, hyp='ref', year=year+yearStep/2)
-        scenarioPACA['conversionTechs'].append(
-            pd.DataFrame(data={tech:
-                               {'AREA': area, 'YEAR': year, 'Category': 'Hydrogen production',
-                                'LifeSpan': LifeSpan, 'powerCost': 0, 'investCost': capex, 'operationCost': opex,
-                                'minCapacity': 0, 'maxCapacity': 500,  # cap à investir
-                                'EmissionCO2': 0, 'Conversion': {'electricity': -1 / tech_eco_data.conv_el_h, 'hydrogen': 1},
-                                'EnergyNbhourCap': 0,  # used for hydroelectricity
-                                'capacityLim': 10e3, 'techUnitPower': tech_eco_data.p_max_fonc[tech]
-                                },
-                               }
-                         )
-        )
+        # tech = "ElectrolysisS"
+        # capex, opex, LifeSpan = tech_eco_data.get_capex_new_tech_RTE(
+        #     tech, hyp='ref', year=year+yearStep/2)
+        # scenarioPACA['conversionTechs'].append(
+        #     pd.DataFrame(data={tech:
+        #                        {'AREA': area, 'YEAR': year, 'Category': 'Hydrogen production',
+        #                         'LifeSpan': LifeSpan, 'powerCost': 0, 'investCost': capex, 'operationCost': opex,
+        #                         'minCapacity': 0, 'maxCapacity': 500,  # cap à investir
+        #                         'EmissionCO2': 0, 'Conversion': {'electricity': -1 / tech_eco_data.conv_el_h, 'hydrogen': 1},
+        #                         'EnergyNbhourCap': 0,  # used for hydroelectricity
+        #                         'capacityLim': 10e3
+        #                         },
+        #                        }
+        #                  )
+        # )
 
         tech = "ElectrolysisM"
-        maxcap = [0,500,500,500]
+        maxcap = [0,1e4,1e4,1e4]
         if area == "Alpin":
             maxcap = [0,0,0,0]
         capex, opex, LifeSpan = tech_eco_data.get_capex_new_tech_RTE(
@@ -190,29 +187,29 @@ for area in areaList:
                                {'AREA': area, 'YEAR': year, 'Category': 'Hydrogen production',
                                 'LifeSpan': LifeSpan, 'powerCost': 0, 'investCost': capex, 'operationCost': opex,
                                 'minCapacity': 0, 'maxCapacity': maxcap[k],
-                                'EmissionCO2': 0, 'Conversion': {'electricity': -1 / tech_eco_data.conv_el_h, 'hydrogen': 1},
+                                'EmissionCO2': 0, 'Conversion': {'electricity': -1.54, 'hydrogen': 1},
                                 'EnergyNbhourCap': 0,  # used for hydroelectricity
-                                'capacityLim': 10e3, 'techUnitPower': tech_eco_data.p_max_fonc[tech]
+                                'capacityLim': 10e4
                                 },
                                }
                          )
         )
 
-        tech = "ElectrolysisL"
-        capex, opex, LifeSpan = tech_eco_data.get_capex_new_tech_RTE(
-            tech, hyp='ref', year=year+yearStep/2)
-        scenarioPACA['conversionTechs'].append(
-            pd.DataFrame(data={tech:
-                               {'AREA': area, 'YEAR': year, 'Category': 'Hydrogen production',
-                                'LifeSpan': LifeSpan, 'powerCost': 0, 'investCost': capex, 'operationCost': opex,
-                                'minCapacity': 0, 'maxCapacity': 500,
-                                'EmissionCO2': 0, 'Conversion': {'electricity': -1 / tech_eco_data.conv_el_h, 'hydrogen': 1},
-                                'EnergyNbhourCap': 0,  # used for hydroelectricity
-                                'capacityLim': 10e3, 'techUnitPower': tech_eco_data.p_max_fonc[tech]
-                                },
-                               }
-                         )
-        )
+        # tech = "ElectrolysisL"
+        # capex, opex, LifeSpan = tech_eco_data.get_capex_new_tech_RTE(
+        #     tech, hyp='ref', year=year+yearStep/2)
+        # scenarioPACA['conversionTechs'].append(
+        #     pd.DataFrame(data={tech:
+        #                        {'AREA': area, 'YEAR': year, 'Category': 'Hydrogen production',
+        #                         'LifeSpan': LifeSpan, 'powerCost': 0, 'investCost': capex, 'operationCost': opex,
+        #                         'minCapacity': 0, 'maxCapacity': 500,
+        #                         'EmissionCO2': 0, 'Conversion': {'electricity': -1 / tech_eco_data.conv_el_h, 'hydrogen': 1},
+        #                         'EnergyNbhourCap': 0,  # used for hydroelectricity
+        #                         'capacityLim': 10e3
+        #                         },
+        #                        }
+        #                  )
+        # )
 
         tech = "SMR"
         capex, opex, LifeSpan = 800e3, 40e3, 60
@@ -223,7 +220,7 @@ for area in areaList:
                                 'minCapacity': 0, 'maxCapacity': 100e3,
                                 'EmissionCO2': 0, 'Conversion': {'electricity': 0, 'hydrogen': 1, 'gas': -1.28},
                                 'EnergyNbhourCap': 0,  # used for hydroelectricity
-                                'capacityLim': 100e3, 'techUnitPower': 41,'RampConstraintPlus':0.3
+                                'capacityLim': 100e3,'RampConstraintPlus':0.3
                                 },
                                }
                          )
@@ -236,10 +233,10 @@ for area in areaList:
             pd.DataFrame(data={tech:
                                {'AREA': area, 'YEAR': year, 'Category': 'Hydrogen production',
                                 'LifeSpan': LifeSpan, 'powerCost': 0, 'investCost': capex, 'operationCost': opex,
-                                'minCapacity': 11 if (year == yearZero and area == 'Marseille') else 0, 'maxCapacity': 11 if (year == yearZero and area == 'Marseille') else 0,
+                                'minCapacity': 410 if (year == yearZero and area == 'Marseille') else 0, 'maxCapacity': 410 if (year == yearZero and area == 'Marseille') else 0,
                                 'EmissionCO2': 0, 'Conversion': {'electricity': 0, 'hydrogen': 1, 'gas': -1.28},
                                 'EnergyNbhourCap': 0,  # used for hydroelectricity
-                                'capacityLim': 410 if (area == 'Marseille') else 0, 'techUnitPower': 40,'RampConstraintPlus':0.3
+                                'capacityLim': 410 if (area == 'Marseille') else 0,'RampConstraintPlus':0.3
                                 },
                                }
                          )
@@ -254,7 +251,7 @@ for area in areaList:
                                 'minCapacity': 0, 'maxCapacity': 100e3,
                                 'EmissionCO2': -150, 'Conversion': {'electricity': 0, 'hydrogen': 1, 'gas': -1.32},
                                 'EnergyNbhourCap': 0,  # used for hydroelectricity
-                                'capacityLim': 100e3, 'techUnitPower': 40,'RampConstraintPlus':0.3
+                                'capacityLim': 100e3,'RampConstraintPlus':0.3
                                 },
                                }
                          )
@@ -269,7 +266,7 @@ for area in areaList:
                                 'minCapacity': 0, 'maxCapacity': 100e3,
                                 'EmissionCO2': -270, 'Conversion': {'electricity': 0, 'hydrogen': 1, 'gas': -1.45},
                                 'EnergyNbhourCap': 0,  # used for hydroelectricity
-                                'capacityLim': 100e3, 'techUnitPower': 40,'RampConstraintPlus':0.3
+                                'capacityLim': 100e3,'RampConstraintPlus':0.3
                                 },
                                }
                          )
@@ -281,7 +278,7 @@ for area in areaList:
             pd.DataFrame(data={tech:
                                {'AREA': area, 'YEAR': year, 'Category': 'Carbon capture',
                                 'LifeSpan': LifeSpan, 'powerCost': 0, 'investCost': capex,
-                                'operationCost': opex, 'capacityLim': 100e3, 'techUnitPower': 40},
+                                'operationCost': opex, 'capacityLim': 100e3},
                                }
                          )
         )
@@ -292,7 +289,7 @@ for area in areaList:
             pd.DataFrame(data={tech:
                                {'AREA': area, 'YEAR': year, 'Category': 'Carbon capture',
                                 'LifeSpan': LifeSpan, 'powerCost': 0, 'investCost': capex,
-                                'operationCost': opex, 'capacityLim': 100e3, 'techUnitPower': 40},
+                                'operationCost': opex, 'capacityLim': 100e3},
                                }
                          )
         )
@@ -303,7 +300,7 @@ for area in areaList:
             pd.DataFrame(data={tech:
                                {'AREA': area, 'YEAR': year, 'Category': 'Carbon capture',
                                 'LifeSpan': LifeSpan, 'powerCost': 3000, 'investCost': capex,
-                                'operationCost': opex, 'capacityLim': 100e3, 'techUnitPower': 100},
+                                'operationCost': opex, 'capacityLim': 100e3},
                                }
                          )
         )
@@ -404,7 +401,7 @@ for k, year in enumerate(yearList[:-1]):
                             'transportDischargeFactors': {'hydrogen': 5e-3},
                             'transportDissipation': 2e-5,
                             # puissance maximale de fonctionnement du pipeline (=débit max), fixée
-                            'transportUnitPower': tech_eco_data.p_max_fonc[ttech]
+                            'transportUnitPower': 1 #tech_eco_data.p_max_fonc[ttech]
                             }
                            }
                      )
@@ -423,7 +420,7 @@ for k, year in enumerate(yearList[:-1]):
                             'transportDischargeFactors': {'hydrogen': 5e-3},
                             'transportDissipation': 2e-5,
                             # puissance maximale de fonctionnement du pipeline (=débit max), fixée
-                            'transportUnitPower': tech_eco_data.p_max_fonc[ttech]
+                            'transportUnitPower':1 #tech_eco_data.p_max_fonc[ttech]
                             }
                            }
                      )
@@ -441,7 +438,7 @@ for k, year in enumerate(yearList[:-1]):
                             'transportChargeFactors': {'hydrogen': 5e-3},
                             'transportDischargeFactors': {'hydrogen': 5e-3},
                             'transportDissipation': 2e-5,
-                            'transportUnitPower': tech_eco_data.p_max_fonc[ttech]
+                            'transportUnitPower': 1 #tech_eco_data.p_max_fonc[ttech]
                             }
                            }
                      )
@@ -462,7 +459,7 @@ for k, year in enumerate(yearList[:-1]):
                             'transportChargeFactors': {'hydrogen': 0.1},
                             'transportDischargeFactors': {'hydrogen': 0.001},
                             'transportDissipation': 0.0,
-                            'transportUnitPower': tech_eco_data.p_max_fonc[ttech]
+                            'transportUnitPower': 1
                             }
                            }
                      )

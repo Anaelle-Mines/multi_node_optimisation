@@ -1,0 +1,2817 @@
+,YEAR_op,TIMESTAMP,TECHNOLOGIES,AREA,power_Dvar
+0,2040,1,Ground PV,Marseille,0.0
+1,2040,1,SMR + CCS1,Marseille,0.5131234869922991
+2,2040,1,Existing SMR,Marseille,0.0
+3,2040,1,Offshore wind - floating,Marseille,-0.0
+4,2040,1,ElectrolysisM,Marseille,671.9999999999993
+5,2040,1,SMR + CCS2,Marseille,-0.0
+6,2040,1,SMR,Marseille,0.0
+7,2040,1,Onshore wind,Marseille,78.99696
+8,2040,4101,Ground PV,Marseille,0.0
+9,2040,4101,SMR + CCS1,Marseille,280.0
+10,2040,4101,Existing SMR,Marseille,380.8926054869923
+11,2040,4101,Offshore wind - floating,Marseille,-0.0
+12,2040,4101,ElectrolysisM,Marseille,11.620518000000004
+13,2040,4101,SMR + CCS2,Marseille,-0.0
+14,2040,4101,SMR,Marseille,-0.0
+15,2040,4101,Onshore wind,Marseille,17.877720000000004
+16,2040,8201,Ground PV,Marseille,0.0
+17,2040,8201,SMR + CCS1,Marseille,280.0
+18,2040,8201,Existing SMR,Marseille,391.6859866244923
+19,2040,8201,Offshore wind - floating,Marseille,-0.0
+20,2040,8201,ElectrolysisM,Marseille,0.8271368625000004
+21,2040,8201,SMR + CCS2,Marseille,-0.0
+22,2040,8201,SMR,Marseille,-0.0
+23,2040,8201,Onshore wind,Marseille,1.27251825
+24,2040,3601,Ground PV,Marseille,0.0
+25,2040,3601,SMR + CCS1,Marseille,280.0
+26,2040,3601,Existing SMR,Marseille,309.07667948699225
+27,2040,3601,Offshore wind - floating,Marseille,-0.0
+28,2040,3601,ElectrolysisM,Marseille,83.43644400000002
+29,2040,3601,SMR + CCS2,Marseille,-0.0
+30,2040,3601,SMR,Marseille,-0.0
+31,2040,3601,Onshore wind,Marseille,128.36376
+32,2040,7701,Ground PV,Marseille,0.0
+33,2040,7701,SMR + CCS1,Marseille,280.0
+34,2040,7701,Existing SMR,Marseille,309.07667948699225
+35,2040,7701,Offshore wind - floating,Marseille,-0.0
+36,2040,7701,ElectrolysisM,Marseille,83.43644400000002
+37,2040,7701,SMR + CCS2,Marseille,-0.0
+38,2040,7701,SMR,Marseille,0.0
+39,2040,7701,Onshore wind,Marseille,128.36376
+40,2040,3101,Ground PV,Marseille,0.0
+41,2040,3101,SMR + CCS1,Marseille,0.5131234869925921
+42,2040,3101,Existing SMR,Marseille,0.0
+43,2040,3101,Offshore wind - floating,Marseille,-0.0
+44,2040,3101,ElectrolysisM,Marseille,671.9999999999997
+45,2040,3101,SMR + CCS2,Marseille,-0.0
+46,2040,3101,SMR,Marseille,0.0
+47,2040,3101,Onshore wind,Marseille,13.367797500000002
+48,2040,7201,Ground PV,Marseille,0.0
+49,2040,7201,SMR + CCS1,Marseille,0.513123486992251
+50,2040,7201,Existing SMR,Marseille,0.0
+51,2040,7201,Offshore wind - floating,Marseille,-0.0
+52,2040,7201,ElectrolysisM,Marseille,672.0
+53,2040,7201,SMR + CCS2,Marseille,-4.803079644036924e-14
+54,2040,7201,SMR,Marseille,0.0
+55,2040,7201,Onshore wind,Marseille,1.3704041999999999
+56,2040,2601,Ground PV,Marseille,0.029871118515
+57,2040,2601,SMR + CCS1,Marseille,280.0
+58,2040,2601,Existing SMR,Marseille,330.0918645099576
+59,2040,2601,Offshore wind - floating,Marseille,-0.0
+60,2040,2601,ElectrolysisM,Marseille,62.42125897703476
+61,2040,2601,SMR + CCS2,Marseille,-0.0
+62,2040,2601,SMR,Marseille,-0.0
+63,2040,2601,Onshore wind,Marseille,96.002835
+64,2040,6701,Ground PV,Marseille,0.0
+65,2040,6701,SMR + CCS1,Marseille,280.0
+66,2040,6701,Existing SMR,Marseille,390.9648927119923
+67,2040,6701,Offshore wind - floating,Marseille,-0.0
+68,2040,6701,ElectrolysisM,Marseille,1.5482307750000004
+69,2040,6701,SMR + CCS2,Marseille,-0.0
+70,2040,6701,SMR,Marseille,0.0
+71,2040,6701,Onshore wind,Marseille,2.3818935000000003
+72,2040,2101,Ground PV,Marseille,0.04462571064
+73,2040,2101,SMR + CCS1,Marseille,280.0
+74,2040,2101,Existing SMR,Marseille,391.9751094450763
+75,2040,2101,Offshore wind - floating,Marseille,-0.0
+76,2040,2101,ElectrolysisM,Marseille,0.5380140419160002
+77,2040,2101,SMR + CCS2,Marseille,-0.0
+78,2040,2101,SMR,Marseille,0.0
+79,2040,2101,Onshore wind,Marseille,0.7830882000000002
+80,2040,6201,Ground PV,Marseille,0.030627548490000003
+81,2040,6201,SMR + CCS1,Marseille,280.0
+82,2040,6201,Existing SMR,Marseille,341.61668208047377
+83,2040,6201,Offshore wind - floating,Marseille,-0.0
+84,2040,6201,ElectrolysisM,Marseille,50.89644140651852
+85,2040,6201,SMR + CCS2,Marseille,-0.0
+86,2040,6201,SMR,Marseille,-0.0
+87,2040,6201,Onshore wind,Marseille,78.27159000000002
+88,2040,1601,Ground PV,Marseille,0.041868695295
+89,2040,1601,SMR + CCS1,Marseille,0.5131234869922991
+90,2040,1601,Existing SMR,Marseille,0.0
+91,2040,1601,Offshore wind - floating,Marseille,-0.0
+92,2040,1601,ElectrolysisM,Marseille,672.0
+93,2040,1601,SMR + CCS2,Marseille,-0.0
+94,2040,1601,SMR,Marseille,0.0
+95,2040,1601,Onshore wind,Marseille,78.27159000000002
+96,2040,5701,Ground PV,Marseille,0.07228618183499999
+97,2040,5701,SMR + CCS1,Marseille,0.5131234869922991
+98,2040,5701,Existing SMR,Marseille,0.0
+99,2040,5701,Offshore wind - floating,Marseille,-0.0
+100,2040,5701,ElectrolysisM,Marseille,672.0
+101,2040,5701,SMR + CCS2,Marseille,-0.0
+102,2040,5701,SMR,Marseille,0.0
+103,2040,5701,Onshore wind,Marseille,52.956315000000004
+104,2040,1101,Ground PV,Marseille,0.0
+105,2040,1101,SMR + CCS1,Marseille,280.0
+106,2040,1101,Existing SMR,Marseille,309.07667948699225
+107,2040,1101,Offshore wind - floating,Marseille,-0.0
+108,2040,1101,ElectrolysisM,Marseille,83.43644400000002
+109,2040,1101,SMR + CCS2,Marseille,-0.0
+110,2040,1101,SMR,Marseille,0.0
+111,2040,1101,Onshore wind,Marseille,128.36376
+112,2040,5201,Ground PV,Marseille,0.037802973285
+113,2040,5201,SMR + CCS1,Marseille,0.5131234869919714
+114,2040,5201,Existing SMR,Marseille,0.0
+115,2040,5201,Offshore wind - floating,Marseille,-0.0
+116,2040,5201,ElectrolysisM,Marseille,671.9999999999999
+117,2040,5201,SMR + CCS2,Marseille,-0.0
+118,2040,5201,SMR,Marseille,0.0
+119,2040,5201,Onshore wind,Marseille,18.331395000000004
+120,2040,601,Ground PV,Marseille,0.0
+121,2040,601,SMR + CCS1,Marseille,280.0
+122,2040,601,Existing SMR,Marseille,365.65348223699226
+123,2040,601,Offshore wind - floating,Marseille,-0.0
+124,2040,601,ElectrolysisM,Marseille,26.859641250000013
+125,2040,601,SMR + CCS2,Marseille,-0.0
+126,2040,601,SMR,Marseille,-0.0
+127,2040,601,Onshore wind,Marseille,41.322525000000006
+128,2040,4701,Ground PV,Marseille,0.0
+129,2040,4701,SMR + CCS1,Marseille,280.0
+130,2040,4701,Existing SMR,Marseille,358.80481898699236
+131,2040,4701,Offshore wind - floating,Marseille,-0.0
+132,2040,4701,ElectrolysisM,Marseille,33.708304500000004
+133,2040,4701,SMR + CCS2,Marseille,-0.0
+134,2040,4701,SMR,Marseille,0.0
+135,2040,4701,Onshore wind,Marseille,51.85893
+136,2040,101,Ground PV,Marseille,0.0
+137,2040,101,SMR + CCS1,Marseille,280.0
+138,2040,101,Existing SMR,Marseille,338.2731519869923
+139,2040,101,Offshore wind - floating,Marseille,-0.0
+140,2040,101,ElectrolysisM,Marseille,54.23997150000001
+141,2040,101,SMR + CCS2,Marseille,-0.0
+142,2040,101,SMR,Marseille,-0.0
+143,2040,101,Onshore wind,Marseille,83.44611
+144,2040,4201,Ground PV,Marseille,0.0
+145,2040,4201,SMR + CCS1,Marseille,280.0
+146,2040,4201,Existing SMR,Marseille,309.07667948699236
+147,2040,4201,Offshore wind - floating,Marseille,-0.0
+148,2040,4201,ElectrolysisM,Marseille,83.43644400000002
+149,2040,4201,SMR + CCS2,Marseille,-0.0
+150,2040,4201,SMR,Marseille,0.0
+151,2040,4201,Onshore wind,Marseille,128.36376
+152,2040,8301,Ground PV,Marseille,0.0
+153,2040,8301,SMR + CCS1,Marseille,280.0
+154,2040,8301,Existing SMR,Marseille,391.3466481119923
+155,2040,8301,Offshore wind - floating,Marseille,-0.0
+156,2040,8301,ElectrolysisM,Marseille,1.1664753750000005
+157,2040,8301,SMR + CCS2,Marseille,-0.0
+158,2040,8301,SMR,Marseille,-0.0
+159,2040,8301,Onshore wind,Marseille,1.7945775000000004
+160,2040,3701,Ground PV,Marseille,0.0
+161,2040,3701,SMR + CCS1,Marseille,0.5131234869922628
+162,2040,3701,Existing SMR,Marseille,0.0
+163,2040,3701,Offshore wind - floating,Marseille,-0.0
+164,2040,3701,ElectrolysisM,Marseille,672.0
+165,2040,3701,SMR + CCS2,Marseille,-0.0
+166,2040,3701,SMR,Marseille,0.0
+167,2040,3701,Onshore wind,Marseille,8.544429000000001
+168,2040,7801,Ground PV,Marseille,0.0
+169,2040,7801,SMR + CCS1,Marseille,280.0
+170,2040,7801,Existing SMR,Marseille,347.90792648699227
+171,2040,7801,Offshore wind - floating,Marseille,-0.0
+172,2040,7801,ElectrolysisM,Marseille,44.60519700000001
+173,2040,7801,SMR + CCS2,Marseille,-0.0
+174,2040,7801,SMR,Marseille,-0.0
+175,2040,7801,Onshore wind,Marseille,68.62338000000001
+176,2040,3201,Ground PV,Marseille,0.03940545966
+177,2040,3201,SMR + CCS1,Marseille,280.0
+178,2040,3201,Existing SMR,Marseille,392.25421496071334
+179,2040,3201,Offshore wind - floating,Marseille,-0.0
+180,2040,3201,ElectrolysisM,Marseille,0.2589085262790001
+181,2040,3201,SMR + CCS2,Marseille,-0.0
+182,2040,3201,SMR,Marseille,0.0
+183,2040,3201,Onshore wind,Marseille,0.35891535
+184,2040,7301,Ground PV,Marseille,0.0
+185,2040,7301,SMR + CCS1,Marseille,280.0
+186,2040,7301,Existing SMR,Marseille,390.94368451199233
+187,2040,7301,Offshore wind - floating,Marseille,-0.0
+188,2040,7301,ElectrolysisM,Marseille,1.5694389750000002
+189,2040,7301,SMR + CCS2,Marseille,-0.0
+190,2040,7301,SMR,Marseille,-0.0
+191,2040,7301,Onshore wind,Marseille,2.4145215
+192,2040,2701,Ground PV,Marseille,0.06409677015
+193,2040,2701,SMR + CCS1,Marseille,0.5131234869922991
+194,2040,2701,Existing SMR,Marseille,0.0
+195,2040,2701,Offshore wind - floating,Marseille,-0.0
+196,2040,2701,ElectrolysisM,Marseille,672.0000000000002
+197,2040,2701,SMR + CCS2,Marseille,-0.0
+198,2040,2701,SMR,Marseille,0.0
+199,2040,2701,Onshore wind,Marseille,2.4145215
+200,2040,6801,Ground PV,Marseille,0.027582880815000002
+201,2040,6801,SMR + CCS1,Marseille,280.0
+202,2040,6801,Existing SMR,Marseille,325.31567636446255
+203,2040,6801,Offshore wind - floating,Marseille,-0.0
+204,2040,6801,ElectrolysisM,Marseille,67.19744712252978
+205,2040,6801,SMR + CCS2,Marseille,-0.0
+206,2040,6801,SMR,Marseille,0.0
+207,2040,6801,Onshore wind,Marseille,103.35310500000003
+208,2040,2201,Ground PV,Marseille,0.032962064415
+209,2040,2201,SMR + CCS1,Marseille,0.5131234869921855
+210,2040,2201,Existing SMR,Marseille,0.0
+211,2040,2201,Offshore wind - floating,Marseille,-0.0
+212,2040,2201,ElectrolysisM,Marseille,672.0
+213,2040,2201,SMR + CCS2,Marseille,0.0
+214,2040,2201,SMR,Marseille,0.0
+215,2040,2201,Onshore wind,Marseille,111.45682500000002
+216,2040,6301,Ground PV,Marseille,0.07070174664000001
+217,2040,6301,SMR + CCS1,Marseille,0.5131234869922991
+218,2040,6301,Existing SMR,Marseille,0.0
+219,2040,6301,Offshore wind - floating,Marseille,-0.0
+220,2040,6301,ElectrolysisM,Marseille,671.9999999999994
+221,2040,6301,SMR + CCS2,Marseille,-0.0
+222,2040,6301,SMR,Marseille,0.0
+223,2040,6301,Onshore wind,Marseille,12.920863500000003
+224,2040,1701,Ground PV,Marseille,0.0
+225,2040,1701,SMR + CCS1,Marseille,280.0
+226,2040,1701,Existing SMR,Marseille,325.8662379869923
+227,2040,1701,Offshore wind - floating,Marseille,-0.0
+228,2040,1701,ElectrolysisM,Marseille,66.64688550000001
+229,2040,1701,SMR + CCS2,Marseille,-0.0
+230,2040,1701,SMR,Marseille,0.0
+231,2040,1701,Onshore wind,Marseille,102.53367000000001
+232,2040,5801,Ground PV,Marseille,0.032217152415000005
+233,2040,5801,SMR + CCS1,Marseille,0.5131234869922991
+234,2040,5801,Existing SMR,Marseille,0.0
+235,2040,5801,Offshore wind - floating,Marseille,-0.0
+236,2040,5801,ElectrolysisM,Marseille,672.0
+237,2040,5801,SMR + CCS2,Marseille,-0.0
+238,2040,5801,SMR,Marseille,0.0
+239,2040,5801,Onshore wind,Marseille,22.875795000000004
+240,2040,1201,Ground PV,Marseille,0.0
+241,2040,1201,SMR + CCS1,Marseille,280.0
+242,2040,1201,Existing SMR,Marseille,362.6216709869923
+243,2040,1201,Offshore wind - floating,Marseille,-0.0
+244,2040,1201,ElectrolysisM,Marseille,29.8914525
+245,2040,1201,SMR + CCS2,Marseille,-0.0
+246,2040,1201,SMR,Marseille,-0.0
+247,2040,1201,Onshore wind,Marseille,45.98685000000001
+248,2040,5301,Ground PV,Marseille,0.0
+249,2040,5301,SMR + CCS1,Marseille,0.5131234869929813
+250,2040,5301,Existing SMR,Marseille,0.0
+251,2040,5301,Offshore wind - floating,Marseille,-0.0
+252,2040,5301,ElectrolysisM,Marseille,671.9999999999997
+253,2040,5301,SMR + CCS2,Marseille,-0.0
+254,2040,5301,SMR,Marseille,0.0
+255,2040,5301,Onshore wind,Marseille,128.36376
+256,2040,701,Ground PV,Marseille,0.0
+257,2040,701,SMR + CCS1,Marseille,0.513123486992251
+258,2040,701,Existing SMR,Marseille,0.0
+259,2040,701,Offshore wind - floating,Marseille,-0.0
+260,2040,701,ElectrolysisM,Marseille,672.0
+261,2040,701,SMR + CCS2,Marseille,-4.803079644036924e-14
+262,2040,701,SMR,Marseille,0.0
+263,2040,701,Onshore wind,Marseille,90.40183500000002
+264,2040,4801,Ground PV,Marseille,0.0
+265,2040,4801,SMR + CCS1,Marseille,0.5131234869923648
+266,2040,4801,Existing SMR,Marseille,0.0
+267,2040,4801,Offshore wind - floating,Marseille,-0.0
+268,2040,4801,ElectrolysisM,Marseille,671.9999999999999
+269,2040,4801,SMR + CCS2,Marseille,-0.0
+270,2040,4801,SMR,Marseille,0.0
+271,2040,4801,Onshore wind,Marseille,0.7830882000000002
+272,2040,201,Ground PV,Marseille,0.0017148630450000003
+273,2040,201,SMR + CCS1,Marseille,280.0
+274,2040,201,Existing SMR,Marseille,391.79091520601304
+275,2040,201,Offshore wind - floating,Marseille,-0.0
+276,2040,201,ElectrolysisM,Marseille,0.72220828097925
+277,2040,201,SMR + CCS2,Marseille,-0.0
+278,2040,201,SMR,Marseille,-0.0
+279,2040,201,Onshore wind,Marseille,1.1093748
+280,2040,4301,Ground PV,Marseille,0.0
+281,2040,4301,SMR + CCS1,Marseille,0.513123486992251
+282,2040,4301,Existing SMR,Marseille,0.0
+283,2040,4301,Offshore wind - floating,Marseille,-0.0
+284,2040,4301,ElectrolysisM,Marseille,672.0
+285,2040,4301,SMR + CCS2,Marseille,-4.803079644036924e-14
+286,2040,4301,SMR,Marseille,0.0
+287,2040,4301,Onshore wind,Marseille,112.24887000000003
+288,2040,8401,Ground PV,Marseille,0.0
+289,2040,8401,SMR + CCS1,Marseille,0.5131234869922991
+290,2040,8401,Existing SMR,Marseille,0.0
+291,2040,8401,Offshore wind - floating,Marseille,-0.0
+292,2040,8401,ElectrolysisM,Marseille,672.0
+293,2040,8401,SMR + CCS2,Marseille,-0.0
+294,2040,8401,SMR,Marseille,0.0
+295,2040,8401,Onshore wind,Marseille,25.146570000000004
+296,2040,3801,Ground PV,Marseille,0.024497789190000004
+297,2040,3801,SMR + CCS1,Marseille,0.5131234869922991
+298,2040,3801,Existing SMR,Marseille,0.0
+299,2040,3801,Offshore wind - floating,Marseille,-0.0
+300,2040,3801,ElectrolysisM,Marseille,672.0
+301,2040,3801,SMR + CCS2,Marseille,-0.0
+302,2040,3801,SMR,Marseille,0.0
+303,2040,3801,Onshore wind,Marseille,33.43000500000001
+304,2040,7901,Ground PV,Marseille,0.0
+305,2040,7901,SMR + CCS1,Marseille,280.0
+306,2040,7901,Existing SMR,Marseille,334.77358448699226
+307,2040,7901,Offshore wind - floating,Marseille,-0.0
+308,2040,7901,ElectrolysisM,Marseille,57.739539000000015
+309,2040,7901,SMR + CCS2,Marseille,-0.0
+310,2040,7901,SMR,Marseille,-0.0
+311,2040,7901,Onshore wind,Marseille,88.83006000000002
+312,2040,3301,Ground PV,Marseille,0.012190920105000001
+313,2040,3301,SMR + CCS1,Marseille,0.5131234869922991
+314,2040,3301,Existing SMR,Marseille,0.0
+315,2040,3301,Offshore wind - floating,Marseille,-0.0
+316,2040,3301,ElectrolysisM,Marseille,672.0
+317,2040,3301,SMR + CCS2,Marseille,-0.0
+318,2040,3301,SMR,Marseille,0.0
+319,2040,3301,Onshore wind,Marseille,128.36376
+320,2040,7401,Ground PV,Marseille,0.016277725065
+321,2040,7401,SMR + CCS1,Marseille,280.0
+322,2040,7401,Existing SMR,Marseille,309.0660989657
+323,2040,7401,Offshore wind - floating,Marseille,-0.0
+324,2040,7401,ElectrolysisM,Marseille,83.44702452129228
+325,2040,7401,SMR + CCS2,Marseille,-0.0
+326,2040,7401,SMR,Marseille,0.0
+327,2040,7401,Onshore wind,Marseille,128.36376
+328,2040,2801,Ground PV,Marseille,0.025518648225
+329,2040,2801,SMR + CCS1,Marseille,0.5131234869922991
+330,2040,2801,Existing SMR,Marseille,0.0
+331,2040,2801,Offshore wind - floating,Marseille,-0.0
+332,2040,2801,ElectrolysisM,Marseille,671.9999999999997
+333,2040,2801,SMR + CCS2,Marseille,-0.0
+334,2040,2801,SMR,Marseille,0.0
+335,2040,2801,Onshore wind,Marseille,69.28218
+336,2040,6901,Ground PV,Marseille,0.022938547379999997
+337,2040,6901,SMR + CCS1,Marseille,280.0
+338,2040,6901,Existing SMR,Marseille,384.96671283119525
+339,2040,6901,Offshore wind - floating,Marseille,-0.0
+340,2040,6901,ElectrolysisM,Marseille,7.546410655797003
+341,2040,6901,SMR + CCS2,Marseille,-0.0
+342,2040,6901,SMR,Marseille,-0.0
+343,2040,6901,Onshore wind,Marseille,11.586924
+344,2040,2301,Ground PV,Marseille,0.0
+345,2040,2301,SMR + CCS1,Marseille,280.0
+346,2040,2301,Existing SMR,Marseille,309.07667948699236
+347,2040,2301,Offshore wind - floating,Marseille,-0.0
+348,2040,2301,ElectrolysisM,Marseille,83.43644400000002
+349,2040,2301,SMR + CCS2,Marseille,-0.0
+350,2040,2301,SMR,Marseille,0.0
+351,2040,2301,Onshore wind,Marseille,128.36376
+352,2040,6401,Ground PV,Marseille,0.03349301508
+353,2040,6401,SMR + CCS1,Marseille,0.5131234869922991
+354,2040,6401,Existing SMR,Marseille,0.0
+355,2040,6401,Offshore wind - floating,Marseille,-0.0
+356,2040,6401,ElectrolysisM,Marseille,672.0000000000005
+357,2040,6401,SMR + CCS2,Marseille,-0.0
+358,2040,6401,SMR,Marseille,0.0
+359,2040,6401,Onshore wind,Marseille,16.971315
+360,2040,1801,Ground PV,Marseille,0.0
+361,2040,1801,SMR + CCS1,Marseille,280.0
+362,2040,1801,Existing SMR,Marseille,309.07667948699236
+363,2040,1801,Offshore wind - floating,Marseille,-0.0
+364,2040,1801,ElectrolysisM,Marseille,83.43644400000002
+365,2040,1801,SMR + CCS2,Marseille,-0.0
+366,2040,1801,SMR,Marseille,-0.0
+367,2040,1801,Onshore wind,Marseille,128.36376
+368,2040,5901,Ground PV,Marseille,0.0
+369,2040,5901,SMR + CCS1,Marseille,280.0
+370,2040,5901,Existing SMR,Marseille,391.7708211794923
+371,2040,5901,Offshore wind - floating,Marseille,-0.0
+372,2040,5901,ElectrolysisM,Marseille,0.7423023074999999
+373,2040,5901,SMR + CCS2,Marseille,-0.0
+374,2040,5901,SMR,Marseille,-0.0
+375,2040,5901,Onshore wind,Marseille,1.14200355
+376,2040,1301,Ground PV,Marseille,0.0
+377,2040,1301,SMR + CCS1,Marseille,280.0
+378,2040,1301,Existing SMR,Marseille,309.07667948699225
+379,2040,1301,Offshore wind - floating,Marseille,-0.0
+380,2040,1301,ElectrolysisM,Marseille,83.43644400000002
+381,2040,1301,SMR + CCS2,Marseille,-0.0
+382,2040,1301,SMR,Marseille,-0.0
+383,2040,1301,Onshore wind,Marseille,128.36376
+384,2040,5401,Ground PV,Marseille,0.0
+385,2040,5401,SMR + CCS1,Marseille,280.0
+386,2040,5401,Existing SMR,Marseille,309.07667948699236
+387,2040,5401,Offshore wind - floating,Marseille,-0.0
+388,2040,5401,ElectrolysisM,Marseille,83.43644400000002
+389,2040,5401,SMR + CCS2,Marseille,-0.0
+390,2040,5401,SMR,Marseille,0.0
+391,2040,5401,Onshore wind,Marseille,128.36376
+392,2040,801,Ground PV,Marseille,0.00623410389
+393,2040,801,SMR + CCS1,Marseille,280.0
+394,2040,801,Existing SMR,Marseille,309.0726273194638
+395,2040,801,Offshore wind - floating,Marseille,-0.0
+396,2040,801,ElectrolysisM,Marseille,83.44049616752851
+397,2040,801,SMR + CCS2,Marseille,-0.0
+398,2040,801,SMR,Marseille,-0.0
+399,2040,801,Onshore wind,Marseille,128.36376
+400,2040,4901,Ground PV,Marseille,0.0
+401,2040,4901,SMR + CCS1,Marseille,280.0
+402,2040,4901,Existing SMR,Marseille,391.4951084369922
+403,2040,4901,Offshore wind - floating,Marseille,-0.0
+404,2040,4901,ElectrolysisM,Marseille,1.01801505
+405,2040,4901,SMR + CCS2,Marseille,-0.0
+406,2040,4901,SMR,Marseille,-0.0
+407,2040,4901,Onshore wind,Marseille,1.566177
+408,2040,301,Ground PV,Marseille,0.006530745900000001
+409,2040,301,SMR + CCS1,Marseille,280.0
+410,2040,301,Existing SMR,Marseille,390.47456342715736
+411,2040,301,Offshore wind - floating,Marseille,-0.0
+412,2040,301,ElectrolysisM,Marseille,2.0385600598350004
+413,2040,301,SMR + CCS2,Marseille,-0.0
+414,2040,301,SMR,Marseille,-0.0
+415,2040,301,Onshore wind,Marseille,3.1297155000000005
+416,2040,4401,Ground PV,Marseille,0.01758446382
+417,2040,4401,SMR + CCS1,Marseille,280.0
+418,2040,4401,Existing SMR,Marseille,389.25535503550935
+419,2040,4401,Offshore wind - floating,Marseille,-0.0
+420,2040,4401,ElectrolysisM,Marseille,3.2577684514830003
+421,2040,4401,SMR + CCS2,Marseille,-0.0
+422,2040,4401,SMR,Marseille,-0.0
+423,2040,4401,Onshore wind,Marseille,4.9943670000000004
+424,2040,8501,Ground PV,Marseille,0.0
+425,2040,8501,SMR + CCS1,Marseille,0.5131234869928676
+426,2040,8501,Existing SMR,Marseille,0.0
+427,2040,8501,Offshore wind - floating,Marseille,-0.0
+428,2040,8501,ElectrolysisM,Marseille,671.9999999999994
+429,2040,8501,SMR + CCS2,Marseille,-0.0
+430,2040,8501,SMR,Marseille,0.0
+431,2040,8501,Onshore wind,Marseille,39.798465
+432,2040,3901,Ground PV,Marseille,0.071052417135
+433,2040,3901,SMR + CCS1,Marseille,0.5131234869922991
+434,2040,3901,Existing SMR,Marseille,0.0
+435,2040,3901,Offshore wind - floating,Marseille,-0.0
+436,2040,3901,ElectrolysisM,Marseille,672.0
+437,2040,3901,SMR + CCS2,Marseille,-0.0
+438,2040,3901,SMR,Marseille,0.0
+439,2040,3901,Onshore wind,Marseille,2.2513785000000004
+440,2040,8001,Ground PV,Marseille,0.0033344326049999998
+441,2040,8001,SMR + CCS1,Marseille,280.0
+442,2040,8001,Existing SMR,Marseille,309.07451210580007
+443,2040,8001,Offshore wind - floating,Marseille,-0.0
+444,2040,8001,ElectrolysisM,Marseille,83.43861138119325
+445,2040,8001,SMR + CCS2,Marseille,-0.0
+446,2040,8001,SMR,Marseille,0.0
+447,2040,8001,Onshore wind,Marseille,128.36376
+448,2040,3401,Ground PV,Marseille,0.037641416295
+449,2040,3401,SMR + CCS1,Marseille,0.51312348699245
+450,2040,3401,Existing SMR,Marseille,0.0
+451,2040,3401,Offshore wind - floating,Marseille,-0.0
+452,2040,3401,ElectrolysisM,Marseille,671.9999999999998
+453,2040,3401,SMR + CCS2,Marseille,-0.0
+454,2040,3401,SMR,Marseille,0.0
+455,2040,3401,Onshore wind,Marseille,128.36376
+456,2040,7501,Ground PV,Marseille,0.06767511177
+457,2040,7501,SMR + CCS1,Marseille,0.513123486992251
+458,2040,7501,Existing SMR,Marseille,0.0
+459,2040,7501,Offshore wind - floating,Marseille,-0.0
+460,2040,7501,ElectrolysisM,Marseille,672.0
+461,2040,7501,SMR + CCS2,Marseille,-4.803079644036924e-14
+462,2040,7501,SMR,Marseille,0.0
+463,2040,7501,Onshore wind,Marseille,128.36376
+464,2040,2901,Ground PV,Marseille,0.0
+465,2040,2901,SMR + CCS1,Marseille,280.0
+466,2040,2901,Existing SMR,Marseille,382.06981073699325
+467,2040,2901,Offshore wind - floating,Marseille,-0.0
+468,2040,2901,ElectrolysisM,Marseille,10.443312750000002
+469,2040,2901,SMR + CCS2,Marseille,-0.0
+470,2040,2901,SMR,Marseille,0.0
+471,2040,2901,Onshore wind,Marseille,16.066635
+472,2040,7001,Ground PV,Marseille,0.029609413260000002
+473,2040,7001,SMR + CCS1,Marseille,0.5131234869924128
+474,2040,7001,Existing SMR,Marseille,0.0
+475,2040,7001,Offshore wind - floating,Marseille,-0.0
+476,2040,7001,ElectrolysisM,Marseille,671.9999999999999
+477,2040,7001,SMR + CCS2,Marseille,-0.0
+478,2040,7001,SMR,Marseille,0.0
+479,2040,7001,Onshore wind,Marseille,125.49451500000004
+480,2040,2401,Ground PV,Marseille,0.0
+481,2040,2401,SMR + CCS1,Marseille,0.5131234869924128
+482,2040,2401,Existing SMR,Marseille,0.0
+483,2040,2401,Offshore wind - floating,Marseille,-0.0
+484,2040,2401,ElectrolysisM,Marseille,671.9999999999999
+485,2040,2401,SMR + CCS2,Marseille,0.0
+486,2040,2401,SMR,Marseille,0.0
+487,2040,2401,Onshore wind,Marseille,2.773437
+488,2040,6501,Ground PV,Marseille,0.0
+489,2040,6501,SMR + CCS1,Marseille,280.0
+490,2040,6501,Existing SMR,Marseille,309.07667948699236
+491,2040,6501,Offshore wind - floating,Marseille,-0.0
+492,2040,6501,ElectrolysisM,Marseille,83.43644400000002
+493,2040,6501,SMR + CCS2,Marseille,-0.0
+494,2040,6501,SMR,Marseille,0.0
+495,2040,6501,Onshore wind,Marseille,128.36376
+496,2040,1901,Ground PV,Marseille,0.0
+497,2040,1901,SMR + CCS1,Marseille,280.0
+498,2040,1901,Existing SMR,Marseille,317.03691098699227
+499,2040,1901,Offshore wind - floating,Marseille,-0.0
+500,2040,1901,ElectrolysisM,Marseille,75.47621250000002
+501,2040,1901,SMR + CCS2,Marseille,-0.0
+502,2040,1901,SMR,Marseille,0.0
+503,2040,1901,Onshore wind,Marseille,116.11725000000001
+504,2040,6001,Ground PV,Marseille,0.0
+505,2040,6001,SMR + CCS1,Marseille,280.0
+506,2040,6001,Existing SMR,Marseille,389.4929556869923
+507,2040,6001,Offshore wind - floating,Marseille,-0.0
+508,2040,6001,ElectrolysisM,Marseille,3.0201678000000007
+509,2040,6001,SMR + CCS2,Marseille,-0.0
+510,2040,6001,SMR,Marseille,-0.0
+511,2040,6001,Onshore wind,Marseille,4.646412000000001
+512,2040,1401,Ground PV,Marseille,0.015036127995
+513,2040,1401,SMR + CCS1,Marseille,280.0
+514,2040,1401,Existing SMR,Marseille,358.0817452537956
+515,2040,1401,Offshore wind - floating,Marseille,-0.0
+516,2040,1401,ElectrolysisM,Marseille,34.43137823319676
+517,2040,1401,SMR + CCS2,Marseille,-0.0
+518,2040,1401,SMR,Marseille,-0.0
+519,2040,1401,Onshore wind,Marseille,52.956315000000004
+520,2040,5501,Ground PV,Marseille,0.0
+521,2040,5501,SMR + CCS1,Marseille,0.6403753194923638
+522,2040,5501,Existing SMR,Marseille,0.0
+523,2040,5501,Offshore wind - floating,Marseille,-0.0
+524,2040,5501,ElectrolysisM,Marseille,671.8727481674999
+525,2040,5501,SMR + CCS2,Marseille,-0.0
+526,2040,5501,SMR,Marseille,0.0
+527,2040,5501,Onshore wind,Marseille,0.58731615
+528,2040,901,Ground PV,Marseille,0.07359011782500001
+529,2040,901,SMR + CCS1,Marseille,280.0
+530,2040,901,Existing SMR,Marseille,309.02884591040606
+531,2040,901,Offshore wind - floating,Marseille,-0.0
+532,2040,901,ElectrolysisM,Marseille,83.48427757658627
+533,2040,901,SMR + CCS2,Marseille,-0.0
+534,2040,901,SMR,Marseille,0.0
+535,2040,901,Onshore wind,Marseille,128.36376
+536,2040,5001,Ground PV,Marseille,0.03280477074
+537,2040,5001,SMR + CCS1,Marseille,280.0
+538,2040,5001,Existing SMR,Marseille,309.05535638601134
+539,2040,5001,Offshore wind - floating,Marseille,-0.0
+540,2040,5001,ElectrolysisM,Marseille,83.45776710098102
+541,2040,5001,SMR + CCS2,Marseille,-0.0
+542,2040,5001,SMR,Marseille,-0.0
+543,2040,5001,Onshore wind,Marseille,128.36376
+544,2040,401,Ground PV,Marseille,0.051575677545
+545,2040,401,SMR + CCS1,Marseille,280.0
+546,2040,401,Existing SMR,Marseille,309.043155296588
+547,2040,401,Offshore wind - floating,Marseille,-0.0
+548,2040,401,ElectrolysisM,Marseille,83.46996819040427
+549,2040,401,SMR + CCS2,Marseille,-0.0
+550,2040,401,SMR,Marseille,-0.0
+551,2040,401,Onshore wind,Marseille,128.36376
+552,2040,4501,Ground PV,Marseille,0.06930974809500001
+553,2040,4501,SMR + CCS1,Marseille,0.5131234869918444
+554,2040,4501,Existing SMR,Marseille,0.0
+555,2040,4501,Offshore wind - floating,Marseille,-0.0
+556,2040,4501,ElectrolysisM,Marseille,672.0000000000001
+557,2040,4501,SMR + CCS2,Marseille,-0.0
+558,2040,4501,SMR,Marseille,0.0
+559,2040,4501,Onshore wind,Marseille,20.603055
+560,2040,8601,Ground PV,Marseille,0.00011754687
+561,2040,8601,SMR + CCS1,Marseille,280.0
+562,2040,8601,Existing SMR,Marseille,309.07660308152686
+563,2040,8601,Offshore wind - floating,Marseille,-0.0
+564,2040,8601,ElectrolysisM,Marseille,83.43652040546552
+565,2040,8601,SMR + CCS2,Marseille,-0.0
+566,2040,8601,SMR,Marseille,-0.0
+567,2040,8601,Onshore wind,Marseille,128.36376
+568,2040,4001,Ground PV,Marseille,0.036830651025
+569,2040,4001,SMR + CCS1,Marseille,0.5131234869921855
+570,2040,4001,Existing SMR,Marseille,0.0
+571,2040,4001,Offshore wind - floating,Marseille,-0.0
+572,2040,4001,ElectrolysisM,Marseille,672.0000000000001
+573,2040,4001,SMR + CCS2,Marseille,-0.0
+574,2040,4001,SMR,Marseille,0.0
+575,2040,4001,Onshore wind,Marseille,31.551300000000005
+576,2040,8101,Ground PV,Marseille,0.06690843747000001
+577,2040,8101,SMR + CCS1,Marseille,280.0
+578,2040,8101,Existing SMR,Marseille,391.6212875501359
+579,2040,8101,Offshore wind - floating,Marseille,-0.0
+580,2040,8101,ElectrolysisM,Marseille,0.89183593685551
+581,2040,8101,SMR + CCS2,Marseille,-0.0
+582,2040,8101,SMR,Marseille,-0.0
+583,2040,8101,Onshore wind,Marseille,1.30514685
+584,2040,3501,Ground PV,Marseille,0.0
+585,2040,3501,SMR + CCS1,Marseille,280.0
+586,2040,3501,Existing SMR,Marseille,335.28098423699237
+587,2040,3501,Offshore wind - floating,Marseille,-0.0
+588,2040,3501,ElectrolysisM,Marseille,57.23213925000002
+589,2040,3501,SMR + CCS2,Marseille,-0.0
+590,2040,3501,SMR,Marseille,-0.0
+591,2040,3501,Onshore wind,Marseille,88.04944500000002
+592,2040,7601,Ground PV,Marseille,0.011457825855000001
+593,2040,7601,SMR + CCS1,Marseille,280.0
+594,2040,7601,Existing SMR,Marseille,356.99852565018654
+595,2040,7601,Offshore wind - floating,Marseille,-0.0
+596,2040,7601,ElectrolysisM,Marseille,35.514597836805756
+597,2040,7601,SMR + CCS2,Marseille,-0.0
+598,2040,7601,SMR,Marseille,-0.0
+599,2040,7601,Onshore wind,Marseille,54.626385000000006
+600,2040,3001,Ground PV,Marseille,0.0
+601,2040,3001,SMR + CCS1,Marseille,280.0
+602,2040,3001,Existing SMR,Marseille,361.9378059869914
+603,2040,3001,Offshore wind - floating,Marseille,-0.0
+604,2040,3001,ElectrolysisM,Marseille,30.575317500000008
+605,2040,3001,SMR + CCS2,Marseille,-0.0
+606,2040,3001,SMR,Marseille,-0.0
+607,2040,3001,Onshore wind,Marseille,47.03895000000001
+608,2040,7101,Ground PV,Marseille,0.0
+609,2040,7101,SMR + CCS1,Marseille,280.0
+610,2040,7101,Existing SMR,Marseille,381.1873089869924
+611,2040,7101,Offshore wind - floating,Marseille,-0.0
+612,2040,7101,ElectrolysisM,Marseille,11.325814500000002
+613,2040,7101,SMR + CCS2,Marseille,-0.0
+614,2040,7101,SMR,Marseille,0.0
+615,2040,7101,Onshore wind,Marseille,17.42433
+616,2040,2501,Ground PV,Marseille,0.0
+617,2040,2501,SMR + CCS1,Marseille,280.0
+618,2040,2501,Existing SMR,Marseille,388.7919482369923
+619,2040,2501,Offshore wind - floating,Marseille,-0.0
+620,2040,2501,ElectrolysisM,Marseille,3.7211752500000013
+621,2040,2501,SMR + CCS2,Marseille,-0.0
+622,2040,2501,SMR,Marseille,-0.0
+623,2040,2501,Onshore wind,Marseille,5.724885000000001
+624,2040,6601,Ground PV,Marseille,0.0
+625,2040,6601,SMR + CCS1,Marseille,0.5131234869924128
+626,2040,6601,Existing SMR,Marseille,0.0
+627,2040,6601,Offshore wind - floating,Marseille,-0.0
+628,2040,6601,ElectrolysisM,Marseille,671.9999999999999
+629,2040,6601,SMR + CCS2,Marseille,-0.0
+630,2040,6601,SMR,Marseille,0.0
+631,2040,6601,Onshore wind,Marseille,128.36376
+632,2040,2001,Ground PV,Marseille,0.0312618306
+633,2040,2001,SMR + CCS1,Marseille,280.0
+634,2040,2001,Existing SMR,Marseille,309.05635929710223
+635,2040,2001,Offshore wind - floating,Marseille,-0.0
+636,2040,2001,ElectrolysisM,Marseille,83.45676418989001
+637,2040,2001,SMR + CCS2,Marseille,-0.0
+638,2040,2001,SMR,Marseille,0.0
+639,2040,2001,Onshore wind,Marseille,128.36376
+640,2040,6101,Ground PV,Marseille,0.0
+641,2040,6101,SMR + CCS1,Marseille,280.0
+642,2040,6101,Existing SMR,Marseille,309.07667948699225
+643,2040,6101,Offshore wind - floating,Marseille,-0.0
+644,2040,6101,ElectrolysisM,Marseille,83.43644400000002
+645,2040,6101,SMR + CCS2,Marseille,-0.0
+646,2040,6101,SMR,Marseille,-0.0
+647,2040,6101,Onshore wind,Marseille,128.36376
+648,2040,1501,Ground PV,Marseille,0.07405931694000001
+649,2040,1501,SMR + CCS1,Marseille,0.5131234869927539
+650,2040,1501,Existing SMR,Marseille,0.0
+651,2040,1501,Offshore wind - floating,Marseille,-0.0
+652,2040,1501,ElectrolysisM,Marseille,671.9999999999994
+653,2040,1501,SMR + CCS2,Marseille,-0.0
+654,2040,1501,SMR,Marseille,0.0
+655,2040,1501,Onshore wind,Marseille,128.36376
+656,2040,5601,Ground PV,Marseille,0.0333209079
+657,2040,5601,SMR + CCS1,Marseille,280.0
+658,2040,5601,Existing SMR,Marseille,391.85520583185735
+659,2040,5601,Offshore wind - floating,Marseille,-0.0
+660,2040,5601,ElectrolysisM,Marseille,0.6579176551350002
+661,2040,5601,SMR + CCS2,Marseille,-0.0
+662,2040,5601,SMR,Marseille,-0.0
+663,2040,5601,Onshore wind,Marseille,0.9788601000000001
+664,2040,1001,Ground PV,Marseille,0.03133488981
+665,2040,1001,SMR + CCS1,Marseille,280.0
+666,2040,1001,Existing SMR,Marseille,367.27749105861585
+667,2040,1001,Offshore wind - floating,Marseille,-0.0
+668,2040,1001,ElectrolysisM,Marseille,25.235632428376505
+669,2040,1001,SMR + CCS2,Marseille,-0.0
+670,2040,1001,SMR,Marseille,-0.0
+671,2040,1001,Onshore wind,Marseille,38.79271500000001
+672,2040,5101,Ground PV,Marseille,0.07018085991
+673,2040,5101,SMR + CCS1,Marseille,0.5131234869927539
+674,2040,5101,Existing SMR,Marseille,0.0
+675,2040,5101,Offshore wind - floating,Marseille,-0.0
+676,2040,5101,ElectrolysisM,Marseille,671.9999999999995
+677,2040,5101,SMR + CCS2,Marseille,-0.0
+678,2040,5101,SMR,Marseille,0.0
+679,2040,5101,Onshore wind,Marseille,32.48649
+680,2040,501,Ground PV,Marseille,0.0
+681,2040,501,SMR + CCS1,Marseille,280.0
+682,2040,501,Existing SMR,Marseille,309.07667948699225
+683,2040,501,Offshore wind - floating,Marseille,-0.0
+684,2040,501,ElectrolysisM,Marseille,83.43644400000002
+685,2040,501,SMR + CCS2,Marseille,-0.0
+686,2040,501,SMR,Marseille,-0.0
+687,2040,501,Onshore wind,Marseille,128.36376
+688,2040,4601,Ground PV,Marseille,0.035104243230000005
+689,2040,4601,SMR + CCS1,Marseille,0.5131234869927015
+690,2040,4601,Existing SMR,Marseille,0.0
+691,2040,4601,Offshore wind - floating,Marseille,-0.0
+692,2040,4601,ElectrolysisM,Marseille,672.0
+693,2040,4601,SMR + CCS2,Marseille,-0.0
+694,2040,4601,SMR,Marseille,0.0
+695,2040,4601,Onshore wind,Marseille,29.24361
+696,2040,8701,Ground PV,Marseille,0.067219847205
+697,2040,8701,SMR + CCS1,Marseille,0.5131234869933223
+698,2040,8701,Existing SMR,Marseille,0.0
+699,2040,8701,Offshore wind - floating,Marseille,-0.0
+700,2040,8701,ElectrolysisM,Marseille,671.9999999999997
+701,2040,8701,SMR + CCS2,Marseille,-0.0
+702,2040,8701,SMR,Marseille,0.0
+703,2040,8701,Onshore wind,Marseille,128.36376
+704,2050,1,Ground PV,Marseille,0.0
+705,2050,1,SMR + CCS1,Marseille,0.0
+706,2050,1,Existing SMR,Marseille,0.0
+707,2050,1,Offshore wind - floating,Marseille,-0.0
+708,2050,1,ElectrolysisM,Marseille,756.0
+709,2050,1,SMR + CCS2,Marseille,-4.451994328746878e-14
+710,2050,1,SMR,Marseille,0.0
+711,2050,1,Onshore wind,Marseille,78.99696
+712,2050,4101,Ground PV,Marseille,0.0
+713,2050,4101,SMR + CCS1,Marseille,263.37948199999994
+714,2050,4101,Existing SMR,Marseille,0.0
+715,2050,4101,Offshore wind - floating,Marseille,-0.0
+716,2050,4101,ElectrolysisM,Marseille,11.620518
+717,2050,4101,SMR + CCS2,Marseille,480.0
+718,2050,4101,SMR,Marseille,0.0
+719,2050,4101,Onshore wind,Marseille,17.87772
+720,2050,8201,Ground PV,Marseille,0.0
+721,2050,8201,SMR + CCS1,Marseille,274.1728631375
+722,2050,8201,Existing SMR,Marseille,0.0
+723,2050,8201,Offshore wind - floating,Marseille,-0.0
+724,2050,8201,ElectrolysisM,Marseille,0.8271368625000001
+725,2050,8201,SMR + CCS2,Marseille,480.0
+726,2050,8201,SMR,Marseille,0.0
+727,2050,8201,Onshore wind,Marseille,1.27251825
+728,2050,3601,Ground PV,Marseille,0.0
+729,2050,3601,SMR + CCS1,Marseille,191.563556
+730,2050,3601,Existing SMR,Marseille,0.0
+731,2050,3601,Offshore wind - floating,Marseille,-0.0
+732,2050,3601,ElectrolysisM,Marseille,83.43644400000002
+733,2050,3601,SMR + CCS2,Marseille,480.0
+734,2050,3601,SMR,Marseille,0.0
+735,2050,3601,Onshore wind,Marseille,128.36376
+736,2050,7701,Ground PV,Marseille,0.0
+737,2050,7701,SMR + CCS1,Marseille,191.56355599999998
+738,2050,7701,Existing SMR,Marseille,0.0
+739,2050,7701,Offshore wind - floating,Marseille,-0.0
+740,2050,7701,ElectrolysisM,Marseille,83.43644400000002
+741,2050,7701,SMR + CCS2,Marseille,480.0
+742,2050,7701,SMR,Marseille,0.0
+743,2050,7701,Onshore wind,Marseille,128.36376
+744,2050,3101,Ground PV,Marseille,0.0
+745,2050,3101,SMR + CCS1,Marseille,0.0
+746,2050,3101,Existing SMR,Marseille,0.0
+747,2050,3101,Offshore wind - floating,Marseille,-0.0
+748,2050,3101,ElectrolysisM,Marseille,756.0
+749,2050,3101,SMR + CCS2,Marseille,0.0
+750,2050,3101,SMR,Marseille,0.0
+751,2050,3101,Onshore wind,Marseille,13.367797500000004
+752,2050,7201,Ground PV,Marseille,0.0
+753,2050,7201,SMR + CCS1,Marseille,0.0
+754,2050,7201,Existing SMR,Marseille,0.0
+755,2050,7201,Offshore wind - floating,Marseille,-0.0
+756,2050,7201,ElectrolysisM,Marseille,756.0
+757,2050,7201,SMR + CCS2,Marseille,-0.0
+758,2050,7201,SMR,Marseille,0.0
+759,2050,7201,Onshore wind,Marseille,1.3704041999999999
+760,2050,2601,Ground PV,Marseille,0.05974223703
+761,2050,2601,SMR + CCS1,Marseille,211.55932479593264
+762,2050,2601,Existing SMR,Marseille,0.0
+763,2050,2601,Offshore wind - floating,Marseille,-0.0
+764,2050,2601,ElectrolysisM,Marseille,62.44067520406951
+765,2050,2601,SMR + CCS2,Marseille,480.0
+766,2050,2601,SMR,Marseille,0.0
+767,2050,2601,Onshore wind,Marseille,96.002835
+768,2050,6701,Ground PV,Marseille,0.0
+769,2050,6701,SMR + CCS1,Marseille,273.451769225
+770,2050,6701,Existing SMR,Marseille,0.0
+771,2050,6701,Offshore wind - floating,Marseille,-0.0
+772,2050,6701,ElectrolysisM,Marseille,1.5482307749999995
+773,2050,6701,SMR + CCS2,Marseille,480.0
+774,2050,6701,SMR,Marseille,0.0
+775,2050,6701,Onshore wind,Marseille,2.3818935
+776,2050,2101,Ground PV,Marseille,0.08925142128
+777,2050,2101,SMR + CCS1,Marseille,274.432979246168
+778,2050,2101,Existing SMR,Marseille,0.0
+779,2050,2101,Offshore wind - floating,Marseille,-0.0
+780,2050,2101,ElectrolysisM,Marseille,0.5670207538320001
+781,2050,2101,SMR + CCS2,Marseille,480.0
+782,2050,2101,SMR,Marseille,0.0
+783,2050,2101,Onshore wind,Marseille,0.7830882000000001
+784,2050,6201,Ground PV,Marseille,0.06125509698000001
+785,2050,6201,SMR + CCS1,Marseille,224.08365068696298
+786,2050,6201,Existing SMR,Marseille,0.0
+787,2050,6201,Offshore wind - floating,Marseille,-0.0
+788,2050,6201,ElectrolysisM,Marseille,50.91634931303701
+789,2050,6201,SMR + CCS2,Marseille,480.0
+790,2050,6201,SMR,Marseille,0.0
+791,2050,6201,Onshore wind,Marseille,78.27159
+792,2050,1601,Ground PV,Marseille,0.08373739059
+793,2050,1601,SMR + CCS1,Marseille,224.06903719611648
+794,2050,1601,Existing SMR,Marseille,0.0
+795,2050,1601,Offshore wind - floating,Marseille,-0.0
+796,2050,1601,ElectrolysisM,Marseille,50.93096280388351
+797,2050,1601,SMR + CCS2,Marseille,480.0
+798,2050,1601,SMR,Marseille,0.0
+799,2050,1601,Onshore wind,Marseille,78.27159
+800,2050,5701,Ground PV,Marseille,0.14457236366999998
+801,2050,5701,SMR + CCS1,Marseille,240.4844232136145
+802,2050,5701,Existing SMR,Marseille,0.0
+803,2050,5701,Offshore wind - floating,Marseille,-0.0
+804,2050,5701,ElectrolysisM,Marseille,34.51557678638551
+805,2050,5701,SMR + CCS2,Marseille,480.0
+806,2050,5701,SMR,Marseille,0.0
+807,2050,5701,Onshore wind,Marseille,52.95631500000001
+808,2050,1101,Ground PV,Marseille,0.0
+809,2050,1101,SMR + CCS1,Marseille,192.57447599999992
+810,2050,1101,Existing SMR,Marseille,0.0
+811,2050,1101,Offshore wind - floating,Marseille,-0.0
+812,2050,1101,ElectrolysisM,Marseille,83.42552400000002
+813,2050,1101,SMR + CCS2,Marseille,480.0
+814,2050,1101,SMR,Marseille,0.0
+815,2050,1101,Onshore wind,Marseille,128.36376
+816,2050,5201,Ground PV,Marseille,0.07560594657
+817,2050,5201,SMR + CCS1,Marseille,0.0
+818,2050,5201,Existing SMR,Marseille,0.0
+819,2050,5201,Offshore wind - floating,Marseille,-0.0
+820,2050,5201,ElectrolysisM,Marseille,755.0
+821,2050,5201,SMR + CCS2,Marseille,-0.0
+822,2050,5201,SMR,Marseille,0.0
+823,2050,5201,Onshore wind,Marseille,18.331395
+824,2050,601,Ground PV,Marseille,0.0
+825,2050,601,SMR + CCS1,Marseille,248.14035875
+826,2050,601,Existing SMR,Marseille,0.0
+827,2050,601,Offshore wind - floating,Marseille,-0.0
+828,2050,601,ElectrolysisM,Marseille,26.859641250000006
+829,2050,601,SMR + CCS2,Marseille,480.0
+830,2050,601,SMR,Marseille,0.0
+831,2050,601,Onshore wind,Marseille,41.322525000000006
+832,2050,4701,Ground PV,Marseille,0.0
+833,2050,4701,SMR + CCS1,Marseille,240.29169550000006
+834,2050,4701,Existing SMR,Marseille,0.0
+835,2050,4701,Offshore wind - floating,Marseille,-0.0
+836,2050,4701,ElectrolysisM,Marseille,33.7083045
+837,2050,4701,SMR + CCS2,Marseille,480.0
+838,2050,4701,SMR,Marseille,0.0
+839,2050,4701,Onshore wind,Marseille,51.858929999999994
+840,2050,101,Ground PV,Marseille,0.0
+841,2050,101,SMR + CCS1,Marseille,220.76002849999998
+842,2050,101,Existing SMR,Marseille,0.0
+843,2050,101,Offshore wind - floating,Marseille,-0.0
+844,2050,101,ElectrolysisM,Marseille,54.23997150000001
+845,2050,101,SMR + CCS2,Marseille,480.0
+846,2050,101,SMR,Marseille,0.0
+847,2050,101,Onshore wind,Marseille,83.44611
+848,2050,4201,Ground PV,Marseille,0.0
+849,2050,4201,SMR + CCS1,Marseille,190.56355600000012
+850,2050,4201,Existing SMR,Marseille,0.0
+851,2050,4201,Offshore wind - floating,Marseille,-0.0
+852,2050,4201,ElectrolysisM,Marseille,83.43644400000002
+853,2050,4201,SMR + CCS2,Marseille,480.0
+854,2050,4201,SMR,Marseille,0.0
+855,2050,4201,Onshore wind,Marseille,128.36376
+856,2050,8301,Ground PV,Marseille,0.0
+857,2050,8301,SMR + CCS1,Marseille,273.83352462499994
+858,2050,8301,Existing SMR,Marseille,0.0
+859,2050,8301,Offshore wind - floating,Marseille,-0.0
+860,2050,8301,ElectrolysisM,Marseille,1.166475375000049
+861,2050,8301,SMR + CCS2,Marseille,480.0
+862,2050,8301,SMR,Marseille,0.0
+863,2050,8301,Onshore wind,Marseille,1.7945775000000002
+864,2050,3701,Ground PV,Marseille,0.0
+865,2050,3701,SMR + CCS1,Marseille,0.0
+866,2050,3701,Existing SMR,Marseille,0.0
+867,2050,3701,Offshore wind - floating,Marseille,-0.0
+868,2050,3701,ElectrolysisM,Marseille,755.0
+869,2050,3701,SMR + CCS2,Marseille,-0.0
+870,2050,3701,SMR,Marseille,0.0
+871,2050,3701,Onshore wind,Marseille,8.544429000000001
+872,2050,7801,Ground PV,Marseille,0.0
+873,2050,7801,SMR + CCS1,Marseille,230.394803
+874,2050,7801,Existing SMR,Marseille,0.0
+875,2050,7801,Offshore wind - floating,Marseille,-0.0
+876,2050,7801,ElectrolysisM,Marseille,44.605197000000004
+877,2050,7801,SMR + CCS2,Marseille,480.0
+878,2050,7801,SMR,Marseille,0.0
+879,2050,7801,Onshore wind,Marseille,68.62338
+880,2050,3201,Ground PV,Marseille,0.07881091932
+881,2050,3201,SMR + CCS1,Marseille,273.71547792494204
+882,2050,3201,Existing SMR,Marseille,0.0
+883,2050,3201,Offshore wind - floating,Marseille,-0.0
+884,2050,3201,ElectrolysisM,Marseille,0.28452207505800003
+885,2050,3201,SMR + CCS2,Marseille,480.0
+886,2050,3201,SMR,Marseille,0.0
+887,2050,3201,Onshore wind,Marseille,0.35891535
+888,2050,7301,Ground PV,Marseille,0.0
+889,2050,7301,SMR + CCS1,Marseille,272.43056102500003
+890,2050,7301,Existing SMR,Marseille,0.0
+891,2050,7301,Offshore wind - floating,Marseille,-0.0
+892,2050,7301,ElectrolysisM,Marseille,1.569438975
+893,2050,7301,SMR + CCS2,Marseille,480.0
+894,2050,7301,SMR,Marseille,0.0
+895,2050,7301,Onshore wind,Marseille,2.4145214999999998
+896,2050,2701,Ground PV,Marseille,0.1281935403
+897,2050,2701,SMR + CCS1,Marseille,273.3472352238028
+898,2050,2701,Existing SMR,Marseille,0.0
+899,2050,2701,Offshore wind - floating,Marseille,-0.0
+900,2050,2701,ElectrolysisM,Marseille,1.6527647761950242
+901,2050,2701,SMR + CCS2,Marseille,480.0
+902,2050,2701,SMR,Marseille,0.0
+903,2050,2701,Onshore wind,Marseille,2.4145214999999998
+904,2050,6801,Ground PV,Marseille,0.055165761630000004
+905,2050,6801,SMR + CCS1,Marseille,206.78462400494055
+906,2050,6801,Existing SMR,Marseille,0.0
+907,2050,6801,Offshore wind - floating,Marseille,-0.0
+908,2050,6801,ElectrolysisM,Marseille,67.21537599505952
+909,2050,6801,SMR + CCS2,Marseille,480.0
+910,2050,6801,SMR,Marseille,0.0
+911,2050,6801,Onshore wind,Marseille,103.35310500000003
+912,2050,2201,Ground PV,Marseille,0.06592412883
+913,2050,2201,SMR + CCS1,Marseille,0.0
+914,2050,2201,Existing SMR,Marseille,0.0
+915,2050,2201,Offshore wind - floating,Marseille,-0.0
+916,2050,2201,ElectrolysisM,Marseille,756.0
+917,2050,2201,SMR + CCS2,Marseille,-0.0
+918,2050,2201,SMR,Marseille,0.0
+919,2050,2201,Onshore wind,Marseille,111.45682500000001
+920,2050,6301,Ground PV,Marseille,0.14140349328000001
+921,2050,6301,SMR + CCS1,Marseille,266.509526454368
+922,2050,6301,Existing SMR,Marseille,0.0
+923,2050,6301,Offshore wind - floating,Marseille,-0.0
+924,2050,6301,ElectrolysisM,Marseille,8.490473545632002
+925,2050,6301,SMR + CCS2,Marseille,480.0
+926,2050,6301,SMR,Marseille,0.0
+927,2050,6301,Onshore wind,Marseille,12.920863500000001
+928,2050,1701,Ground PV,Marseille,0.0
+929,2050,1701,SMR + CCS1,Marseille,208.3531145
+930,2050,1701,Existing SMR,Marseille,0.0
+931,2050,1701,Offshore wind - floating,Marseille,-0.0
+932,2050,1701,ElectrolysisM,Marseille,66.64688550000001
+933,2050,1701,SMR + CCS2,Marseille,480.0
+934,2050,1701,SMR,Marseille,0.0
+935,2050,1701,Onshore wind,Marseille,102.53367000000001
+936,2050,5801,Ground PV,Marseille,0.06443430483000001
+937,2050,5801,SMR + CCS1,Marseille,260.0888509518605
+938,2050,5801,Existing SMR,Marseille,0.0
+939,2050,5801,Offshore wind - floating,Marseille,-0.0
+940,2050,5801,ElectrolysisM,Marseille,14.911149048139515
+941,2050,5801,SMR + CCS2,Marseille,480.0
+942,2050,5801,SMR,Marseille,0.0
+943,2050,5801,Onshore wind,Marseille,22.875795000000004
+944,2050,1201,Ground PV,Marseille,0.0
+945,2050,1201,SMR + CCS1,Marseille,245.1085475
+946,2050,1201,Existing SMR,Marseille,0.0
+947,2050,1201,Offshore wind - floating,Marseille,-0.0
+948,2050,1201,ElectrolysisM,Marseille,29.89145250000001
+949,2050,1201,SMR + CCS2,Marseille,480.0
+950,2050,1201,SMR,Marseille,0.0
+951,2050,1201,Onshore wind,Marseille,45.98685000000001
+952,2050,5301,Ground PV,Marseille,0.0
+953,2050,5301,SMR + CCS1,Marseille,0.0
+954,2050,5301,Existing SMR,Marseille,0.0
+955,2050,5301,Offshore wind - floating,Marseille,-0.0
+956,2050,5301,ElectrolysisM,Marseille,756.0
+957,2050,5301,SMR + CCS2,Marseille,-0.0
+958,2050,5301,SMR,Marseille,0.0
+959,2050,5301,Onshore wind,Marseille,128.36376
+960,2050,701,Ground PV,Marseille,0.0
+961,2050,701,SMR + CCS1,Marseille,0.0
+962,2050,701,Existing SMR,Marseille,0.0
+963,2050,701,Offshore wind - floating,Marseille,-0.0
+964,2050,701,ElectrolysisM,Marseille,756.0
+965,2050,701,SMR + CCS2,Marseille,0.0
+966,2050,701,SMR,Marseille,0.0
+967,2050,701,Onshore wind,Marseille,90.40183500000002
+968,2050,4801,Ground PV,Marseille,0.0
+969,2050,4801,SMR + CCS1,Marseille,0.0
+970,2050,4801,Existing SMR,Marseille,0.0
+971,2050,4801,Offshore wind - floating,Marseille,-0.0
+972,2050,4801,ElectrolysisM,Marseille,756.0
+973,2050,4801,SMR + CCS2,Marseille,-4.451994328746878e-14
+974,2050,4801,SMR,Marseille,0.0
+975,2050,4801,Onshore wind,Marseille,0.7830882000000001
+976,2050,201,Ground PV,Marseille,0.0034297260900000006
+977,2050,201,SMR + CCS1,Marseille,274.2766770580415
+978,2050,201,Existing SMR,Marseille,0.0
+979,2050,201,Offshore wind - floating,Marseille,-0.0
+980,2050,201,ElectrolysisM,Marseille,0.7233229419585001
+981,2050,201,SMR + CCS2,Marseille,480.0
+982,2050,201,SMR,Marseille,0.0
+983,2050,201,Onshore wind,Marseille,1.1093748
+984,2050,4301,Ground PV,Marseille,0.0
+985,2050,4301,SMR + CCS1,Marseille,0.0
+986,2050,4301,Existing SMR,Marseille,0.0
+987,2050,4301,Offshore wind - floating,Marseille,-0.0
+988,2050,4301,ElectrolysisM,Marseille,756.0
+989,2050,4301,SMR + CCS2,Marseille,-0.0
+990,2050,4301,SMR,Marseille,0.0
+991,2050,4301,Onshore wind,Marseille,112.24887000000003
+992,2050,8401,Ground PV,Marseille,0.0
+993,2050,8401,SMR + CCS1,Marseille,258.6547295
+994,2050,8401,Existing SMR,Marseille,0.0
+995,2050,8401,Offshore wind - floating,Marseille,-0.0
+996,2050,8401,ElectrolysisM,Marseille,16.3452705
+997,2050,8401,SMR + CCS2,Marseille,480.0
+998,2050,8401,SMR,Marseille,0.0
+999,2050,8401,Onshore wind,Marseille,25.14657
+1000,2050,3801,Ground PV,Marseille,0.04899557838000001
+1001,2050,3801,SMR + CCS1,Marseille,0.0
+1002,2050,3801,Existing SMR,Marseille,0.0
+1003,2050,3801,Offshore wind - floating,Marseille,-0.0
+1004,2050,3801,ElectrolysisM,Marseille,755.0
+1005,2050,3801,SMR + CCS2,Marseille,-0.0
+1006,2050,3801,SMR,Marseille,0.0
+1007,2050,3801,Onshore wind,Marseille,33.43000500000001
+1008,2050,7901,Ground PV,Marseille,0.0
+1009,2050,7901,SMR + CCS1,Marseille,216.2604609999997
+1010,2050,7901,Existing SMR,Marseille,0.0
+1011,2050,7901,Offshore wind - floating,Marseille,-0.0
+1012,2050,7901,ElectrolysisM,Marseille,57.739539000000015
+1013,2050,7901,SMR + CCS2,Marseille,480.0
+1014,2050,7901,SMR,Marseille,0.0
+1015,2050,7901,Onshore wind,Marseille,88.83006000000002
+1016,2050,3301,Ground PV,Marseille,0.024381840210000002
+1017,2050,3301,SMR + CCS1,Marseille,0.0
+1018,2050,3301,Existing SMR,Marseille,0.0
+1019,2050,3301,Offshore wind - floating,Marseille,-0.0
+1020,2050,3301,ElectrolysisM,Marseille,755.0
+1021,2050,3301,SMR + CCS2,Marseille,-0.0
+1022,2050,3301,SMR,Marseille,0.0
+1023,2050,3301,Onshore wind,Marseille,128.36376
+1024,2050,7401,Ground PV,Marseille,0.03255545013
+1025,2050,7401,SMR + CCS1,Marseille,191.5423949574155
+1026,2050,7401,Existing SMR,Marseille,0.0
+1027,2050,7401,Offshore wind - floating,Marseille,-0.0
+1028,2050,7401,ElectrolysisM,Marseille,83.4576050425845
+1029,2050,7401,SMR + CCS2,Marseille,480.0
+1030,2050,7401,SMR,Marseille,0.0
+1031,2050,7401,Onshore wind,Marseille,128.36376
+1032,2050,2801,Ground PV,Marseille,0.05103729645
+1033,2050,2801,SMR + CCS1,Marseille,0.0
+1034,2050,2801,Existing SMR,Marseille,0.0
+1035,2050,2801,Offshore wind - floating,Marseille,-0.0
+1036,2050,2801,ElectrolysisM,Marseille,756.0
+1037,2050,2801,SMR + CCS2,Marseille,-4.451994328746878e-14
+1038,2050,2801,SMR,Marseille,0.0
+1039,2050,2801,Onshore wind,Marseille,69.28218000000001
+1040,2050,6901,Ground PV,Marseille,0.045877094759999994
+1041,2050,6901,SMR + CCS1,Marseille,267.438679288406
+1042,2050,6901,Existing SMR,Marseille,0.0
+1043,2050,6901,Offshore wind - floating,Marseille,-0.0
+1044,2050,6901,ElectrolysisM,Marseille,7.561320711593999
+1045,2050,6901,SMR + CCS2,Marseille,480.0
+1046,2050,6901,SMR,Marseille,0.0
+1047,2050,6901,Onshore wind,Marseille,11.586923999999998
+1048,2050,2301,Ground PV,Marseille,0.0
+1049,2050,2301,SMR + CCS1,Marseille,190.56355600000003
+1050,2050,2301,Existing SMR,Marseille,0.0
+1051,2050,2301,Offshore wind - floating,Marseille,-0.0
+1052,2050,2301,ElectrolysisM,Marseille,83.43644400000002
+1053,2050,2301,SMR + CCS2,Marseille,480.0
+1054,2050,2301,SMR,Marseille,0.0
+1055,2050,2301,Onshore wind,Marseille,128.36376
+1056,2050,6401,Ground PV,Marseille,0.06698603016
+1057,2050,6401,SMR + CCS1,Marseille,262.9251043303959
+1058,2050,6401,Existing SMR,Marseille,0.0
+1059,2050,6401,Offshore wind - floating,Marseille,-0.0
+1060,2050,6401,ElectrolysisM,Marseille,11.074895669604
+1061,2050,6401,SMR + CCS2,Marseille,480.0
+1062,2050,6401,SMR,Marseille,0.0
+1063,2050,6401,Onshore wind,Marseille,16.971315
+1064,2050,1801,Ground PV,Marseille,0.0
+1065,2050,1801,SMR + CCS1,Marseille,190.56355600000003
+1066,2050,1801,Existing SMR,Marseille,0.0
+1067,2050,1801,Offshore wind - floating,Marseille,-0.0
+1068,2050,1801,ElectrolysisM,Marseille,83.43644400000002
+1069,2050,1801,SMR + CCS2,Marseille,480.0
+1070,2050,1801,SMR,Marseille,0.0
+1071,2050,1801,Onshore wind,Marseille,128.36376
+1072,2050,5901,Ground PV,Marseille,0.0
+1073,2050,5901,SMR + CCS1,Marseille,274.2576976925
+1074,2050,5901,Existing SMR,Marseille,0.0
+1075,2050,5901,Offshore wind - floating,Marseille,-0.0
+1076,2050,5901,ElectrolysisM,Marseille,0.7423023074999996
+1077,2050,5901,SMR + CCS2,Marseille,480.0
+1078,2050,5901,SMR,Marseille,0.0
+1079,2050,5901,Onshore wind,Marseille,1.14200355
+1080,2050,1301,Ground PV,Marseille,0.0
+1081,2050,1301,SMR + CCS1,Marseille,191.56355599999998
+1082,2050,1301,Existing SMR,Marseille,0.0
+1083,2050,1301,Offshore wind - floating,Marseille,-0.0
+1084,2050,1301,ElectrolysisM,Marseille,83.43644400000002
+1085,2050,1301,SMR + CCS2,Marseille,480.0
+1086,2050,1301,SMR,Marseille,0.0
+1087,2050,1301,Onshore wind,Marseille,128.36376
+1088,2050,5401,Ground PV,Marseille,0.0
+1089,2050,5401,SMR + CCS1,Marseille,190.56355600000006
+1090,2050,5401,Existing SMR,Marseille,0.0
+1091,2050,5401,Offshore wind - floating,Marseille,-0.0
+1092,2050,5401,ElectrolysisM,Marseille,83.43644400000002
+1093,2050,5401,SMR + CCS2,Marseille,480.0
+1094,2050,5401,SMR,Marseille,0.0
+1095,2050,5401,Onshore wind,Marseille,128.36376
+1096,2050,801,Ground PV,Marseille,0.01246820778
+1097,2050,801,SMR + CCS1,Marseille,191.555451664943
+1098,2050,801,Existing SMR,Marseille,0.0
+1099,2050,801,Offshore wind - floating,Marseille,-0.0
+1100,2050,801,ElectrolysisM,Marseille,83.44454833505701
+1101,2050,801,SMR + CCS2,Marseille,480.0
+1102,2050,801,SMR,Marseille,0.0
+1103,2050,801,Onshore wind,Marseille,128.36376
+1104,2050,4901,Ground PV,Marseille,0.0
+1105,2050,4901,SMR + CCS1,Marseille,273.98198494999997
+1106,2050,4901,Existing SMR,Marseille,0.0
+1107,2050,4901,Offshore wind - floating,Marseille,-0.0
+1108,2050,4901,ElectrolysisM,Marseille,1.01801505
+1109,2050,4901,SMR + CCS2,Marseille,480.0
+1110,2050,4901,SMR,Marseille,0.0
+1111,2050,4901,Onshore wind,Marseille,1.566177
+1112,2050,301,Ground PV,Marseille,0.013061491800000002
+1113,2050,301,SMR + CCS1,Marseille,271.9571949553302
+1114,2050,301,Existing SMR,Marseille,0.0
+1115,2050,301,Offshore wind - floating,Marseille,0.0
+1116,2050,301,ElectrolysisM,Marseille,2.04280504467
+1117,2050,301,SMR + CCS2,Marseille,480.0
+1118,2050,301,SMR,Marseille,0.0
+1119,2050,301,Onshore wind,Marseille,3.1297155
+1120,2050,4401,Ground PV,Marseille,0.03516892764
+1121,2050,4401,SMR + CCS1,Marseille,0.0
+1122,2050,4401,Existing SMR,Marseille,0.0
+1123,2050,4401,Offshore wind - floating,Marseille,-0.0
+1124,2050,4401,ElectrolysisM,Marseille,754.0
+1125,2050,4401,SMR + CCS2,Marseille,0.0
+1126,2050,4401,SMR,Marseille,0.0
+1127,2050,4401,Onshore wind,Marseille,4.994367
+1128,2050,8501,Ground PV,Marseille,0.0
+1129,2050,8501,SMR + CCS1,Marseille,0.0
+1130,2050,8501,Existing SMR,Marseille,0.0
+1131,2050,8501,Offshore wind - floating,Marseille,-0.0
+1132,2050,8501,ElectrolysisM,Marseille,756.0
+1133,2050,8501,SMR + CCS2,Marseille,0.0
+1134,2050,8501,SMR,Marseille,0.0
+1135,2050,8501,Onshore wind,Marseille,39.798465
+1136,2050,3901,Ground PV,Marseille,0.14210483427
+1137,2050,3901,SMR + CCS1,Marseille,0.0
+1138,2050,3901,Existing SMR,Marseille,0.0
+1139,2050,3901,Offshore wind - floating,Marseille,-0.0
+1140,2050,3901,ElectrolysisM,Marseille,755.0
+1141,2050,3901,SMR + CCS2,Marseille,-0.0
+1142,2050,3901,SMR,Marseille,0.0
+1143,2050,3901,Onshore wind,Marseille,2.2513785
+1144,2050,8001,Ground PV,Marseille,0.0066688652099999995
+1145,2050,8001,SMR + CCS1,Marseille,191.55922123761349
+1146,2050,8001,Existing SMR,Marseille,0.0
+1147,2050,8001,Offshore wind - floating,Marseille,-0.0
+1148,2050,8001,ElectrolysisM,Marseille,83.44077876238651
+1149,2050,8001,SMR + CCS2,Marseille,480.0
+1150,2050,8001,SMR,Marseille,0.0
+1151,2050,8001,Onshore wind,Marseille,128.36376
+1152,2050,3401,Ground PV,Marseille,0.07528283259
+1153,2050,3401,SMR + CCS1,Marseille,0.0
+1154,2050,3401,Existing SMR,Marseille,0.0
+1155,2050,3401,Offshore wind - floating,Marseille,-0.0
+1156,2050,3401,ElectrolysisM,Marseille,756.0
+1157,2050,3401,SMR + CCS2,Marseille,-0.0
+1158,2050,3401,SMR,Marseille,0.0
+1159,2050,3401,Onshore wind,Marseille,128.36376
+1160,2050,7501,Ground PV,Marseille,0.13535022354
+1161,2050,7501,SMR + CCS1,Marseille,0.0
+1162,2050,7501,Existing SMR,Marseille,0.0
+1163,2050,7501,Offshore wind - floating,Marseille,-0.0
+1164,2050,7501,ElectrolysisM,Marseille,756.0
+1165,2050,7501,SMR + CCS2,Marseille,-0.0
+1166,2050,7501,SMR,Marseille,0.0
+1167,2050,7501,Onshore wind,Marseille,128.36376
+1168,2050,2901,Ground PV,Marseille,0.0
+1169,2050,2901,SMR + CCS1,Marseille,263.55668725000004
+1170,2050,2901,Existing SMR,Marseille,0.0
+1171,2050,2901,Offshore wind - floating,Marseille,-0.0
+1172,2050,2901,ElectrolysisM,Marseille,10.443312750000002
+1173,2050,2901,SMR + CCS2,Marseille,480.0
+1174,2050,2901,SMR,Marseille,0.0
+1175,2050,2901,Onshore wind,Marseille,16.066635
+1176,2050,7001,Ground PV,Marseille,0.059218826520000004
+1177,2050,7001,SMR + CCS1,Marseille,0.0
+1178,2050,7001,Existing SMR,Marseille,0.0
+1179,2050,7001,Offshore wind - floating,Marseille,-0.0
+1180,2050,7001,ElectrolysisM,Marseille,756.0
+1181,2050,7001,SMR + CCS2,Marseille,-0.0
+1182,2050,7001,SMR,Marseille,0.0
+1183,2050,7001,Onshore wind,Marseille,125.49451500000004
+1184,2050,2401,Ground PV,Marseille,0.0
+1185,2050,2401,SMR + CCS1,Marseille,0.0
+1186,2050,2401,Existing SMR,Marseille,0.0
+1187,2050,2401,Offshore wind - floating,Marseille,-0.0
+1188,2050,2401,ElectrolysisM,Marseille,756.0
+1189,2050,2401,SMR + CCS2,Marseille,0.0
+1190,2050,2401,SMR,Marseille,0.0
+1191,2050,2401,Onshore wind,Marseille,2.773437
+1192,2050,6501,Ground PV,Marseille,0.0
+1193,2050,6501,SMR + CCS1,Marseille,191.563556
+1194,2050,6501,Existing SMR,Marseille,0.0
+1195,2050,6501,Offshore wind - floating,Marseille,-0.0
+1196,2050,6501,ElectrolysisM,Marseille,83.43644400000002
+1197,2050,6501,SMR + CCS2,Marseille,480.0
+1198,2050,6501,SMR,Marseille,0.0
+1199,2050,6501,Onshore wind,Marseille,128.36376
+1200,2050,1901,Ground PV,Marseille,0.0
+1201,2050,1901,SMR + CCS1,Marseille,199.52378749999997
+1202,2050,1901,Existing SMR,Marseille,0.0
+1203,2050,1901,Offshore wind - floating,Marseille,-0.0
+1204,2050,1901,ElectrolysisM,Marseille,75.47621250000002
+1205,2050,1901,SMR + CCS2,Marseille,480.0
+1206,2050,1901,SMR,Marseille,0.0
+1207,2050,1901,Onshore wind,Marseille,116.11725000000001
+1208,2050,6001,Ground PV,Marseille,0.0
+1209,2050,6001,SMR + CCS1,Marseille,271.9798321999999
+1210,2050,6001,Existing SMR,Marseille,0.0
+1211,2050,6001,Offshore wind - floating,Marseille,-0.0
+1212,2050,6001,ElectrolysisM,Marseille,3.020167800000002
+1213,2050,6001,SMR + CCS2,Marseille,480.0
+1214,2050,6001,SMR,Marseille,0.0
+1215,2050,6001,Onshore wind,Marseille,4.646412000000001
+1216,2050,1401,Ground PV,Marseille,0.03007225599
+1217,2050,1401,SMR + CCS1,Marseille,240.5588482836065
+1218,2050,1401,Existing SMR,Marseille,0.0
+1219,2050,1401,Offshore wind - floating,Marseille,-0.0
+1220,2050,1401,ElectrolysisM,Marseille,34.44115171639351
+1221,2050,1401,SMR + CCS2,Marseille,480.0
+1222,2050,1401,SMR,Marseille,0.0
+1223,2050,1401,Onshore wind,Marseille,52.95631500000001
+1224,2050,5501,Ground PV,Marseille,0.0
+1225,2050,5501,SMR + CCS1,Marseille,0.0
+1226,2050,5501,Existing SMR,Marseille,0.0
+1227,2050,5501,Offshore wind - floating,Marseille,-0.0
+1228,2050,5501,ElectrolysisM,Marseille,756.0
+1229,2050,5501,SMR + CCS2,Marseille,-0.0
+1230,2050,5501,SMR,Marseille,0.0
+1231,2050,5501,Onshore wind,Marseille,0.58731615
+1232,2050,901,Ground PV,Marseille,0.14718023565000002
+1233,2050,901,SMR + CCS1,Marseille,191.46788884682746
+1234,2050,901,Existing SMR,Marseille,0.0
+1235,2050,901,Offshore wind - floating,Marseille,-0.0
+1236,2050,901,ElectrolysisM,Marseille,83.53211115317252
+1237,2050,901,SMR + CCS2,Marseille,480.0
+1238,2050,901,SMR,Marseille,0.0
+1239,2050,901,Onshore wind,Marseille,128.36376
+1240,2050,5001,Ground PV,Marseille,0.06560954148
+1241,2050,5001,SMR + CCS1,Marseille,190.52090979803808
+1242,2050,5001,Existing SMR,Marseille,0.0
+1243,2050,5001,Offshore wind - floating,Marseille,-0.0
+1244,2050,5001,ElectrolysisM,Marseille,83.47909020196202
+1245,2050,5001,SMR + CCS2,Marseille,480.0
+1246,2050,5001,SMR,Marseille,0.0
+1247,2050,5001,Onshore wind,Marseille,128.36376
+1248,2050,401,Ground PV,Marseille,0.10315135509
+1249,2050,401,SMR + CCS1,Marseille,191.4965076191915
+1250,2050,401,Existing SMR,Marseille,0.0
+1251,2050,401,Offshore wind - floating,Marseille,-0.0
+1252,2050,401,ElectrolysisM,Marseille,83.50349238080852
+1253,2050,401,SMR + CCS2,Marseille,480.0
+1254,2050,401,SMR,Marseille,0.0
+1255,2050,401,Onshore wind,Marseille,128.36376
+1256,2050,4501,Ground PV,Marseille,0.13861949619000002
+1257,2050,4501,SMR + CCS1,Marseille,0.0
+1258,2050,4501,Existing SMR,Marseille,0.0
+1259,2050,4501,Offshore wind - floating,Marseille,-0.0
+1260,2050,4501,ElectrolysisM,Marseille,755.0
+1261,2050,4501,SMR + CCS2,Marseille,-0.0
+1262,2050,4501,SMR,Marseille,0.0
+1263,2050,4501,Onshore wind,Marseille,20.603055
+1264,2050,8601,Ground PV,Marseille,0.00023509374
+1265,2050,8601,SMR + CCS1,Marseille,191.563403189069
+1266,2050,8601,Existing SMR,Marseille,0.0
+1267,2050,8601,Offshore wind - floating,Marseille,-0.0
+1268,2050,8601,ElectrolysisM,Marseille,83.43659681093102
+1269,2050,8601,SMR + CCS2,Marseille,480.0
+1270,2050,8601,SMR,Marseille,0.0
+1271,2050,8601,Onshore wind,Marseille,128.36376
+1272,2050,4001,Ground PV,Marseille,0.07366130205
+1273,2050,4001,SMR + CCS1,Marseille,0.0
+1274,2050,4001,Existing SMR,Marseille,0.0
+1275,2050,4001,Offshore wind - floating,Marseille,-0.0
+1276,2050,4001,ElectrolysisM,Marseille,756.0
+1277,2050,4001,SMR + CCS2,Marseille,-0.0
+1278,2050,4001,SMR,Marseille,0.0
+1279,2050,4001,Onshore wind,Marseille,31.551299999999998
+1280,2050,8101,Ground PV,Marseille,0.13381687494000002
+1281,2050,8101,SMR + CCS1,Marseille,274.064673578789
+1282,2050,8101,Existing SMR,Marseille,0.0
+1283,2050,8101,Offshore wind - floating,Marseille,-0.0
+1284,2050,8101,ElectrolysisM,Marseille,0.9353264212110001
+1285,2050,8101,SMR + CCS2,Marseille,480.0
+1286,2050,8101,SMR,Marseille,0.0
+1287,2050,8101,Onshore wind,Marseille,1.30514685
+1288,2050,3501,Ground PV,Marseille,0.0
+1289,2050,3501,SMR + CCS1,Marseille,216.76786075000004
+1290,2050,3501,Existing SMR,Marseille,0.0
+1291,2050,3501,Offshore wind - floating,Marseille,-0.0
+1292,2050,3501,ElectrolysisM,Marseille,57.23213925000002
+1293,2050,3501,SMR + CCS2,Marseille,480.0
+1294,2050,3501,SMR,Marseille,0.0
+1295,2050,3501,Onshore wind,Marseille,88.04944500000002
+1296,2050,7601,Ground PV,Marseille,0.022915651710000002
+1297,2050,7601,SMR + CCS1,Marseille,239.4779545763885
+1298,2050,7601,Existing SMR,Marseille,0.0
+1299,2050,7601,Offshore wind - floating,Marseille,-0.0
+1300,2050,7601,ElectrolysisM,Marseille,35.5220454236115
+1301,2050,7601,SMR + CCS2,Marseille,480.0
+1302,2050,7601,SMR,Marseille,0.0
+1303,2050,7601,Onshore wind,Marseille,54.626385
+1304,2050,3001,Ground PV,Marseille,0.0
+1305,2050,3001,SMR + CCS1,Marseille,244.4246825
+1306,2050,3001,Existing SMR,Marseille,0.0
+1307,2050,3001,Offshore wind - floating,Marseille,-0.0
+1308,2050,3001,ElectrolysisM,Marseille,30.575317500000008
+1309,2050,3001,SMR + CCS2,Marseille,480.0
+1310,2050,3001,SMR,Marseille,0.0
+1311,2050,3001,Onshore wind,Marseille,47.03895000000001
+1312,2050,7101,Ground PV,Marseille,0.0
+1313,2050,7101,SMR + CCS1,Marseille,262.6741855000001
+1314,2050,7101,Existing SMR,Marseille,0.0
+1315,2050,7101,Offshore wind - floating,Marseille,-0.0
+1316,2050,7101,ElectrolysisM,Marseille,11.325814500000002
+1317,2050,7101,SMR + CCS2,Marseille,480.0
+1318,2050,7101,SMR,Marseille,0.0
+1319,2050,7101,Onshore wind,Marseille,17.42433
+1320,2050,2501,Ground PV,Marseille,0.0
+1321,2050,2501,SMR + CCS1,Marseille,271.2788247500001
+1322,2050,2501,Existing SMR,Marseille,0.0
+1323,2050,2501,Offshore wind - floating,Marseille,-0.0
+1324,2050,2501,ElectrolysisM,Marseille,3.72117525
+1325,2050,2501,SMR + CCS2,Marseille,480.0
+1326,2050,2501,SMR,Marseille,0.0
+1327,2050,2501,Onshore wind,Marseille,5.7248850000000004
+1328,2050,6601,Ground PV,Marseille,0.0
+1329,2050,6601,SMR + CCS1,Marseille,0.0
+1330,2050,6601,Existing SMR,Marseille,0.0
+1331,2050,6601,Offshore wind - floating,Marseille,-0.0
+1332,2050,6601,ElectrolysisM,Marseille,756.0
+1333,2050,6601,SMR + CCS2,Marseille,-0.0
+1334,2050,6601,SMR,Marseille,0.0
+1335,2050,6601,Onshore wind,Marseille,128.36376
+1336,2050,2001,Ground PV,Marseille,0.0625236612
+1337,2050,2001,SMR + CCS1,Marseille,191.52291562021998
+1338,2050,2001,Existing SMR,Marseille,0.0
+1339,2050,2001,Offshore wind - floating,Marseille,-0.0
+1340,2050,2001,ElectrolysisM,Marseille,83.47708437978002
+1341,2050,2001,SMR + CCS2,Marseille,480.0
+1342,2050,2001,SMR,Marseille,0.0
+1343,2050,2001,Onshore wind,Marseille,128.36376
+1344,2050,6101,Ground PV,Marseille,0.0
+1345,2050,6101,SMR + CCS1,Marseille,191.56355599999998
+1346,2050,6101,Existing SMR,Marseille,0.0
+1347,2050,6101,Offshore wind - floating,Marseille,-0.0
+1348,2050,6101,ElectrolysisM,Marseille,83.43644400000002
+1349,2050,6101,SMR + CCS2,Marseille,480.0
+1350,2050,6101,SMR,Marseille,0.0
+1351,2050,6101,Onshore wind,Marseille,128.36376
+1352,2050,1501,Ground PV,Marseille,0.14811863388000002
+1353,2050,1501,SMR + CCS1,Marseille,191.467278887978
+1354,2050,1501,Existing SMR,Marseille,0.0
+1355,2050,1501,Offshore wind - floating,Marseille,-0.0
+1356,2050,1501,ElectrolysisM,Marseille,83.532721112022
+1357,2050,1501,SMR + CCS2,Marseille,480.0
+1358,2050,1501,SMR,Marseille,0.0
+1359,2050,1501,Onshore wind,Marseille,128.36376
+1360,2050,5601,Ground PV,Marseille,0.0666418158
+1361,2050,5601,SMR + CCS1,Marseille,274.32042375473
+1362,2050,5601,Existing SMR,Marseille,0.0
+1363,2050,5601,Offshore wind - floating,Marseille,-0.0
+1364,2050,5601,ElectrolysisM,Marseille,0.6795762452700002
+1365,2050,5601,SMR + CCS2,Marseille,480.0
+1366,2050,5601,SMR,Marseille,0.0
+1367,2050,5601,Onshore wind,Marseille,0.9788601000000001
+1368,2050,1001,Ground PV,Marseille,0.06266977962
+1369,2050,1001,SMR + CCS1,Marseille,248.74399989324706
+1370,2050,1001,Existing SMR,Marseille,0.0
+1371,2050,1001,Offshore wind - floating,Marseille,-0.0
+1372,2050,1001,ElectrolysisM,Marseille,25.256000106753003
+1373,2050,1001,SMR + CCS2,Marseille,480.0
+1374,2050,1001,SMR,Marseille,0.0
+1375,2050,1001,Onshore wind,Marseille,38.792715
+1376,2050,5101,Ground PV,Marseille,0.14036171982
+1377,2050,5101,SMR + CCS1,Marseille,0.0
+1378,2050,5101,Existing SMR,Marseille,0.0
+1379,2050,5101,Offshore wind - floating,Marseille,-0.0
+1380,2050,5101,ElectrolysisM,Marseille,755.0
+1381,2050,5101,SMR + CCS2,Marseille,-0.0
+1382,2050,5101,SMR,Marseille,0.0
+1383,2050,5101,Onshore wind,Marseille,32.48649
+1384,2050,501,Ground PV,Marseille,0.0
+1385,2050,501,SMR + CCS1,Marseille,191.563556
+1386,2050,501,Existing SMR,Marseille,0.0
+1387,2050,501,Offshore wind - floating,Marseille,-0.0
+1388,2050,501,ElectrolysisM,Marseille,83.43644400000002
+1389,2050,501,SMR + CCS2,Marseille,480.0
+1390,2050,501,SMR,Marseille,0.0
+1391,2050,501,Onshore wind,Marseille,128.36376
+1392,2050,4601,Ground PV,Marseille,0.07020848646000001
+1393,2050,4601,SMR + CCS1,Marseille,0.0
+1394,2050,4601,Existing SMR,Marseille,0.0
+1395,2050,4601,Offshore wind - floating,Marseille,-0.0
+1396,2050,4601,ElectrolysisM,Marseille,756.0
+1397,2050,4601,SMR + CCS2,Marseille,-0.0
+1398,2050,4601,SMR,Marseille,0.0
+1399,2050,4601,Onshore wind,Marseille,29.243609999999997
+1400,2050,8701,Ground PV,Marseille,0.13443969441
+1401,2050,8701,SMR + CCS1,Marseille,190.47617019863355
+1402,2050,8701,Existing SMR,Marseille,0.0
+1403,2050,8701,Offshore wind - floating,Marseille,-0.0
+1404,2050,8701,ElectrolysisM,Marseille,83.52382980136652
+1405,2050,8701,SMR + CCS2,Marseille,480.0
+1406,2050,8701,SMR,Marseille,0.0
+1407,2050,8701,Onshore wind,Marseille,128.36376
+1408,2020,1,Ground PV,Marseille,0.0
+1409,2020,1,SMR + CCS1,Marseille,39.99999999999999
+1410,2020,1,Existing SMR,Marseille,370.4152179553442
+1411,2020,1,Offshore wind - floating,Marseille,0.0
+1412,2020,1,ElectrolysisM,Marseille,0.0
+1413,2020,1,SMR + CCS2,Marseille,-0.0
+1414,2020,1,SMR,Marseille,-0.0
+1415,2020,1,Onshore wind,Marseille,0.0
+1416,2020,4101,Ground PV,Marseille,0.0
+1417,2020,4101,SMR + CCS1,Marseille,39.99999999999999
+1418,2020,4101,Existing SMR,Marseille,370.4152179553442
+1419,2020,4101,Offshore wind - floating,Marseille,0.0
+1420,2020,4101,ElectrolysisM,Marseille,0.0
+1421,2020,4101,SMR + CCS2,Marseille,-0.0
+1422,2020,4101,SMR,Marseille,-0.0
+1423,2020,4101,Onshore wind,Marseille,0.0
+1424,2020,8201,Ground PV,Marseille,0.0
+1425,2020,8201,SMR + CCS1,Marseille,39.99999999999999
+1426,2020,8201,Existing SMR,Marseille,370.4152179553442
+1427,2020,8201,Offshore wind - floating,Marseille,0.0
+1428,2020,8201,ElectrolysisM,Marseille,0.0
+1429,2020,8201,SMR + CCS2,Marseille,-0.0
+1430,2020,8201,SMR,Marseille,0.0
+1431,2020,8201,Onshore wind,Marseille,0.0
+1432,2020,3601,Ground PV,Marseille,0.0
+1433,2020,3601,SMR + CCS1,Marseille,39.99999999999999
+1434,2020,3601,Existing SMR,Marseille,370.4152179553442
+1435,2020,3601,Offshore wind - floating,Marseille,0.0
+1436,2020,3601,ElectrolysisM,Marseille,0.0
+1437,2020,3601,SMR + CCS2,Marseille,-0.0
+1438,2020,3601,SMR,Marseille,-0.0
+1439,2020,3601,Onshore wind,Marseille,0.0
+1440,2020,7701,Ground PV,Marseille,0.0
+1441,2020,7701,SMR + CCS1,Marseille,39.99999999999999
+1442,2020,7701,Existing SMR,Marseille,370.4152179553442
+1443,2020,7701,Offshore wind - floating,Marseille,0.0
+1444,2020,7701,ElectrolysisM,Marseille,0.0
+1445,2020,7701,SMR + CCS2,Marseille,-0.0
+1446,2020,7701,SMR,Marseille,-0.0
+1447,2020,7701,Onshore wind,Marseille,0.0
+1448,2020,3101,Ground PV,Marseille,0.0
+1449,2020,3101,SMR + CCS1,Marseille,39.99999999999999
+1450,2020,3101,Existing SMR,Marseille,370.4152179553442
+1451,2020,3101,Offshore wind - floating,Marseille,0.0
+1452,2020,3101,ElectrolysisM,Marseille,0.0
+1453,2020,3101,SMR + CCS2,Marseille,-0.0
+1454,2020,3101,SMR,Marseille,-0.0
+1455,2020,3101,Onshore wind,Marseille,0.0
+1456,2020,7201,Ground PV,Marseille,0.0
+1457,2020,7201,SMR + CCS1,Marseille,39.99999999999999
+1458,2020,7201,Existing SMR,Marseille,370.4152179553442
+1459,2020,7201,Offshore wind - floating,Marseille,0.0
+1460,2020,7201,ElectrolysisM,Marseille,0.0
+1461,2020,7201,SMR + CCS2,Marseille,-0.0
+1462,2020,7201,SMR,Marseille,0.0
+1463,2020,7201,Onshore wind,Marseille,0.0
+1464,2020,2601,Ground PV,Marseille,0.0
+1465,2020,2601,SMR + CCS1,Marseille,39.99999999999999
+1466,2020,2601,Existing SMR,Marseille,370.4152179553442
+1467,2020,2601,Offshore wind - floating,Marseille,0.0
+1468,2020,2601,ElectrolysisM,Marseille,0.0
+1469,2020,2601,SMR + CCS2,Marseille,-0.0
+1470,2020,2601,SMR,Marseille,-0.0
+1471,2020,2601,Onshore wind,Marseille,0.0
+1472,2020,6701,Ground PV,Marseille,0.0
+1473,2020,6701,SMR + CCS1,Marseille,39.99999999999999
+1474,2020,6701,Existing SMR,Marseille,370.4152179553442
+1475,2020,6701,Offshore wind - floating,Marseille,0.0
+1476,2020,6701,ElectrolysisM,Marseille,0.0
+1477,2020,6701,SMR + CCS2,Marseille,-0.0
+1478,2020,6701,SMR,Marseille,0.0
+1479,2020,6701,Onshore wind,Marseille,0.0
+1480,2020,2101,Ground PV,Marseille,0.0
+1481,2020,2101,SMR + CCS1,Marseille,39.99999999999999
+1482,2020,2101,Existing SMR,Marseille,370.4152179553442
+1483,2020,2101,Offshore wind - floating,Marseille,0.0
+1484,2020,2101,ElectrolysisM,Marseille,0.0
+1485,2020,2101,SMR + CCS2,Marseille,-0.0
+1486,2020,2101,SMR,Marseille,-0.0
+1487,2020,2101,Onshore wind,Marseille,0.0
+1488,2020,6201,Ground PV,Marseille,0.0
+1489,2020,6201,SMR + CCS1,Marseille,39.99999999999999
+1490,2020,6201,Existing SMR,Marseille,370.4152179553442
+1491,2020,6201,Offshore wind - floating,Marseille,0.0
+1492,2020,6201,ElectrolysisM,Marseille,0.0
+1493,2020,6201,SMR + CCS2,Marseille,-0.0
+1494,2020,6201,SMR,Marseille,-0.0
+1495,2020,6201,Onshore wind,Marseille,0.0
+1496,2020,1601,Ground PV,Marseille,0.0
+1497,2020,1601,SMR + CCS1,Marseille,39.99999999999999
+1498,2020,1601,Existing SMR,Marseille,370.4152179553442
+1499,2020,1601,Offshore wind - floating,Marseille,0.0
+1500,2020,1601,ElectrolysisM,Marseille,0.0
+1501,2020,1601,SMR + CCS2,Marseille,-0.0
+1502,2020,1601,SMR,Marseille,-0.0
+1503,2020,1601,Onshore wind,Marseille,0.0
+1504,2020,5701,Ground PV,Marseille,0.0
+1505,2020,5701,SMR + CCS1,Marseille,39.99999999999999
+1506,2020,5701,Existing SMR,Marseille,370.4152179553442
+1507,2020,5701,Offshore wind - floating,Marseille,0.0
+1508,2020,5701,ElectrolysisM,Marseille,0.0
+1509,2020,5701,SMR + CCS2,Marseille,-0.0
+1510,2020,5701,SMR,Marseille,-0.0
+1511,2020,5701,Onshore wind,Marseille,0.0
+1512,2020,1101,Ground PV,Marseille,0.0
+1513,2020,1101,SMR + CCS1,Marseille,39.99999999999999
+1514,2020,1101,Existing SMR,Marseille,370.4152179553442
+1515,2020,1101,Offshore wind - floating,Marseille,0.0
+1516,2020,1101,ElectrolysisM,Marseille,0.0
+1517,2020,1101,SMR + CCS2,Marseille,-0.0
+1518,2020,1101,SMR,Marseille,0.0
+1519,2020,1101,Onshore wind,Marseille,0.0
+1520,2020,5201,Ground PV,Marseille,0.0
+1521,2020,5201,SMR + CCS1,Marseille,39.99999999999999
+1522,2020,5201,Existing SMR,Marseille,370.4152179553442
+1523,2020,5201,Offshore wind - floating,Marseille,0.0
+1524,2020,5201,ElectrolysisM,Marseille,0.0
+1525,2020,5201,SMR + CCS2,Marseille,-0.0
+1526,2020,5201,SMR,Marseille,-0.0
+1527,2020,5201,Onshore wind,Marseille,0.0
+1528,2020,601,Ground PV,Marseille,0.0
+1529,2020,601,SMR + CCS1,Marseille,39.99999999999999
+1530,2020,601,Existing SMR,Marseille,370.4152179553442
+1531,2020,601,Offshore wind - floating,Marseille,0.0
+1532,2020,601,ElectrolysisM,Marseille,0.0
+1533,2020,601,SMR + CCS2,Marseille,-0.0
+1534,2020,601,SMR,Marseille,0.0
+1535,2020,601,Onshore wind,Marseille,0.0
+1536,2020,4701,Ground PV,Marseille,0.0
+1537,2020,4701,SMR + CCS1,Marseille,39.99999999999999
+1538,2020,4701,Existing SMR,Marseille,370.4152179553442
+1539,2020,4701,Offshore wind - floating,Marseille,0.0
+1540,2020,4701,ElectrolysisM,Marseille,0.0
+1541,2020,4701,SMR + CCS2,Marseille,-0.0
+1542,2020,4701,SMR,Marseille,-0.0
+1543,2020,4701,Onshore wind,Marseille,0.0
+1544,2020,101,Ground PV,Marseille,0.0
+1545,2020,101,SMR + CCS1,Marseille,39.99999999999999
+1546,2020,101,Existing SMR,Marseille,370.4152179553442
+1547,2020,101,Offshore wind - floating,Marseille,0.0
+1548,2020,101,ElectrolysisM,Marseille,0.0
+1549,2020,101,SMR + CCS2,Marseille,-0.0
+1550,2020,101,SMR,Marseille,0.0
+1551,2020,101,Onshore wind,Marseille,0.0
+1552,2020,4201,Ground PV,Marseille,0.0
+1553,2020,4201,SMR + CCS1,Marseille,39.99999999999999
+1554,2020,4201,Existing SMR,Marseille,370.4152179553442
+1555,2020,4201,Offshore wind - floating,Marseille,0.0
+1556,2020,4201,ElectrolysisM,Marseille,0.0
+1557,2020,4201,SMR + CCS2,Marseille,-0.0
+1558,2020,4201,SMR,Marseille,-0.0
+1559,2020,4201,Onshore wind,Marseille,0.0
+1560,2020,8301,Ground PV,Marseille,0.0
+1561,2020,8301,SMR + CCS1,Marseille,39.99999999999999
+1562,2020,8301,Existing SMR,Marseille,370.4152179553442
+1563,2020,8301,Offshore wind - floating,Marseille,0.0
+1564,2020,8301,ElectrolysisM,Marseille,0.0
+1565,2020,8301,SMR + CCS2,Marseille,-0.0
+1566,2020,8301,SMR,Marseille,-0.0
+1567,2020,8301,Onshore wind,Marseille,0.0
+1568,2020,3701,Ground PV,Marseille,0.0
+1569,2020,3701,SMR + CCS1,Marseille,39.99999999999999
+1570,2020,3701,Existing SMR,Marseille,370.4152179553442
+1571,2020,3701,Offshore wind - floating,Marseille,0.0
+1572,2020,3701,ElectrolysisM,Marseille,0.0
+1573,2020,3701,SMR + CCS2,Marseille,-0.0
+1574,2020,3701,SMR,Marseille,0.0
+1575,2020,3701,Onshore wind,Marseille,0.0
+1576,2020,7801,Ground PV,Marseille,0.0
+1577,2020,7801,SMR + CCS1,Marseille,39.99999999999999
+1578,2020,7801,Existing SMR,Marseille,370.4152179553442
+1579,2020,7801,Offshore wind - floating,Marseille,0.0
+1580,2020,7801,ElectrolysisM,Marseille,0.0
+1581,2020,7801,SMR + CCS2,Marseille,-0.0
+1582,2020,7801,SMR,Marseille,-0.0
+1583,2020,7801,Onshore wind,Marseille,0.0
+1584,2020,3201,Ground PV,Marseille,0.0
+1585,2020,3201,SMR + CCS1,Marseille,39.99999999999999
+1586,2020,3201,Existing SMR,Marseille,370.4152179553442
+1587,2020,3201,Offshore wind - floating,Marseille,0.0
+1588,2020,3201,ElectrolysisM,Marseille,0.0
+1589,2020,3201,SMR + CCS2,Marseille,-0.0
+1590,2020,3201,SMR,Marseille,-0.0
+1591,2020,3201,Onshore wind,Marseille,0.0
+1592,2020,7301,Ground PV,Marseille,0.0
+1593,2020,7301,SMR + CCS1,Marseille,39.99999999999999
+1594,2020,7301,Existing SMR,Marseille,370.4152179553442
+1595,2020,7301,Offshore wind - floating,Marseille,0.0
+1596,2020,7301,ElectrolysisM,Marseille,0.0
+1597,2020,7301,SMR + CCS2,Marseille,-0.0
+1598,2020,7301,SMR,Marseille,-0.0
+1599,2020,7301,Onshore wind,Marseille,0.0
+1600,2020,2701,Ground PV,Marseille,0.0
+1601,2020,2701,SMR + CCS1,Marseille,39.99999999999999
+1602,2020,2701,Existing SMR,Marseille,370.4152179553442
+1603,2020,2701,Offshore wind - floating,Marseille,0.0
+1604,2020,2701,ElectrolysisM,Marseille,0.0
+1605,2020,2701,SMR + CCS2,Marseille,-0.0
+1606,2020,2701,SMR,Marseille,-0.0
+1607,2020,2701,Onshore wind,Marseille,0.0
+1608,2020,6801,Ground PV,Marseille,0.0
+1609,2020,6801,SMR + CCS1,Marseille,39.99999999999999
+1610,2020,6801,Existing SMR,Marseille,370.4152179553442
+1611,2020,6801,Offshore wind - floating,Marseille,0.0
+1612,2020,6801,ElectrolysisM,Marseille,0.0
+1613,2020,6801,SMR + CCS2,Marseille,-0.0
+1614,2020,6801,SMR,Marseille,-0.0
+1615,2020,6801,Onshore wind,Marseille,0.0
+1616,2020,2201,Ground PV,Marseille,0.0
+1617,2020,2201,SMR + CCS1,Marseille,39.99999999999999
+1618,2020,2201,Existing SMR,Marseille,370.4152179553442
+1619,2020,2201,Offshore wind - floating,Marseille,0.0
+1620,2020,2201,ElectrolysisM,Marseille,0.0
+1621,2020,2201,SMR + CCS2,Marseille,-0.0
+1622,2020,2201,SMR,Marseille,-0.0
+1623,2020,2201,Onshore wind,Marseille,0.0
+1624,2020,6301,Ground PV,Marseille,0.0
+1625,2020,6301,SMR + CCS1,Marseille,39.99999999999999
+1626,2020,6301,Existing SMR,Marseille,370.4152179553442
+1627,2020,6301,Offshore wind - floating,Marseille,0.0
+1628,2020,6301,ElectrolysisM,Marseille,0.0
+1629,2020,6301,SMR + CCS2,Marseille,-0.0
+1630,2020,6301,SMR,Marseille,-0.0
+1631,2020,6301,Onshore wind,Marseille,0.0
+1632,2020,1701,Ground PV,Marseille,0.0
+1633,2020,1701,SMR + CCS1,Marseille,39.99999999999999
+1634,2020,1701,Existing SMR,Marseille,370.4152179553442
+1635,2020,1701,Offshore wind - floating,Marseille,0.0
+1636,2020,1701,ElectrolysisM,Marseille,0.0
+1637,2020,1701,SMR + CCS2,Marseille,-0.0
+1638,2020,1701,SMR,Marseille,-0.0
+1639,2020,1701,Onshore wind,Marseille,0.0
+1640,2020,5801,Ground PV,Marseille,0.0
+1641,2020,5801,SMR + CCS1,Marseille,39.99999999999999
+1642,2020,5801,Existing SMR,Marseille,370.4152179553442
+1643,2020,5801,Offshore wind - floating,Marseille,0.0
+1644,2020,5801,ElectrolysisM,Marseille,0.0
+1645,2020,5801,SMR + CCS2,Marseille,-0.0
+1646,2020,5801,SMR,Marseille,-0.0
+1647,2020,5801,Onshore wind,Marseille,0.0
+1648,2020,1201,Ground PV,Marseille,0.0
+1649,2020,1201,SMR + CCS1,Marseille,39.99999999999999
+1650,2020,1201,Existing SMR,Marseille,370.4152179553442
+1651,2020,1201,Offshore wind - floating,Marseille,0.0
+1652,2020,1201,ElectrolysisM,Marseille,0.0
+1653,2020,1201,SMR + CCS2,Marseille,-0.0
+1654,2020,1201,SMR,Marseille,0.0
+1655,2020,1201,Onshore wind,Marseille,0.0
+1656,2020,5301,Ground PV,Marseille,0.0
+1657,2020,5301,SMR + CCS1,Marseille,39.99999999999999
+1658,2020,5301,Existing SMR,Marseille,370.4152179553442
+1659,2020,5301,Offshore wind - floating,Marseille,0.0
+1660,2020,5301,ElectrolysisM,Marseille,0.0
+1661,2020,5301,SMR + CCS2,Marseille,-0.0
+1662,2020,5301,SMR,Marseille,-0.0
+1663,2020,5301,Onshore wind,Marseille,0.0
+1664,2020,701,Ground PV,Marseille,0.0
+1665,2020,701,SMR + CCS1,Marseille,39.99999999999999
+1666,2020,701,Existing SMR,Marseille,370.4152179553442
+1667,2020,701,Offshore wind - floating,Marseille,0.0
+1668,2020,701,ElectrolysisM,Marseille,0.0
+1669,2020,701,SMR + CCS2,Marseille,-0.0
+1670,2020,701,SMR,Marseille,-0.0
+1671,2020,701,Onshore wind,Marseille,0.0
+1672,2020,4801,Ground PV,Marseille,0.0
+1673,2020,4801,SMR + CCS1,Marseille,39.99999999999999
+1674,2020,4801,Existing SMR,Marseille,370.4152179553442
+1675,2020,4801,Offshore wind - floating,Marseille,0.0
+1676,2020,4801,ElectrolysisM,Marseille,0.0
+1677,2020,4801,SMR + CCS2,Marseille,-0.0
+1678,2020,4801,SMR,Marseille,-0.0
+1679,2020,4801,Onshore wind,Marseille,0.0
+1680,2020,201,Ground PV,Marseille,0.0
+1681,2020,201,SMR + CCS1,Marseille,39.99999999999999
+1682,2020,201,Existing SMR,Marseille,370.4152179553442
+1683,2020,201,Offshore wind - floating,Marseille,0.0
+1684,2020,201,ElectrolysisM,Marseille,0.0
+1685,2020,201,SMR + CCS2,Marseille,-0.0
+1686,2020,201,SMR,Marseille,0.0
+1687,2020,201,Onshore wind,Marseille,0.0
+1688,2020,4301,Ground PV,Marseille,0.0
+1689,2020,4301,SMR + CCS1,Marseille,39.99999999999999
+1690,2020,4301,Existing SMR,Marseille,370.4152179553442
+1691,2020,4301,Offshore wind - floating,Marseille,0.0
+1692,2020,4301,ElectrolysisM,Marseille,0.0
+1693,2020,4301,SMR + CCS2,Marseille,-0.0
+1694,2020,4301,SMR,Marseille,-0.0
+1695,2020,4301,Onshore wind,Marseille,0.0
+1696,2020,8401,Ground PV,Marseille,0.0
+1697,2020,8401,SMR + CCS1,Marseille,39.99999999999999
+1698,2020,8401,Existing SMR,Marseille,370.4152179553442
+1699,2020,8401,Offshore wind - floating,Marseille,0.0
+1700,2020,8401,ElectrolysisM,Marseille,0.0
+1701,2020,8401,SMR + CCS2,Marseille,-0.0
+1702,2020,8401,SMR,Marseille,0.0
+1703,2020,8401,Onshore wind,Marseille,0.0
+1704,2020,3801,Ground PV,Marseille,0.0
+1705,2020,3801,SMR + CCS1,Marseille,39.99999999999999
+1706,2020,3801,Existing SMR,Marseille,370.4152179553442
+1707,2020,3801,Offshore wind - floating,Marseille,0.0
+1708,2020,3801,ElectrolysisM,Marseille,0.0
+1709,2020,3801,SMR + CCS2,Marseille,-0.0
+1710,2020,3801,SMR,Marseille,-0.0
+1711,2020,3801,Onshore wind,Marseille,0.0
+1712,2020,7901,Ground PV,Marseille,0.0
+1713,2020,7901,SMR + CCS1,Marseille,39.99999999999999
+1714,2020,7901,Existing SMR,Marseille,370.4152179553442
+1715,2020,7901,Offshore wind - floating,Marseille,0.0
+1716,2020,7901,ElectrolysisM,Marseille,0.0
+1717,2020,7901,SMR + CCS2,Marseille,-0.0
+1718,2020,7901,SMR,Marseille,0.0
+1719,2020,7901,Onshore wind,Marseille,0.0
+1720,2020,3301,Ground PV,Marseille,0.0
+1721,2020,3301,SMR + CCS1,Marseille,39.99999999999999
+1722,2020,3301,Existing SMR,Marseille,370.4152179553442
+1723,2020,3301,Offshore wind - floating,Marseille,0.0
+1724,2020,3301,ElectrolysisM,Marseille,0.0
+1725,2020,3301,SMR + CCS2,Marseille,-0.0
+1726,2020,3301,SMR,Marseille,-0.0
+1727,2020,3301,Onshore wind,Marseille,0.0
+1728,2020,7401,Ground PV,Marseille,0.0
+1729,2020,7401,SMR + CCS1,Marseille,39.99999999999999
+1730,2020,7401,Existing SMR,Marseille,370.4152179553442
+1731,2020,7401,Offshore wind - floating,Marseille,0.0
+1732,2020,7401,ElectrolysisM,Marseille,0.0
+1733,2020,7401,SMR + CCS2,Marseille,-0.0
+1734,2020,7401,SMR,Marseille,0.0
+1735,2020,7401,Onshore wind,Marseille,0.0
+1736,2020,2801,Ground PV,Marseille,0.0
+1737,2020,2801,SMR + CCS1,Marseille,39.99999999999999
+1738,2020,2801,Existing SMR,Marseille,370.4152179553442
+1739,2020,2801,Offshore wind - floating,Marseille,0.0
+1740,2020,2801,ElectrolysisM,Marseille,0.0
+1741,2020,2801,SMR + CCS2,Marseille,-0.0
+1742,2020,2801,SMR,Marseille,-0.0
+1743,2020,2801,Onshore wind,Marseille,0.0
+1744,2020,6901,Ground PV,Marseille,0.0
+1745,2020,6901,SMR + CCS1,Marseille,39.99999999999999
+1746,2020,6901,Existing SMR,Marseille,370.4152179553442
+1747,2020,6901,Offshore wind - floating,Marseille,0.0
+1748,2020,6901,ElectrolysisM,Marseille,0.0
+1749,2020,6901,SMR + CCS2,Marseille,-0.0
+1750,2020,6901,SMR,Marseille,-0.0
+1751,2020,6901,Onshore wind,Marseille,0.0
+1752,2020,2301,Ground PV,Marseille,0.0
+1753,2020,2301,SMR + CCS1,Marseille,39.99999999999999
+1754,2020,2301,Existing SMR,Marseille,370.4152179553442
+1755,2020,2301,Offshore wind - floating,Marseille,0.0
+1756,2020,2301,ElectrolysisM,Marseille,0.0
+1757,2020,2301,SMR + CCS2,Marseille,-0.0
+1758,2020,2301,SMR,Marseille,-0.0
+1759,2020,2301,Onshore wind,Marseille,0.0
+1760,2020,6401,Ground PV,Marseille,0.0
+1761,2020,6401,SMR + CCS1,Marseille,39.99999999999999
+1762,2020,6401,Existing SMR,Marseille,370.4152179553442
+1763,2020,6401,Offshore wind - floating,Marseille,0.0
+1764,2020,6401,ElectrolysisM,Marseille,0.0
+1765,2020,6401,SMR + CCS2,Marseille,-0.0
+1766,2020,6401,SMR,Marseille,-0.0
+1767,2020,6401,Onshore wind,Marseille,0.0
+1768,2020,1801,Ground PV,Marseille,0.0
+1769,2020,1801,SMR + CCS1,Marseille,39.99999999999999
+1770,2020,1801,Existing SMR,Marseille,370.4152179553442
+1771,2020,1801,Offshore wind - floating,Marseille,0.0
+1772,2020,1801,ElectrolysisM,Marseille,0.0
+1773,2020,1801,SMR + CCS2,Marseille,-0.0
+1774,2020,1801,SMR,Marseille,-0.0
+1775,2020,1801,Onshore wind,Marseille,0.0
+1776,2020,5901,Ground PV,Marseille,0.0
+1777,2020,5901,SMR + CCS1,Marseille,39.99999999999999
+1778,2020,5901,Existing SMR,Marseille,370.4152179553442
+1779,2020,5901,Offshore wind - floating,Marseille,0.0
+1780,2020,5901,ElectrolysisM,Marseille,0.0
+1781,2020,5901,SMR + CCS2,Marseille,-0.0
+1782,2020,5901,SMR,Marseille,-0.0
+1783,2020,5901,Onshore wind,Marseille,0.0
+1784,2020,1301,Ground PV,Marseille,0.0
+1785,2020,1301,SMR + CCS1,Marseille,39.99999999999999
+1786,2020,1301,Existing SMR,Marseille,370.4152179553442
+1787,2020,1301,Offshore wind - floating,Marseille,0.0
+1788,2020,1301,ElectrolysisM,Marseille,0.0
+1789,2020,1301,SMR + CCS2,Marseille,-0.0
+1790,2020,1301,SMR,Marseille,-0.0
+1791,2020,1301,Onshore wind,Marseille,0.0
+1792,2020,5401,Ground PV,Marseille,0.0
+1793,2020,5401,SMR + CCS1,Marseille,39.99999999999999
+1794,2020,5401,Existing SMR,Marseille,370.4152179553442
+1795,2020,5401,Offshore wind - floating,Marseille,0.0
+1796,2020,5401,ElectrolysisM,Marseille,0.0
+1797,2020,5401,SMR + CCS2,Marseille,-0.0
+1798,2020,5401,SMR,Marseille,-0.0
+1799,2020,5401,Onshore wind,Marseille,0.0
+1800,2020,801,Ground PV,Marseille,0.0
+1801,2020,801,SMR + CCS1,Marseille,39.99999999999999
+1802,2020,801,Existing SMR,Marseille,370.4152179553442
+1803,2020,801,Offshore wind - floating,Marseille,0.0
+1804,2020,801,ElectrolysisM,Marseille,0.0
+1805,2020,801,SMR + CCS2,Marseille,-0.0
+1806,2020,801,SMR,Marseille,-0.0
+1807,2020,801,Onshore wind,Marseille,0.0
+1808,2020,4901,Ground PV,Marseille,0.0
+1809,2020,4901,SMR + CCS1,Marseille,39.99999999999999
+1810,2020,4901,Existing SMR,Marseille,370.4152179553442
+1811,2020,4901,Offshore wind - floating,Marseille,0.0
+1812,2020,4901,ElectrolysisM,Marseille,0.0
+1813,2020,4901,SMR + CCS2,Marseille,-0.0
+1814,2020,4901,SMR,Marseille,-0.0
+1815,2020,4901,Onshore wind,Marseille,0.0
+1816,2020,301,Ground PV,Marseille,0.0
+1817,2020,301,SMR + CCS1,Marseille,39.99999999999999
+1818,2020,301,Existing SMR,Marseille,370.4152179553442
+1819,2020,301,Offshore wind - floating,Marseille,0.0
+1820,2020,301,ElectrolysisM,Marseille,0.0
+1821,2020,301,SMR + CCS2,Marseille,-0.0
+1822,2020,301,SMR,Marseille,-0.0
+1823,2020,301,Onshore wind,Marseille,0.0
+1824,2020,4401,Ground PV,Marseille,0.0
+1825,2020,4401,SMR + CCS1,Marseille,39.99999999999999
+1826,2020,4401,Existing SMR,Marseille,370.4152179553442
+1827,2020,4401,Offshore wind - floating,Marseille,0.0
+1828,2020,4401,ElectrolysisM,Marseille,0.0
+1829,2020,4401,SMR + CCS2,Marseille,-0.0
+1830,2020,4401,SMR,Marseille,-0.0
+1831,2020,4401,Onshore wind,Marseille,0.0
+1832,2020,8501,Ground PV,Marseille,0.0
+1833,2020,8501,SMR + CCS1,Marseille,39.99999999999999
+1834,2020,8501,Existing SMR,Marseille,370.4152179553442
+1835,2020,8501,Offshore wind - floating,Marseille,0.0
+1836,2020,8501,ElectrolysisM,Marseille,0.0
+1837,2020,8501,SMR + CCS2,Marseille,-0.0
+1838,2020,8501,SMR,Marseille,-0.0
+1839,2020,8501,Onshore wind,Marseille,0.0
+1840,2020,3901,Ground PV,Marseille,0.0
+1841,2020,3901,SMR + CCS1,Marseille,39.99999999999999
+1842,2020,3901,Existing SMR,Marseille,370.4152179553442
+1843,2020,3901,Offshore wind - floating,Marseille,0.0
+1844,2020,3901,ElectrolysisM,Marseille,0.0
+1845,2020,3901,SMR + CCS2,Marseille,-0.0
+1846,2020,3901,SMR,Marseille,-0.0
+1847,2020,3901,Onshore wind,Marseille,0.0
+1848,2020,8001,Ground PV,Marseille,0.0
+1849,2020,8001,SMR + CCS1,Marseille,39.99999999999999
+1850,2020,8001,Existing SMR,Marseille,370.4152179553442
+1851,2020,8001,Offshore wind - floating,Marseille,0.0
+1852,2020,8001,ElectrolysisM,Marseille,0.0
+1853,2020,8001,SMR + CCS2,Marseille,-0.0
+1854,2020,8001,SMR,Marseille,-0.0
+1855,2020,8001,Onshore wind,Marseille,0.0
+1856,2020,3401,Ground PV,Marseille,0.0
+1857,2020,3401,SMR + CCS1,Marseille,39.99999999999999
+1858,2020,3401,Existing SMR,Marseille,370.4152179553442
+1859,2020,3401,Offshore wind - floating,Marseille,0.0
+1860,2020,3401,ElectrolysisM,Marseille,0.0
+1861,2020,3401,SMR + CCS2,Marseille,-0.0
+1862,2020,3401,SMR,Marseille,-0.0
+1863,2020,3401,Onshore wind,Marseille,0.0
+1864,2020,7501,Ground PV,Marseille,0.0
+1865,2020,7501,SMR + CCS1,Marseille,39.99999999999999
+1866,2020,7501,Existing SMR,Marseille,370.4152179553442
+1867,2020,7501,Offshore wind - floating,Marseille,0.0
+1868,2020,7501,ElectrolysisM,Marseille,0.0
+1869,2020,7501,SMR + CCS2,Marseille,-0.0
+1870,2020,7501,SMR,Marseille,-0.0
+1871,2020,7501,Onshore wind,Marseille,0.0
+1872,2020,2901,Ground PV,Marseille,0.0
+1873,2020,2901,SMR + CCS1,Marseille,39.99999999999999
+1874,2020,2901,Existing SMR,Marseille,370.4152179553442
+1875,2020,2901,Offshore wind - floating,Marseille,0.0
+1876,2020,2901,ElectrolysisM,Marseille,0.0
+1877,2020,2901,SMR + CCS2,Marseille,-0.0
+1878,2020,2901,SMR,Marseille,-0.0
+1879,2020,2901,Onshore wind,Marseille,0.0
+1880,2020,7001,Ground PV,Marseille,0.0
+1881,2020,7001,SMR + CCS1,Marseille,39.99999999999999
+1882,2020,7001,Existing SMR,Marseille,370.4152179553442
+1883,2020,7001,Offshore wind - floating,Marseille,0.0
+1884,2020,7001,ElectrolysisM,Marseille,0.0
+1885,2020,7001,SMR + CCS2,Marseille,-0.0
+1886,2020,7001,SMR,Marseille,-0.0
+1887,2020,7001,Onshore wind,Marseille,0.0
+1888,2020,2401,Ground PV,Marseille,0.0
+1889,2020,2401,SMR + CCS1,Marseille,39.99999999999999
+1890,2020,2401,Existing SMR,Marseille,370.4152179553442
+1891,2020,2401,Offshore wind - floating,Marseille,0.0
+1892,2020,2401,ElectrolysisM,Marseille,0.0
+1893,2020,2401,SMR + CCS2,Marseille,-0.0
+1894,2020,2401,SMR,Marseille,-0.0
+1895,2020,2401,Onshore wind,Marseille,0.0
+1896,2020,6501,Ground PV,Marseille,0.0
+1897,2020,6501,SMR + CCS1,Marseille,39.99999999999999
+1898,2020,6501,Existing SMR,Marseille,370.4152179553442
+1899,2020,6501,Offshore wind - floating,Marseille,0.0
+1900,2020,6501,ElectrolysisM,Marseille,0.0
+1901,2020,6501,SMR + CCS2,Marseille,-0.0
+1902,2020,6501,SMR,Marseille,-0.0
+1903,2020,6501,Onshore wind,Marseille,0.0
+1904,2020,1901,Ground PV,Marseille,0.0
+1905,2020,1901,SMR + CCS1,Marseille,39.99999999999999
+1906,2020,1901,Existing SMR,Marseille,370.4152179553442
+1907,2020,1901,Offshore wind - floating,Marseille,0.0
+1908,2020,1901,ElectrolysisM,Marseille,0.0
+1909,2020,1901,SMR + CCS2,Marseille,-0.0
+1910,2020,1901,SMR,Marseille,-0.0
+1911,2020,1901,Onshore wind,Marseille,0.0
+1912,2020,6001,Ground PV,Marseille,0.0
+1913,2020,6001,SMR + CCS1,Marseille,39.99999999999999
+1914,2020,6001,Existing SMR,Marseille,370.4152179553442
+1915,2020,6001,Offshore wind - floating,Marseille,0.0
+1916,2020,6001,ElectrolysisM,Marseille,0.0
+1917,2020,6001,SMR + CCS2,Marseille,-0.0
+1918,2020,6001,SMR,Marseille,-0.0
+1919,2020,6001,Onshore wind,Marseille,0.0
+1920,2020,1401,Ground PV,Marseille,0.0
+1921,2020,1401,SMR + CCS1,Marseille,39.99999999999999
+1922,2020,1401,Existing SMR,Marseille,370.4152179553442
+1923,2020,1401,Offshore wind - floating,Marseille,0.0
+1924,2020,1401,ElectrolysisM,Marseille,0.0
+1925,2020,1401,SMR + CCS2,Marseille,-0.0
+1926,2020,1401,SMR,Marseille,-0.0
+1927,2020,1401,Onshore wind,Marseille,0.0
+1928,2020,5501,Ground PV,Marseille,0.0
+1929,2020,5501,SMR + CCS1,Marseille,39.99999999999999
+1930,2020,5501,Existing SMR,Marseille,370.4152179553442
+1931,2020,5501,Offshore wind - floating,Marseille,0.0
+1932,2020,5501,ElectrolysisM,Marseille,0.0
+1933,2020,5501,SMR + CCS2,Marseille,-0.0
+1934,2020,5501,SMR,Marseille,0.0
+1935,2020,5501,Onshore wind,Marseille,0.0
+1936,2020,901,Ground PV,Marseille,0.0
+1937,2020,901,SMR + CCS1,Marseille,39.99999999999999
+1938,2020,901,Existing SMR,Marseille,370.4152179553442
+1939,2020,901,Offshore wind - floating,Marseille,0.0
+1940,2020,901,ElectrolysisM,Marseille,0.0
+1941,2020,901,SMR + CCS2,Marseille,-0.0
+1942,2020,901,SMR,Marseille,-0.0
+1943,2020,901,Onshore wind,Marseille,0.0
+1944,2020,5001,Ground PV,Marseille,0.0
+1945,2020,5001,SMR + CCS1,Marseille,39.99999999999999
+1946,2020,5001,Existing SMR,Marseille,370.4152179553442
+1947,2020,5001,Offshore wind - floating,Marseille,0.0
+1948,2020,5001,ElectrolysisM,Marseille,0.0
+1949,2020,5001,SMR + CCS2,Marseille,-0.0
+1950,2020,5001,SMR,Marseille,-0.0
+1951,2020,5001,Onshore wind,Marseille,0.0
+1952,2020,401,Ground PV,Marseille,0.0
+1953,2020,401,SMR + CCS1,Marseille,39.99999999999999
+1954,2020,401,Existing SMR,Marseille,370.4152179553442
+1955,2020,401,Offshore wind - floating,Marseille,0.0
+1956,2020,401,ElectrolysisM,Marseille,0.0
+1957,2020,401,SMR + CCS2,Marseille,-0.0
+1958,2020,401,SMR,Marseille,0.0
+1959,2020,401,Onshore wind,Marseille,0.0
+1960,2020,4501,Ground PV,Marseille,0.0
+1961,2020,4501,SMR + CCS1,Marseille,39.99999999999999
+1962,2020,4501,Existing SMR,Marseille,370.4152179553442
+1963,2020,4501,Offshore wind - floating,Marseille,0.0
+1964,2020,4501,ElectrolysisM,Marseille,0.0
+1965,2020,4501,SMR + CCS2,Marseille,-0.0
+1966,2020,4501,SMR,Marseille,-0.0
+1967,2020,4501,Onshore wind,Marseille,0.0
+1968,2020,8601,Ground PV,Marseille,0.0
+1969,2020,8601,SMR + CCS1,Marseille,39.99999999999999
+1970,2020,8601,Existing SMR,Marseille,370.4152179553442
+1971,2020,8601,Offshore wind - floating,Marseille,0.0
+1972,2020,8601,ElectrolysisM,Marseille,0.0
+1973,2020,8601,SMR + CCS2,Marseille,-0.0
+1974,2020,8601,SMR,Marseille,0.0
+1975,2020,8601,Onshore wind,Marseille,0.0
+1976,2020,4001,Ground PV,Marseille,0.0
+1977,2020,4001,SMR + CCS1,Marseille,39.99999999999999
+1978,2020,4001,Existing SMR,Marseille,370.4152179553442
+1979,2020,4001,Offshore wind - floating,Marseille,0.0
+1980,2020,4001,ElectrolysisM,Marseille,0.0
+1981,2020,4001,SMR + CCS2,Marseille,-0.0
+1982,2020,4001,SMR,Marseille,-0.0
+1983,2020,4001,Onshore wind,Marseille,0.0
+1984,2020,8101,Ground PV,Marseille,0.0
+1985,2020,8101,SMR + CCS1,Marseille,39.99999999999999
+1986,2020,8101,Existing SMR,Marseille,370.4152179553442
+1987,2020,8101,Offshore wind - floating,Marseille,0.0
+1988,2020,8101,ElectrolysisM,Marseille,0.0
+1989,2020,8101,SMR + CCS2,Marseille,-0.0
+1990,2020,8101,SMR,Marseille,-0.0
+1991,2020,8101,Onshore wind,Marseille,0.0
+1992,2020,3501,Ground PV,Marseille,0.0
+1993,2020,3501,SMR + CCS1,Marseille,39.99999999999999
+1994,2020,3501,Existing SMR,Marseille,370.4152179553442
+1995,2020,3501,Offshore wind - floating,Marseille,0.0
+1996,2020,3501,ElectrolysisM,Marseille,0.0
+1997,2020,3501,SMR + CCS2,Marseille,-0.0
+1998,2020,3501,SMR,Marseille,-0.0
+1999,2020,3501,Onshore wind,Marseille,0.0
+2000,2020,7601,Ground PV,Marseille,0.0
+2001,2020,7601,SMR + CCS1,Marseille,39.99999999999999
+2002,2020,7601,Existing SMR,Marseille,370.4152179553442
+2003,2020,7601,Offshore wind - floating,Marseille,0.0
+2004,2020,7601,ElectrolysisM,Marseille,0.0
+2005,2020,7601,SMR + CCS2,Marseille,-0.0
+2006,2020,7601,SMR,Marseille,-0.0
+2007,2020,7601,Onshore wind,Marseille,0.0
+2008,2020,3001,Ground PV,Marseille,0.0
+2009,2020,3001,SMR + CCS1,Marseille,39.99999999999999
+2010,2020,3001,Existing SMR,Marseille,370.4152179553442
+2011,2020,3001,Offshore wind - floating,Marseille,0.0
+2012,2020,3001,ElectrolysisM,Marseille,0.0
+2013,2020,3001,SMR + CCS2,Marseille,-0.0
+2014,2020,3001,SMR,Marseille,-0.0
+2015,2020,3001,Onshore wind,Marseille,0.0
+2016,2020,7101,Ground PV,Marseille,0.0
+2017,2020,7101,SMR + CCS1,Marseille,39.99999999999999
+2018,2020,7101,Existing SMR,Marseille,370.4152179553442
+2019,2020,7101,Offshore wind - floating,Marseille,0.0
+2020,2020,7101,ElectrolysisM,Marseille,0.0
+2021,2020,7101,SMR + CCS2,Marseille,-0.0
+2022,2020,7101,SMR,Marseille,-0.0
+2023,2020,7101,Onshore wind,Marseille,0.0
+2024,2020,2501,Ground PV,Marseille,0.0
+2025,2020,2501,SMR + CCS1,Marseille,39.99999999999999
+2026,2020,2501,Existing SMR,Marseille,370.4152179553442
+2027,2020,2501,Offshore wind - floating,Marseille,0.0
+2028,2020,2501,ElectrolysisM,Marseille,0.0
+2029,2020,2501,SMR + CCS2,Marseille,-0.0
+2030,2020,2501,SMR,Marseille,-0.0
+2031,2020,2501,Onshore wind,Marseille,0.0
+2032,2020,6601,Ground PV,Marseille,0.0
+2033,2020,6601,SMR + CCS1,Marseille,39.99999999999999
+2034,2020,6601,Existing SMR,Marseille,370.4152179553442
+2035,2020,6601,Offshore wind - floating,Marseille,0.0
+2036,2020,6601,ElectrolysisM,Marseille,0.0
+2037,2020,6601,SMR + CCS2,Marseille,-0.0
+2038,2020,6601,SMR,Marseille,-0.0
+2039,2020,6601,Onshore wind,Marseille,0.0
+2040,2020,2001,Ground PV,Marseille,0.0
+2041,2020,2001,SMR + CCS1,Marseille,39.99999999999999
+2042,2020,2001,Existing SMR,Marseille,370.4152179553442
+2043,2020,2001,Offshore wind - floating,Marseille,0.0
+2044,2020,2001,ElectrolysisM,Marseille,0.0
+2045,2020,2001,SMR + CCS2,Marseille,-0.0
+2046,2020,2001,SMR,Marseille,0.0
+2047,2020,2001,Onshore wind,Marseille,0.0
+2048,2020,6101,Ground PV,Marseille,0.0
+2049,2020,6101,SMR + CCS1,Marseille,39.99999999999999
+2050,2020,6101,Existing SMR,Marseille,370.4152179553442
+2051,2020,6101,Offshore wind - floating,Marseille,0.0
+2052,2020,6101,ElectrolysisM,Marseille,0.0
+2053,2020,6101,SMR + CCS2,Marseille,-0.0
+2054,2020,6101,SMR,Marseille,-0.0
+2055,2020,6101,Onshore wind,Marseille,0.0
+2056,2020,1501,Ground PV,Marseille,0.0
+2057,2020,1501,SMR + CCS1,Marseille,39.99999999999999
+2058,2020,1501,Existing SMR,Marseille,370.4152179553442
+2059,2020,1501,Offshore wind - floating,Marseille,0.0
+2060,2020,1501,ElectrolysisM,Marseille,0.0
+2061,2020,1501,SMR + CCS2,Marseille,-0.0
+2062,2020,1501,SMR,Marseille,-0.0
+2063,2020,1501,Onshore wind,Marseille,0.0
+2064,2020,5601,Ground PV,Marseille,0.0
+2065,2020,5601,SMR + CCS1,Marseille,39.99999999999999
+2066,2020,5601,Existing SMR,Marseille,370.4152179553442
+2067,2020,5601,Offshore wind - floating,Marseille,0.0
+2068,2020,5601,ElectrolysisM,Marseille,0.0
+2069,2020,5601,SMR + CCS2,Marseille,-0.0
+2070,2020,5601,SMR,Marseille,-0.0
+2071,2020,5601,Onshore wind,Marseille,0.0
+2072,2020,1001,Ground PV,Marseille,0.0
+2073,2020,1001,SMR + CCS1,Marseille,39.99999999999999
+2074,2020,1001,Existing SMR,Marseille,370.4152179553442
+2075,2020,1001,Offshore wind - floating,Marseille,0.0
+2076,2020,1001,ElectrolysisM,Marseille,0.0
+2077,2020,1001,SMR + CCS2,Marseille,-0.0
+2078,2020,1001,SMR,Marseille,-0.0
+2079,2020,1001,Onshore wind,Marseille,0.0
+2080,2020,5101,Ground PV,Marseille,0.0
+2081,2020,5101,SMR + CCS1,Marseille,39.99999999999999
+2082,2020,5101,Existing SMR,Marseille,370.4152179553442
+2083,2020,5101,Offshore wind - floating,Marseille,0.0
+2084,2020,5101,ElectrolysisM,Marseille,0.0
+2085,2020,5101,SMR + CCS2,Marseille,-0.0
+2086,2020,5101,SMR,Marseille,-0.0
+2087,2020,5101,Onshore wind,Marseille,0.0
+2088,2020,501,Ground PV,Marseille,0.0
+2089,2020,501,SMR + CCS1,Marseille,39.99999999999999
+2090,2020,501,Existing SMR,Marseille,370.4152179553442
+2091,2020,501,Offshore wind - floating,Marseille,0.0
+2092,2020,501,ElectrolysisM,Marseille,0.0
+2093,2020,501,SMR + CCS2,Marseille,-0.0
+2094,2020,501,SMR,Marseille,-0.0
+2095,2020,501,Onshore wind,Marseille,0.0
+2096,2020,4601,Ground PV,Marseille,0.0
+2097,2020,4601,SMR + CCS1,Marseille,39.99999999999999
+2098,2020,4601,Existing SMR,Marseille,370.4152179553442
+2099,2020,4601,Offshore wind - floating,Marseille,0.0
+2100,2020,4601,ElectrolysisM,Marseille,0.0
+2101,2020,4601,SMR + CCS2,Marseille,-0.0
+2102,2020,4601,SMR,Marseille,0.0
+2103,2020,4601,Onshore wind,Marseille,0.0
+2104,2020,8701,Ground PV,Marseille,0.0
+2105,2020,8701,SMR + CCS1,Marseille,39.99999999999999
+2106,2020,8701,Existing SMR,Marseille,370.4152179553442
+2107,2020,8701,Offshore wind - floating,Marseille,0.0
+2108,2020,8701,ElectrolysisM,Marseille,0.0
+2109,2020,8701,SMR + CCS2,Marseille,-0.0
+2110,2020,8701,SMR,Marseille,0.0
+2111,2020,8701,Onshore wind,Marseille,0.0
+2112,2030,1,Ground PV,Marseille,0.0
+2113,2030,1,SMR + CCS1,Marseille,0.0
+2114,2030,1,Existing SMR,Marseille,0.0
+2115,2030,1,Offshore wind - floating,Marseille,0.0
+2116,2030,1,ElectrolysisM,Marseille,525.3661772076149
+2117,2030,1,SMR + CCS2,Marseille,-0.0
+2118,2030,1,SMR,Marseille,0.0
+2119,2030,1,Onshore wind,Marseille,47.39817600000239
+2120,2030,4101,Ground PV,Marseille,0.0
+2121,2030,4101,SMR + CCS1,Marseille,120.0
+2122,2030,4101,Existing SMR,Marseille,398.3938664076148
+2123,2030,4101,Offshore wind - floating,Marseille,0.0
+2124,2030,4101,ElectrolysisM,Marseille,6.9723108000003515
+2125,2030,4101,SMR + CCS2,Marseille,-0.0
+2126,2030,4101,SMR,Marseille,-0.0
+2127,2030,4101,Onshore wind,Marseille,10.72663200000054
+2128,2030,8201,Ground PV,Marseille,0.0
+2129,2030,8201,SMR + CCS1,Marseille,120.0
+2130,2030,8201,Existing SMR,Marseille,400.0
+2131,2030,8201,Offshore wind - floating,Marseille,0.0
+2132,2030,8201,ElectrolysisM,Marseille,5.366177207614377
+2133,2030,8201,SMR + CCS2,Marseille,-0.0
+2134,2030,8201,SMR,Marseille,-0.0
+2135,2030,8201,Onshore wind,Marseille,0.7635109500000001
+2136,2030,3601,Ground PV,Marseille,0.0
+2137,2030,3601,SMR + CCS1,Marseille,120.0
+2138,2030,3601,Existing SMR,Marseille,355.3043108076126
+2139,2030,3601,Offshore wind - floating,Marseille,0.0
+2140,2030,3601,ElectrolysisM,Marseille,50.06186640000253
+2141,2030,3601,SMR + CCS2,Marseille,-0.0
+2142,2030,3601,SMR,Marseille,0.0
+2143,2030,3601,Onshore wind,Marseille,77.01825600000389
+2144,2030,7701,Ground PV,Marseille,0.0
+2145,2030,7701,SMR + CCS1,Marseille,120.0
+2146,2030,7701,Existing SMR,Marseille,355.3043108076126
+2147,2030,7701,Offshore wind - floating,Marseille,0.0
+2148,2030,7701,ElectrolysisM,Marseille,50.06186640000253
+2149,2030,7701,SMR + CCS2,Marseille,-0.0
+2150,2030,7701,SMR,Marseille,0.0
+2151,2030,7701,Onshore wind,Marseille,77.01825600000389
+2152,2030,3101,Ground PV,Marseille,0.0
+2153,2030,3101,SMR + CCS1,Marseille,0.0
+2154,2030,3101,Existing SMR,Marseille,0.0
+2155,2030,3101,Offshore wind - floating,Marseille,0.0
+2156,2030,3101,ElectrolysisM,Marseille,525.3661772076149
+2157,2030,3101,SMR + CCS2,Marseille,0.0
+2158,2030,3101,SMR,Marseille,0.0
+2159,2030,3101,Onshore wind,Marseille,8.020678500000404
+2160,2030,7201,Ground PV,Marseille,0.0
+2161,2030,7201,SMR + CCS1,Marseille,0.0
+2162,2030,7201,Existing SMR,Marseille,0.0
+2163,2030,7201,Offshore wind - floating,Marseille,0.0
+2164,2030,7201,ElectrolysisM,Marseille,525.3661772076149
+2165,2030,7201,SMR + CCS2,Marseille,0.0
+2166,2030,7201,SMR,Marseille,0.0
+2167,2030,7201,Onshore wind,Marseille,0.82224252
+2168,2030,2601,Ground PV,Marseille,0.029871118515
+2169,2030,2601,SMR + CCS1,Marseille,120.0
+2170,2030,2601,Existing SMR,Marseille,367.9056553305804
+2171,2030,2601,Offshore wind - floating,Marseille,0.0
+2172,2030,2601,ElectrolysisM,Marseille,37.46052187703475
+2173,2030,2601,SMR + CCS2,Marseille,-0.0
+2174,2030,2601,SMR,Marseille,0.0
+2175,2030,2601,Onshore wind,Marseille,57.601701
+2176,2030,6701,Ground PV,Marseille,0.0
+2177,2030,6701,SMR + CCS1,Marseille,120.0
+2178,2030,6701,Existing SMR,Marseille,400.0
+2179,2030,6701,Offshore wind - floating,Marseille,0.0
+2180,2030,6701,ElectrolysisM,Marseille,5.366177207615173
+2181,2030,6701,SMR + CCS2,Marseille,-0.0
+2182,2030,6701,SMR,Marseille,-0.0
+2183,2030,6701,Onshore wind,Marseille,1.4291361
+2184,2030,2101,Ground PV,Marseille,0.04462571064
+2185,2030,2101,SMR + CCS1,Marseille,120.0
+2186,2030,2101,Existing SMR,Marseille,400.0
+2187,2030,2101,Offshore wind - floating,Marseille,0.0
+2188,2030,2101,ElectrolysisM,Marseille,5.366177207615173
+2189,2030,2101,SMR + CCS2,Marseille,-0.0
+2190,2030,2101,SMR,Marseille,-0.0
+2191,2030,2101,Onshore wind,Marseille,0.46985292000000006
+2192,2030,6201,Ground PV,Marseille,0.030627548490000003
+2193,2030,6201,SMR + CCS1,Marseille,120.0
+2194,2030,6201,Existing SMR,Marseille,374.8203492010951
+2195,2030,6201,Offshore wind - floating,Marseille,0.0
+2196,2030,6201,ElectrolysisM,Marseille,30.545828006520043
+2197,2030,6201,SMR + CCS2,Marseille,-0.0
+2198,2030,6201,SMR,Marseille,0.0
+2199,2030,6201,Onshore wind,Marseille,46.96295400000237
+2200,2030,1601,Ground PV,Marseille,0.041868695295
+2201,2030,1601,SMR + CCS1,Marseille,2.2737367544323206e-13
+2202,2030,1601,Existing SMR,Marseille,0.0
+2203,2030,1601,Offshore wind - floating,Marseille,0.0
+2204,2030,1601,ElectrolysisM,Marseille,525.3661772076149
+2205,2030,1601,SMR + CCS2,Marseille,0.0
+2206,2030,1601,SMR,Marseille,0.0
+2207,2030,1601,Onshore wind,Marseille,46.96295400000237
+2208,2030,5701,Ground PV,Marseille,0.07228618183499999
+2209,2030,5701,SMR + CCS1,Marseille,120.0
+2210,2030,5701,Existing SMR,Marseille,384.6662283394213
+2211,2030,5701,Offshore wind - floating,Marseille,0.0
+2212,2030,5701,ElectrolysisM,Marseille,20.699948868193793
+2213,2030,5701,SMR + CCS2,Marseille,-0.0
+2214,2030,5701,SMR,Marseille,0.0
+2215,2030,5701,Onshore wind,Marseille,31.773789000001603
+2216,2030,1101,Ground PV,Marseille,0.0
+2217,2030,1101,SMR + CCS1,Marseille,120.0
+2218,2030,1101,Existing SMR,Marseille,355.3043108076125
+2219,2030,1101,Offshore wind - floating,Marseille,0.0
+2220,2030,1101,ElectrolysisM,Marseille,50.06186640000253
+2221,2030,1101,SMR + CCS2,Marseille,-0.0
+2222,2030,1101,SMR,Marseille,-0.0
+2223,2030,1101,Onshore wind,Marseille,77.01825600000389
+2224,2030,5201,Ground PV,Marseille,0.037802973285
+2225,2030,5201,SMR + CCS1,Marseille,0.0
+2226,2030,5201,Existing SMR,Marseille,0.0
+2227,2030,5201,Offshore wind - floating,Marseille,0.0
+2228,2030,5201,ElectrolysisM,Marseille,525.3661772076154
+2229,2030,5201,SMR + CCS2,Marseille,-0.0
+2230,2030,5201,SMR,Marseille,0.0
+2231,2030,5201,Onshore wind,Marseille,10.998837000000554
+2232,2030,601,Ground PV,Marseille,0.0
+2233,2030,601,SMR + CCS1,Marseille,120.0
+2234,2030,601,Existing SMR,Marseille,389.25039245761434
+2235,2030,601,Offshore wind - floating,Marseille,0.0
+2236,2030,601,ElectrolysisM,Marseille,16.115784750000813
+2237,2030,601,SMR + CCS2,Marseille,-0.0
+2238,2030,601,SMR,Marseille,-0.0
+2239,2030,601,Onshore wind,Marseille,24.79351500000125
+2240,2030,4701,Ground PV,Marseille,0.0
+2241,2030,4701,SMR + CCS1,Marseille,120.0
+2242,2030,4701,Existing SMR,Marseille,385.14119450761416
+2243,2030,4701,Offshore wind - floating,Marseille,0.0
+2244,2030,4701,ElectrolysisM,Marseille,20.224982700001014
+2245,2030,4701,SMR + CCS2,Marseille,-0.0
+2246,2030,4701,SMR,Marseille,-0.0
+2247,2030,4701,Onshore wind,Marseille,31.11535800000156
+2248,2030,101,Ground PV,Marseille,0.0
+2249,2030,101,SMR + CCS1,Marseille,0.0
+2250,2030,101,Existing SMR,Marseille,0.0
+2251,2030,101,Offshore wind - floating,Marseille,0.0
+2252,2030,101,ElectrolysisM,Marseille,525.3661772076151
+2253,2030,101,SMR + CCS2,Marseille,-0.0
+2254,2030,101,SMR,Marseille,0.0
+2255,2030,101,Onshore wind,Marseille,50.067665999999996
+2256,2030,4201,Ground PV,Marseille,0.0
+2257,2030,4201,SMR + CCS1,Marseille,120.0
+2258,2030,4201,Existing SMR,Marseille,355.30431080761264
+2259,2030,4201,Offshore wind - floating,Marseille,0.0
+2260,2030,4201,ElectrolysisM,Marseille,50.06186640000253
+2261,2030,4201,SMR + CCS2,Marseille,-0.0
+2262,2030,4201,SMR,Marseille,0.0
+2263,2030,4201,Onshore wind,Marseille,77.01825600000389
+2264,2030,8301,Ground PV,Marseille,0.0
+2265,2030,8301,SMR + CCS1,Marseille,120.0
+2266,2030,8301,Existing SMR,Marseille,400.0
+2267,2030,8301,Offshore wind - floating,Marseille,0.0
+2268,2030,8301,ElectrolysisM,Marseille,5.3661772076157055
+2269,2030,8301,SMR + CCS2,Marseille,-0.0
+2270,2030,8301,SMR,Marseille,-5.671552116837119e-13
+2271,2030,8301,Onshore wind,Marseille,1.0767465
+2272,2030,3701,Ground PV,Marseille,0.0
+2273,2030,3701,SMR + CCS1,Marseille,-9.9810328128451e-14
+2274,2030,3701,Existing SMR,Marseille,0.0
+2275,2030,3701,Offshore wind - floating,Marseille,0.0
+2276,2030,3701,ElectrolysisM,Marseille,525.366177207615
+2277,2030,3701,SMR + CCS2,Marseille,0.0
+2278,2030,3701,SMR,Marseille,0.0
+2279,2030,3701,Onshore wind,Marseille,5.126657399999999
+2280,2030,7801,Ground PV,Marseille,0.0
+2281,2030,7801,SMR + CCS1,Marseille,120.0
+2282,2030,7801,Existing SMR,Marseille,378.6030590076151
+2283,2030,7801,Offshore wind - floating,Marseille,0.0
+2284,2030,7801,ElectrolysisM,Marseille,26.7631182
+2285,2030,7801,SMR + CCS2,Marseille,-0.0
+2286,2030,7801,SMR,Marseille,-0.0
+2287,2030,7801,Onshore wind,Marseille,41.174028
+2288,2030,3201,Ground PV,Marseille,0.03940545966
+2289,2030,3201,SMR + CCS1,Marseille,120.0
+2290,2030,3201,Existing SMR,Marseille,400.0
+2291,2030,3201,Offshore wind - floating,Marseille,0.0
+2292,2030,3201,ElectrolysisM,Marseille,5.366177207615173
+2293,2030,3201,SMR + CCS2,Marseille,-0.0
+2294,2030,3201,SMR,Marseille,-0.0
+2295,2030,3201,Onshore wind,Marseille,0.21534921
+2296,2030,7301,Ground PV,Marseille,0.0
+2297,2030,7301,SMR + CCS1,Marseille,0.0
+2298,2030,7301,Existing SMR,Marseille,0.0
+2299,2030,7301,Offshore wind - floating,Marseille,0.0
+2300,2030,7301,ElectrolysisM,Marseille,525.3661772076152
+2301,2030,7301,SMR + CCS2,Marseille,-0.0
+2302,2030,7301,SMR,Marseille,0.0
+2303,2030,7301,Onshore wind,Marseille,1.4487128999999999
+2304,2030,2701,Ground PV,Marseille,0.06409677015
+2305,2030,2701,SMR + CCS1,Marseille,0.0
+2306,2030,2701,Existing SMR,Marseille,0.0
+2307,2030,2701,Offshore wind - floating,Marseille,0.0
+2308,2030,2701,ElectrolysisM,Marseille,525.3661772076148
+2309,2030,2701,SMR + CCS2,Marseille,0.0
+2310,2030,2701,SMR,Marseille,0.0
+2311,2030,2701,Onshore wind,Marseille,1.4487128999999999
+2312,2030,6801,Ground PV,Marseille,0.027582880815000002
+2313,2030,6801,SMR + CCS1,Marseille,120.0
+2314,2030,6801,Existing SMR,Marseille,365.0405373850859
+2315,2030,6801,Offshore wind - floating,Marseille,0.0
+2316,2030,6801,ElectrolysisM,Marseille,40.32563982252987
+2317,2030,6801,SMR + CCS2,Marseille,-0.0
+2318,2030,6801,SMR,Marseille,0.0
+2319,2030,6801,Onshore wind,Marseille,62.011863000000005
+2320,2030,2201,Ground PV,Marseille,0.032962064415
+2321,2030,2201,SMR + CCS1,Marseille,1.564950487618321e-12
+2322,2030,2201,Existing SMR,Marseille,0.0
+2323,2030,2201,Offshore wind - floating,Marseille,0.0
+2324,2030,2201,ElectrolysisM,Marseille,525.3661772076149
+2325,2030,2201,SMR + CCS2,Marseille,-1.4246445818318508e-12
+2326,2030,2201,SMR,Marseille,0.0
+2327,2030,2201,Onshore wind,Marseille,66.874095
+2328,2030,6301,Ground PV,Marseille,0.07070174664000001
+2329,2030,6301,SMR + CCS1,Marseille,120.0
+2330,2030,6301,Existing SMR,Marseille,400.0
+2331,2030,6301,Offshore wind - floating,Marseille,0.0
+2332,2030,6301,ElectrolysisM,Marseille,5.366177207614809
+2333,2030,6301,SMR + CCS2,Marseille,-0.0
+2334,2030,6301,SMR,Marseille,-0.0
+2335,2030,6301,Onshore wind,Marseille,7.752518100000391
+2336,2030,1701,Ground PV,Marseille,0.0
+2337,2030,1701,SMR + CCS1,Marseille,120.0
+2338,2030,1701,Existing SMR,Marseille,365.3780459076131
+2339,2030,1701,Offshore wind - floating,Marseille,0.0
+2340,2030,1701,ElectrolysisM,Marseille,39.98813130000202
+2341,2030,1701,SMR + CCS2,Marseille,-0.0
+2342,2030,1701,SMR,Marseille,-0.0
+2343,2030,1701,Onshore wind,Marseille,61.5202020000031
+2344,2030,5801,Ground PV,Marseille,0.032217152415000005
+2345,2030,5801,SMR + CCS1,Marseille,0.0
+2346,2030,5801,Existing SMR,Marseille,0.0
+2347,2030,5801,Offshore wind - floating,Marseille,0.0
+2348,2030,5801,ElectrolysisM,Marseille,525.3661772076151
+2349,2030,5801,SMR + CCS2,Marseille,-0.0
+2350,2030,5801,SMR,Marseille,0.0
+2351,2030,5801,Onshore wind,Marseille,13.725477000000692
+2352,2030,1201,Ground PV,Marseille,0.0
+2353,2030,1201,SMR + CCS1,Marseille,120.0
+2354,2030,1201,Existing SMR,Marseille,387.43130570761423
+2355,2030,1201,Offshore wind - floating,Marseille,0.0
+2356,2030,1201,ElectrolysisM,Marseille,17.93487150000091
+2357,2030,1201,SMR + CCS2,Marseille,-0.0
+2358,2030,1201,SMR,Marseille,-0.0
+2359,2030,1201,Onshore wind,Marseille,27.592110000001394
+2360,2030,5301,Ground PV,Marseille,0.0
+2361,2030,5301,SMR + CCS1,Marseille,120.0
+2362,2030,5301,Existing SMR,Marseille,355.30431080761264
+2363,2030,5301,Offshore wind - floating,Marseille,0.0
+2364,2030,5301,ElectrolysisM,Marseille,50.06186640000253
+2365,2030,5301,SMR + CCS2,Marseille,-0.0
+2366,2030,5301,SMR,Marseille,-0.0
+2367,2030,5301,Onshore wind,Marseille,77.01825600000389
+2368,2030,701,Ground PV,Marseille,0.0
+2369,2030,701,SMR + CCS1,Marseille,2.9243094244696984e-13
+2370,2030,701,Existing SMR,Marseille,0.0
+2371,2030,701,Offshore wind - floating,Marseille,0.0
+2372,2030,701,ElectrolysisM,Marseille,525.3661772076148
+2373,2030,701,SMR + CCS2,Marseille,0.0
+2374,2030,701,SMR,Marseille,0.0
+2375,2030,701,Onshore wind,Marseille,54.241101000002736
+2376,2030,4801,Ground PV,Marseille,0.0
+2377,2030,4801,SMR + CCS1,Marseille,0.0
+2378,2030,4801,Existing SMR,Marseille,0.0
+2379,2030,4801,Offshore wind - floating,Marseille,0.0
+2380,2030,4801,ElectrolysisM,Marseille,525.3661772076149
+2381,2030,4801,SMR + CCS2,Marseille,0.0
+2382,2030,4801,SMR,Marseille,0.0
+2383,2030,4801,Onshore wind,Marseille,0.46985292000000006
+2384,2030,201,Ground PV,Marseille,0.0017148630450000003
+2385,2030,201,SMR + CCS1,Marseille,120.0
+2386,2030,201,Existing SMR,Marseille,400.0
+2387,2030,201,Offshore wind - floating,Marseille,0.0
+2388,2030,201,ElectrolysisM,Marseille,5.366177207615221
+2389,2030,201,SMR + CCS2,Marseille,-0.0
+2390,2030,201,SMR,Marseille,-0.0
+2391,2030,201,Onshore wind,Marseille,0.66562488
+2392,2030,4301,Ground PV,Marseille,0.0
+2393,2030,4301,SMR + CCS1,Marseille,0.0
+2394,2030,4301,Existing SMR,Marseille,0.0
+2395,2030,4301,Offshore wind - floating,Marseille,0.0
+2396,2030,4301,ElectrolysisM,Marseille,525.3661772076151
+2397,2030,4301,SMR + CCS2,Marseille,-0.0
+2398,2030,4301,SMR,Marseille,0.0
+2399,2030,4301,Onshore wind,Marseille,67.349322
+2400,2030,8401,Ground PV,Marseille,0.0
+2401,2030,8401,SMR + CCS1,Marseille,2.6051440599209695e-12
+2402,2030,8401,Existing SMR,Marseille,0.0
+2403,2030,8401,Offshore wind - floating,Marseille,0.0
+2404,2030,8401,ElectrolysisM,Marseille,525.366177207615
+2405,2030,8401,SMR + CCS2,Marseille,-2.3715794200659863e-12
+2406,2030,8401,SMR,Marseille,0.0
+2407,2030,8401,Onshore wind,Marseille,15.08794200000076
+2408,2030,3801,Ground PV,Marseille,0.024497789190000004
+2409,2030,3801,SMR + CCS1,Marseille,0.0
+2410,2030,3801,Existing SMR,Marseille,0.0
+2411,2030,3801,Offshore wind - floating,Marseille,0.0
+2412,2030,3801,ElectrolysisM,Marseille,525.3661772076157
+2413,2030,3801,SMR + CCS2,Marseille,-0.0
+2414,2030,3801,SMR,Marseille,0.0
+2415,2030,3801,Onshore wind,Marseille,20.058003000001012
+2416,2030,7901,Ground PV,Marseille,0.0
+2417,2030,7901,SMR + CCS1,Marseille,120.0
+2418,2030,7901,Existing SMR,Marseille,370.7224538076151
+2419,2030,7901,Offshore wind - floating,Marseille,0.0
+2420,2030,7901,ElectrolysisM,Marseille,34.6437234
+2421,2030,7901,SMR + CCS2,Marseille,-0.0
+2422,2030,7901,SMR,Marseille,0.0
+2423,2030,7901,Onshore wind,Marseille,53.298035999999996
+2424,2030,3301,Ground PV,Marseille,0.012190920105000001
+2425,2030,3301,SMR + CCS1,Marseille,0.0
+2426,2030,3301,Existing SMR,Marseille,0.0
+2427,2030,3301,Offshore wind - floating,Marseille,0.0
+2428,2030,3301,ElectrolysisM,Marseille,525.3661772076154
+2429,2030,3301,SMR + CCS2,Marseille,0.0
+2430,2030,3301,SMR,Marseille,0.0
+2431,2030,3301,Onshore wind,Marseille,77.01825600000389
+2432,2030,7401,Ground PV,Marseille,0.016277725065
+2433,2030,7401,SMR + CCS1,Marseille,120.0
+2434,2030,7401,Existing SMR,Marseille,355.2937302863204
+2435,2030,7401,Offshore wind - floating,Marseille,0.0
+2436,2030,7401,ElectrolysisM,Marseille,50.07244692129478
+2437,2030,7401,SMR + CCS2,Marseille,-0.0
+2438,2030,7401,SMR,Marseille,0.0
+2439,2030,7401,Onshore wind,Marseille,77.01825600000389
+2440,2030,2801,Ground PV,Marseille,0.025518648225
+2441,2030,2801,SMR + CCS1,Marseille,0.0
+2442,2030,2801,Existing SMR,Marseille,0.0
+2443,2030,2801,Offshore wind - floating,Marseille,0.0
+2444,2030,2801,ElectrolysisM,Marseille,525.3661772076149
+2445,2030,2801,SMR + CCS2,Marseille,0.0
+2446,2030,2801,SMR,Marseille,0.0
+2447,2030,2801,Onshore wind,Marseille,41.56930800000209
+2448,2030,6901,Ground PV,Marseille,0.022938547379999997
+2449,2030,6901,SMR + CCS1,Marseille,120.0
+2450,2030,6901,Existing SMR,Marseille,400.0
+2451,2030,6901,Offshore wind - floating,Marseille,0.0
+2452,2030,6901,ElectrolysisM,Marseille,5.366177207614496
+2453,2030,6901,SMR + CCS2,Marseille,-0.0
+2454,2030,6901,SMR,Marseille,-0.0
+2455,2030,6901,Onshore wind,Marseille,6.9521543999999995
+2456,2030,2301,Ground PV,Marseille,0.0
+2457,2030,2301,SMR + CCS1,Marseille,120.0
+2458,2030,2301,Existing SMR,Marseille,355.30431080761264
+2459,2030,2301,Offshore wind - floating,Marseille,0.0
+2460,2030,2301,ElectrolysisM,Marseille,50.06186640000253
+2461,2030,2301,SMR + CCS2,Marseille,-0.0
+2462,2030,2301,SMR,Marseille,-0.0
+2463,2030,2301,Onshore wind,Marseille,77.01825600000389
+2464,2030,6401,Ground PV,Marseille,0.03349301508
+2465,2030,6401,SMR + CCS1,Marseille,2.3356463985498236e-13
+2466,2030,6401,Existing SMR,Marseille,0.0
+2467,2030,6401,Offshore wind - floating,Marseille,0.0
+2468,2030,6401,ElectrolysisM,Marseille,525.3661772076148
+2469,2030,6401,SMR + CCS2,Marseille,0.0
+2470,2030,6401,SMR,Marseille,0.0
+2471,2030,6401,Onshore wind,Marseille,10.182789000000511
+2472,2030,1801,Ground PV,Marseille,0.0
+2473,2030,1801,SMR + CCS1,Marseille,120.0
+2474,2030,1801,Existing SMR,Marseille,355.30431080761264
+2475,2030,1801,Offshore wind - floating,Marseille,0.0
+2476,2030,1801,ElectrolysisM,Marseille,50.06186640000253
+2477,2030,1801,SMR + CCS2,Marseille,-0.0
+2478,2030,1801,SMR,Marseille,0.0
+2479,2030,1801,Onshore wind,Marseille,77.01825600000389
+2480,2030,5901,Ground PV,Marseille,0.0
+2481,2030,5901,SMR + CCS1,Marseille,120.0
+2482,2030,5901,Existing SMR,Marseille,400.0
+2483,2030,5901,Offshore wind - floating,Marseille,0.0
+2484,2030,5901,ElectrolysisM,Marseille,5.366177207615172
+2485,2030,5901,SMR + CCS2,Marseille,-0.0
+2486,2030,5901,SMR,Marseille,-0.0
+2487,2030,5901,Onshore wind,Marseille,0.68520213
+2488,2030,1301,Ground PV,Marseille,0.0
+2489,2030,1301,SMR + CCS1,Marseille,120.0
+2490,2030,1301,Existing SMR,Marseille,355.3043108076126
+2491,2030,1301,Offshore wind - floating,Marseille,0.0
+2492,2030,1301,ElectrolysisM,Marseille,50.06186640000253
+2493,2030,1301,SMR + CCS2,Marseille,-0.0
+2494,2030,1301,SMR,Marseille,-0.0
+2495,2030,1301,Onshore wind,Marseille,77.01825600000389
+2496,2030,5401,Ground PV,Marseille,0.0
+2497,2030,5401,SMR + CCS1,Marseille,2.3270434976626356e-14
+2498,2030,5401,Existing SMR,Marseille,0.0
+2499,2030,5401,Offshore wind - floating,Marseille,0.0
+2500,2030,5401,ElectrolysisM,Marseille,525.3661772076151
+2501,2030,5401,SMR + CCS2,Marseille,0.0
+2502,2030,5401,SMR,Marseille,0.0
+2503,2030,5401,Onshore wind,Marseille,77.01825600000389
+2504,2030,801,Ground PV,Marseille,0.00623410389
+2505,2030,801,SMR + CCS1,Marseille,120.0
+2506,2030,801,Existing SMR,Marseille,355.3002586400841
+2507,2030,801,Offshore wind - floating,Marseille,0.0
+2508,2030,801,ElectrolysisM,Marseille,50.06591856753103
+2509,2030,801,SMR + CCS2,Marseille,-0.0
+2510,2030,801,SMR,Marseille,0.0
+2511,2030,801,Onshore wind,Marseille,77.01825600000389
+2512,2030,4901,Ground PV,Marseille,0.0
+2513,2030,4901,SMR + CCS1,Marseille,120.0
+2514,2030,4901,Existing SMR,Marseille,400.0
+2515,2030,4901,Offshore wind - floating,Marseille,0.0
+2516,2030,4901,ElectrolysisM,Marseille,5.366177207615172
+2517,2030,4901,SMR + CCS2,Marseille,-0.0
+2518,2030,4901,SMR,Marseille,-0.0
+2519,2030,4901,Onshore wind,Marseille,0.9397061999999999
+2520,2030,301,Ground PV,Marseille,0.006530745900000001
+2521,2030,301,SMR + CCS1,Marseille,120.0
+2522,2030,301,Existing SMR,Marseille,400.0
+2523,2030,301,Offshore wind - floating,Marseille,0.0
+2524,2030,301,ElectrolysisM,Marseille,5.366177207615075
+2525,2030,301,SMR + CCS2,Marseille,-0.0
+2526,2030,301,SMR,Marseille,-0.0
+2527,2030,301,Onshore wind,Marseille,1.8778293
+2528,2030,4401,Ground PV,Marseille,0.01758446382
+2529,2030,4401,SMR + CCS1,Marseille,120.0
+2530,2030,4401,Existing SMR,Marseille,400.0
+2531,2030,4401,Offshore wind - floating,Marseille,0.0
+2532,2030,4401,ElectrolysisM,Marseille,5.366177207615173
+2533,2030,4401,SMR + CCS2,Marseille,-0.0
+2534,2030,4401,SMR,Marseille,-0.0
+2535,2030,4401,Onshore wind,Marseille,2.9966201999999997
+2536,2030,8501,Ground PV,Marseille,0.0
+2537,2030,8501,SMR + CCS1,Marseille,0.0
+2538,2030,8501,Existing SMR,Marseille,0.0
+2539,2030,8501,Offshore wind - floating,Marseille,0.0
+2540,2030,8501,ElectrolysisM,Marseille,525.3661772076149
+2541,2030,8501,SMR + CCS2,Marseille,-0.0
+2542,2030,8501,SMR,Marseille,0.0
+2543,2030,8501,Onshore wind,Marseille,23.8790790000012
+2544,2030,3901,Ground PV,Marseille,0.071052417135
+2545,2030,3901,SMR + CCS1,Marseille,0.0
+2546,2030,3901,Existing SMR,Marseille,0.0
+2547,2030,3901,Offshore wind - floating,Marseille,0.0
+2548,2030,3901,ElectrolysisM,Marseille,525.366177207615
+2549,2030,3901,SMR + CCS2,Marseille,-0.0
+2550,2030,3901,SMR,Marseille,0.0
+2551,2030,3901,Onshore wind,Marseille,1.3508271
+2552,2030,8001,Ground PV,Marseille,0.0033344326049999998
+2553,2030,8001,SMR + CCS1,Marseille,120.0
+2554,2030,8001,Existing SMR,Marseille,355.3021434264193
+2555,2030,8001,Offshore wind - floating,Marseille,0.0
+2556,2030,8001,ElectrolysisM,Marseille,50.06403378119578
+2557,2030,8001,SMR + CCS2,Marseille,-0.0
+2558,2030,8001,SMR,Marseille,0.0
+2559,2030,8001,Onshore wind,Marseille,77.01825600000389
+2560,2030,3401,Ground PV,Marseille,0.037641416295
+2561,2030,3401,SMR + CCS1,Marseille,0.0
+2562,2030,3401,Existing SMR,Marseille,0.0
+2563,2030,3401,Offshore wind - floating,Marseille,0.0
+2564,2030,3401,ElectrolysisM,Marseille,525.3661772076149
+2565,2030,3401,SMR + CCS2,Marseille,-0.0
+2566,2030,3401,SMR,Marseille,0.0
+2567,2030,3401,Onshore wind,Marseille,77.01825600000389
+2568,2030,7501,Ground PV,Marseille,0.06767511177
+2569,2030,7501,SMR + CCS1,Marseille,2.283934734520281e-13
+2570,2030,7501,Existing SMR,Marseille,0.0
+2571,2030,7501,Offshore wind - floating,Marseille,0.0
+2572,2030,7501,ElectrolysisM,Marseille,525.3661772076149
+2573,2030,7501,SMR + CCS2,Marseille,0.0
+2574,2030,7501,SMR,Marseille,0.0
+2575,2030,7501,Onshore wind,Marseille,77.01825600000389
+2576,2030,2901,Ground PV,Marseille,0.0
+2577,2030,2901,SMR + CCS1,Marseille,120.0
+2578,2030,2901,Existing SMR,Marseille,399.10018955761484
+2579,2030,2901,Offshore wind - floating,Marseille,0.0
+2580,2030,2901,ElectrolysisM,Marseille,6.265987650000316
+2581,2030,2901,SMR + CCS2,Marseille,-0.0
+2582,2030,2901,SMR,Marseille,0.0
+2583,2030,2901,Onshore wind,Marseille,9.639981000000486
+2584,2030,7001,Ground PV,Marseille,0.029609413260000002
+2585,2030,7001,SMR + CCS1,Marseille,1.4529832570771697e-13
+2586,2030,7001,Existing SMR,Marseille,0.0
+2587,2030,7001,Offshore wind - floating,Marseille,0.0
+2588,2030,7001,ElectrolysisM,Marseille,525.366177207615
+2589,2030,7001,SMR + CCS2,Marseille,0.0
+2590,2030,7001,SMR,Marseille,0.0
+2591,2030,7001,Onshore wind,Marseille,75.29670900000382
+2592,2030,2401,Ground PV,Marseille,0.0
+2593,2030,2401,SMR + CCS1,Marseille,2.2737367544323206e-13
+2594,2030,2401,Existing SMR,Marseille,0.0
+2595,2030,2401,Offshore wind - floating,Marseille,0.0
+2596,2030,2401,ElectrolysisM,Marseille,525.3661772076149
+2597,2030,2401,SMR + CCS2,Marseille,0.0
+2598,2030,2401,SMR,Marseille,0.0
+2599,2030,2401,Onshore wind,Marseille,1.6640621999999998
+2600,2030,6501,Ground PV,Marseille,0.0
+2601,2030,6501,SMR + CCS1,Marseille,120.0
+2602,2030,6501,Existing SMR,Marseille,355.30431080761264
+2603,2030,6501,Offshore wind - floating,Marseille,0.0
+2604,2030,6501,ElectrolysisM,Marseille,50.06186640000253
+2605,2030,6501,SMR + CCS2,Marseille,-0.0
+2606,2030,6501,SMR,Marseille,-0.0
+2607,2030,6501,Onshore wind,Marseille,77.01825600000389
+2608,2030,1901,Ground PV,Marseille,0.0
+2609,2030,1901,SMR + CCS1,Marseille,120.0
+2610,2030,1901,Existing SMR,Marseille,360.08044970761284
+2611,2030,1901,Offshore wind - floating,Marseille,0.0
+2612,2030,1901,ElectrolysisM,Marseille,45.28572750000229
+2613,2030,1901,SMR + CCS2,Marseille,-0.0
+2614,2030,1901,SMR,Marseille,-0.0
+2615,2030,1901,Onshore wind,Marseille,69.67035000000351
+2616,2030,6001,Ground PV,Marseille,0.0
+2617,2030,6001,SMR + CCS1,Marseille,120.0
+2618,2030,6001,Existing SMR,Marseille,400.0
+2619,2030,6001,Offshore wind - floating,Marseille,0.0
+2620,2030,6001,ElectrolysisM,Marseille,5.366177207615124
+2621,2030,6001,SMR + CCS2,Marseille,-0.0
+2622,2030,6001,SMR,Marseille,-0.0
+2623,2030,6001,Onshore wind,Marseille,2.7878472
+2624,2030,1401,Ground PV,Marseille,0.015036127995
+2625,2030,1401,SMR + CCS1,Marseille,120.0
+2626,2030,1401,Existing SMR,Marseille,384.7034408744173
+2627,2030,1401,Offshore wind - floating,Marseille,0.0
+2628,2030,1401,ElectrolysisM,Marseille,20.662736333197795
+2629,2030,1401,SMR + CCS2,Marseille,-0.0
+2630,2030,1401,SMR,Marseille,0.0
+2631,2030,1401,Onshore wind,Marseille,31.773789000001603
+2632,2030,5501,Ground PV,Marseille,0.0
+2633,2030,5501,SMR + CCS1,Marseille,0.07635109950001784
+2634,2030,5501,Existing SMR,Marseille,0.0
+2635,2030,5501,Offshore wind - floating,Marseille,0.0
+2636,2030,5501,ElectrolysisM,Marseille,525.2898261081151
+2637,2030,5501,SMR + CCS2,Marseille,0.0
+2638,2030,5501,SMR,Marseille,0.0
+2639,2030,5501,Onshore wind,Marseille,0.35238969000000003
+2640,2030,901,Ground PV,Marseille,0.07359011782500001
+2641,2030,901,SMR + CCS1,Marseille,120.0
+2642,2030,901,Existing SMR,Marseille,355.25647723102634
+2643,2030,901,Offshore wind - floating,Marseille,0.0
+2644,2030,901,ElectrolysisM,Marseille,50.109699976588786
+2645,2030,901,SMR + CCS2,Marseille,-0.0
+2646,2030,901,SMR,Marseille,-0.0
+2647,2030,901,Onshore wind,Marseille,77.01825600000389
+2648,2030,5001,Ground PV,Marseille,0.03280477074
+2649,2030,5001,SMR + CCS1,Marseille,120.0
+2650,2030,5001,Existing SMR,Marseille,355.2829877066316
+2651,2030,5001,Offshore wind - floating,Marseille,0.0
+2652,2030,5001,ElectrolysisM,Marseille,50.08318950098353
+2653,2030,5001,SMR + CCS2,Marseille,-0.0
+2654,2030,5001,SMR,Marseille,-0.0
+2655,2030,5001,Onshore wind,Marseille,77.01825600000389
+2656,2030,401,Ground PV,Marseille,0.051575677545
+2657,2030,401,SMR + CCS1,Marseille,120.0
+2658,2030,401,Existing SMR,Marseille,355.27078661720833
+2659,2030,401,Offshore wind - floating,Marseille,0.0
+2660,2030,401,ElectrolysisM,Marseille,50.09539059040679
+2661,2030,401,SMR + CCS2,Marseille,-0.0
+2662,2030,401,SMR,Marseille,0.0
+2663,2030,401,Onshore wind,Marseille,77.01825600000389
+2664,2030,4501,Ground PV,Marseille,0.06930974809500001
+2665,2030,4501,SMR + CCS1,Marseille,3.410605131648481e-13
+2666,2030,4501,Existing SMR,Marseille,0.0
+2667,2030,4501,Offshore wind - floating,Marseille,0.0
+2668,2030,4501,ElectrolysisM,Marseille,525.3661772076148
+2669,2030,4501,SMR + CCS2,Marseille,0.0
+2670,2030,4501,SMR,Marseille,0.0
+2671,2030,4501,Onshore wind,Marseille,12.361832999999999
+2672,2030,8601,Ground PV,Marseille,0.00011754687
+2673,2030,8601,SMR + CCS1,Marseille,120.0
+2674,2030,8601,Existing SMR,Marseille,355.30423440214713
+2675,2030,8601,Offshore wind - floating,Marseille,0.0
+2676,2030,8601,ElectrolysisM,Marseille,50.061942805468036
+2677,2030,8601,SMR + CCS2,Marseille,-0.0
+2678,2030,8601,SMR,Marseille,-0.0
+2679,2030,8601,Onshore wind,Marseille,77.01825600000389
+2680,2030,4001,Ground PV,Marseille,0.036830651025
+2681,2030,4001,SMR + CCS1,Marseille,0.0
+2682,2030,4001,Existing SMR,Marseille,0.0
+2683,2030,4001,Offshore wind - floating,Marseille,0.0
+2684,2030,4001,ElectrolysisM,Marseille,525.3661772076149
+2685,2030,4001,SMR + CCS2,Marseille,-0.0
+2686,2030,4001,SMR,Marseille,0.0
+2687,2030,4001,Onshore wind,Marseille,18.93078
+2688,2030,8101,Ground PV,Marseille,0.06690843747000001
+2689,2030,8101,SMR + CCS1,Marseille,120.0
+2690,2030,8101,Existing SMR,Marseille,400.0
+2691,2030,8101,Offshore wind - floating,Marseille,0.0
+2692,2030,8101,ElectrolysisM,Marseille,5.3661772076159195
+2693,2030,8101,SMR + CCS2,Marseille,-0.0
+2694,2030,8101,SMR,Marseille,-0.0
+2695,2030,8101,Onshore wind,Marseille,0.78308811
+2696,2030,3501,Ground PV,Marseille,0.0
+2697,2030,3501,SMR + CCS1,Marseille,120.0
+2698,2030,3501,Existing SMR,Marseille,371.0268936576134
+2699,2030,3501,Offshore wind - floating,Marseille,0.0
+2700,2030,3501,ElectrolysisM,Marseille,34.33928355000174
+2701,2030,3501,SMR + CCS2,Marseille,-0.0
+2702,2030,3501,SMR,Marseille,0.0
+2703,2030,3501,Onshore wind,Marseille,52.829667000002665
+2704,2030,7601,Ground PV,Marseille,0.011457825855000001
+2705,2030,7601,SMR + CCS1,Marseille,120.0
+2706,2030,7601,Existing SMR,Marseille,384.0544394708083
+2707,2030,7601,Offshore wind - floating,Marseille,0.0
+2708,2030,7601,ElectrolysisM,Marseille,21.311737736806823
+2709,2030,7601,SMR + CCS2,Marseille,-0.0
+2710,2030,7601,SMR,Marseille,-0.0
+2711,2030,7601,Onshore wind,Marseille,32.77583100000165
+2712,2030,3001,Ground PV,Marseille,0.0
+2713,2030,3001,SMR + CCS1,Marseille,3.804136492992543e-12
+2714,2030,3001,Existing SMR,Marseille,0.0
+2715,2030,3001,Offshore wind - floating,Marseille,0.0
+2716,2030,3001,ElectrolysisM,Marseille,525.3661772076149
+2717,2030,3001,SMR + CCS2,Marseille,-3.463075979827694e-12
+2718,2030,3001,SMR,Marseille,0.0
+2719,2030,3001,Onshore wind,Marseille,28.22337000000142
+2720,2030,7101,Ground PV,Marseille,0.0
+2721,2030,7101,SMR + CCS1,Marseille,120.0
+2722,2030,7101,Existing SMR,Marseille,398.57068850761516
+2723,2030,7101,Offshore wind - floating,Marseille,0.0
+2724,2030,7101,ElectrolysisM,Marseille,6.7954887
+2725,2030,7101,SMR + CCS2,Marseille,-0.0
+2726,2030,7101,SMR,Marseille,-0.0
+2727,2030,7101,Onshore wind,Marseille,10.454597999999999
+2728,2030,2501,Ground PV,Marseille,0.0
+2729,2030,2501,SMR + CCS1,Marseille,120.0
+2730,2030,2501,Existing SMR,Marseille,400.0
+2731,2030,2501,Offshore wind - floating,Marseille,0.0
+2732,2030,2501,ElectrolysisM,Marseille,5.366177207615173
+2733,2030,2501,SMR + CCS2,Marseille,-0.0
+2734,2030,2501,SMR,Marseille,-0.0
+2735,2030,2501,Onshore wind,Marseille,3.434931
+2736,2030,6601,Ground PV,Marseille,0.0
+2737,2030,6601,SMR + CCS1,Marseille,2.2737367544323206e-13
+2738,2030,6601,Existing SMR,Marseille,0.0
+2739,2030,6601,Offshore wind - floating,Marseille,0.0
+2740,2030,6601,ElectrolysisM,Marseille,525.3661772076149
+2741,2030,6601,SMR + CCS2,Marseille,0.0
+2742,2030,6601,SMR,Marseille,0.0
+2743,2030,6601,Onshore wind,Marseille,77.01825600000389
+2744,2030,2001,Ground PV,Marseille,0.0312618306
+2745,2030,2001,SMR + CCS1,Marseille,120.0
+2746,2030,2001,Existing SMR,Marseille,355.28399061772257
+2747,2030,2001,Offshore wind - floating,Marseille,0.0
+2748,2030,2001,ElectrolysisM,Marseille,50.08218658989253
+2749,2030,2001,SMR + CCS2,Marseille,-0.0
+2750,2030,2001,SMR,Marseille,0.0
+2751,2030,2001,Onshore wind,Marseille,77.01825600000389
+2752,2030,6101,Ground PV,Marseille,0.0
+2753,2030,6101,SMR + CCS1,Marseille,120.0
+2754,2030,6101,Existing SMR,Marseille,355.3043108076129
+2755,2030,6101,Offshore wind - floating,Marseille,0.0
+2756,2030,6101,ElectrolysisM,Marseille,50.06186640000253
+2757,2030,6101,SMR + CCS2,Marseille,-0.0
+2758,2030,6101,SMR,Marseille,0.0
+2759,2030,6101,Onshore wind,Marseille,77.01825600000389
+2760,2030,1501,Ground PV,Marseille,0.07405931694000001
+2761,2030,1501,SMR + CCS1,Marseille,120.0
+2762,2030,1501,Existing SMR,Marseille,355.25617225160164
+2763,2030,1501,Offshore wind - floating,Marseille,0.0
+2764,2030,1501,ElectrolysisM,Marseille,50.110004956013526
+2765,2030,1501,SMR + CCS2,Marseille,-0.0
+2766,2030,1501,SMR,Marseille,-0.0
+2767,2030,1501,Onshore wind,Marseille,77.01825600000389
+2768,2030,5601,Ground PV,Marseille,0.0333209079
+2769,2030,5601,SMR + CCS1,Marseille,120.0
+2770,2030,5601,Existing SMR,Marseille,400.0
+2771,2030,5601,Offshore wind - floating,Marseille,0.0
+2772,2030,5601,ElectrolysisM,Marseille,5.366177207615514
+2773,2030,5601,SMR + CCS2,Marseille,-0.0
+2774,2030,5601,SMR,Marseille,-3.410605131648481e-13
+2775,2030,5601,Onshore wind,Marseille,0.58731606
+2776,2030,1001,Ground PV,Marseille,0.03133488981
+2777,2030,1001,SMR + CCS1,Marseille,120.0
+2778,2030,1001,Existing SMR,Marseille,390.2166506792387
+2779,2030,1001,Offshore wind - floating,Marseille,0.0
+2780,2030,1001,ElectrolysisM,Marseille,15.149526528376501
+2781,2030,1001,SMR + CCS2,Marseille,-0.0
+2782,2030,1001,SMR,Marseille,0.0
+2783,2030,1001,Onshore wind,Marseille,23.275629
+2784,2030,5101,Ground PV,Marseille,0.07018085991
+2785,2030,5101,SMR + CCS1,Marseille,0.0
+2786,2030,5101,Existing SMR,Marseille,0.0
+2787,2030,5101,Offshore wind - floating,Marseille,0.0
+2788,2030,5101,ElectrolysisM,Marseille,525.3661772076149
+2789,2030,5101,SMR + CCS2,Marseille,0.0
+2790,2030,5101,SMR,Marseille,0.0
+2791,2030,5101,Onshore wind,Marseille,19.491894000000983
+2792,2030,501,Ground PV,Marseille,0.0
+2793,2030,501,SMR + CCS1,Marseille,120.0
+2794,2030,501,Existing SMR,Marseille,355.3043108076126
+2795,2030,501,Offshore wind - floating,Marseille,0.0
+2796,2030,501,ElectrolysisM,Marseille,50.06186640000253
+2797,2030,501,SMR + CCS2,Marseille,-0.0
+2798,2030,501,SMR,Marseille,-0.0
+2799,2030,501,Onshore wind,Marseille,77.01825600000389
+2800,2030,4601,Ground PV,Marseille,0.035104243230000005
+2801,2030,4601,SMR + CCS1,Marseille,0.0
+2802,2030,4601,Existing SMR,Marseille,0.0
+2803,2030,4601,Offshore wind - floating,Marseille,0.0
+2804,2030,4601,ElectrolysisM,Marseille,525.3661772076151
+2805,2030,4601,SMR + CCS2,Marseille,-0.0
+2806,2030,4601,SMR,Marseille,0.0
+2807,2030,4601,Onshore wind,Marseille,17.546166000000884
+2808,2030,8701,Ground PV,Marseille,0.067219847205
+2809,2030,8701,SMR + CCS1,Marseille,3.13307493978518e-13
+2810,2030,8701,Existing SMR,Marseille,0.0
+2811,2030,8701,Offshore wind - floating,Marseille,0.0
+2812,2030,8701,ElectrolysisM,Marseille,525.366177207615
+2813,2030,8701,SMR + CCS2,Marseille,0.0
+2814,2030,8701,SMR,Marseille,0.0
+2815,2030,8701,Onshore wind,Marseille,77.01825600000389

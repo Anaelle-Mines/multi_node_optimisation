@@ -1,0 +1,41 @@
+,YEAR_op,RESOURCES,AREA,importCosts_Pvar
+0,2040,biogas,Alpin,0.0
+1,2040,biogas,Marseille,1930637.7977956447
+2,2040,hydrogen,Alpin,-9.692584612603116e-25
+3,2040,hydrogen,Marseille,0.0
+4,2040,gas,Alpin,0.0
+5,2040,gas,Marseille,0.0
+6,2040,electricity,Alpin,0.0
+7,2040,electricity,Marseille,6954258.810758475
+8,2040,natural gas,Alpin,4.8760059173561845e-14
+9,2040,natural gas,Marseille,60621597.6771472
+10,2050,biogas,Alpin,-9.723724858366552e-27
+11,2050,biogas,Marseille,11961022.421588538
+12,2050,hydrogen,Alpin,1.698264894112512e-24
+13,2050,hydrogen,Marseille,1.1795761252200172e-08
+14,2050,gas,Alpin,0.0
+15,2050,gas,Marseille,0.0
+16,2050,electricity,Alpin,0.0
+17,2050,electricity,Marseille,2852663.2564631943
+18,2050,natural gas,Alpin,0.0
+19,2050,natural gas,Marseille,50513886.491968445
+20,2020,biogas,Alpin,0.0
+21,2020,biogas,Marseille,0.0
+22,2020,hydrogen,Alpin,0.0
+23,2020,hydrogen,Marseille,3.156313270626894e-07
+24,2020,gas,Alpin,0.0
+25,2020,gas,Marseille,0.0
+26,2020,electricity,Alpin,0.0
+27,2020,electricity,Marseille,0.0
+28,2020,natural gas,Alpin,0.0
+29,2020,natural gas,Marseille,71008109.38334477
+30,2030,biogas,Alpin,0.0
+31,2030,biogas,Marseille,0.0
+32,2030,hydrogen,Alpin,3.835384836363969e-25
+33,2030,hydrogen,Marseille,1.2922982734696341e-08
+34,2030,gas,Alpin,0.0
+35,2030,gas,Marseille,0.0
+36,2030,electricity,Alpin,0.0
+37,2030,electricity,Marseille,16934317.721551146
+38,2030,natural gas,Alpin,3.859713779407569e-25
+39,2030,natural gas,Marseille,72277090.4700097

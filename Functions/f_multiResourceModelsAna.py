@@ -18,7 +18,7 @@ def loadScenario(scenario, printTables=False):
     TechParameters = scenario['conversionTechs'].transpose().fillna(0)
     TechParameters.index.name = 'TECHNOLOGIES'
     TechParametersList = ['powerCost', 'operationCost', 'investCost', 'EnergyNbhourCap', 'minCapacity', 'maxCapacity',
-                          'RampConstraintPlus', 'RampConstraintMoins', 'RampConstraintPlus2', 'RampConstraintMoins2', 'EmissionCO2', 'capacityLim', 'techUnitPower']
+                          'RampConstraintPlus', 'RampConstraintMoins', 'RampConstraintPlus2', 'RampConstraintMoins2', 'EmissionCO2', 'capacityLim']
     for k in TechParametersList:
         if k not in TechParameters:
             TechParameters[k] = 0
@@ -320,21 +320,27 @@ def systemModel(scenario, isAbstract=False):
                                      initialize=availabilityFactor.loc[:, "availabilityFactor"].squeeze().to_dict())
     model.conversionFactor = Param(model.RESOURCES_TECHNOLOGIES, default=0,
                                    initialize=conversionFactor.loc[:, "conversionFactor"].squeeze().to_dict())
-    # model.carbon_goal = Param(model.YEAR_op, default=0, initialize=carbonGoals.loc[:, 'carbonGoals'].squeeze(
-    # ).to_dict(), domain=NonNegativeReals)
-    model.carbon_taxe = Param(model.YEAR_op, default=0, initialize=CarbonTax.loc[:, 'carbonTax'].squeeze(
-    ).to_dict(), domain=NonNegativeReals)
-    #model.gazBio_max = Param(model.YEAR_op, default=0,initialize={2:103000,3:206000,4:310000}, domain=NonNegativeReals)
-    model.gazBio_max = Param(model.YEAR_op, default=0, initialize=inputDict["maxBiogasCap"].loc[:, "maxBiogasCap"].squeeze(
-    ).to_dict(), domain=NonNegativeReals)
+
+    if len(YEAR_list)>2:
+        # model.carbon_goal = Param(model.YEAR_op, default=0, initialize=carbonGoals.loc[:, 'carbonGoals'].squeeze().to_dict(), domain=NonNegativeReals)
+        model.carbon_taxe = Param(model.YEAR_op, default=0, initialize=CarbonTax.loc[:, 'carbonTax'].squeeze().to_dict(), domain=NonNegativeReals)
+        model.gazBio_max = Param(model.YEAR_op, default=0, initialize=inputDict["maxBiogasCap"].loc[:, "maxBiogasCap"].squeeze().to_dict(), domain=NonNegativeReals)
+    else:
+        # model.carbon_goal = Param(model.YEAR_op, default=0, initialize=carbonGoals['carbonGoals'], domain=NonNegativeReals)
+        model.carbon_taxe = Param(model.YEAR_op, default=0, initialize=CarbonTax['carbonTax'], domain=NonNegativeReals)
+        model.gazBio_max = Param(model.YEAR_op, default=0, initialize=inputDict["maxBiogasCap"]["maxBiogasCap"], domain=NonNegativeReals)
+   
 
     model.transFactor = Param(model.TECHNOLOGIES_TECHNOLOGIES, mutable=False,
                               default=0, initialize=TransFactors.loc[:, 'TransFactor'].squeeze().to_dict())
 
     model.turpeFactors=Param(model.HORAIRE, mutable=False, initialize=turpeFactors.loc[:, 'fixeTurpeHTB'].squeeze().to_dict())
 
-    model.distances = Param(model.AREA_AREA, mutable=False, default=0,
+    if len(AREA_list)>1:
+        model.distances = Param(model.AREA_AREA, mutable=False, default=0,
                             initialize=Distances.loc[:, 'distances'].squeeze().to_dict())
+    else:
+        model.distances= Param(model.AREA_AREA, mutable=False, default=0,initialize=0)
 
     gasTypes = ['biogas', 'natural gas']
     # with test of existing columns on TechParameters
@@ -425,7 +431,7 @@ def systemModel(scenario, isAbstract=False):
 
     # Maximum transport flow from area a to b ie la puissance (en MWh/h) à travers une section du pipe/de la route
     model.TmaxTot_Pvar = Var(
-        model.YEAR_invest,  model.TRANS_TECHNO, model.AREA_AREA, domain=NonNegativeIntegers)
+        model.YEAR_invest,  model.TRANS_TECHNO, model.AREA_AREA, domain=NonNegativeReals)
     # model.TransportFlowIn_Dvar[y,t,res,area1,area2] =
     # Instant resource flow (mesured in power, MWh/h) at time t in year y from area1 to area2,
     # always >= 0 AFTER losses due to transport
@@ -441,26 +447,26 @@ def systemModel(scenario, isAbstract=False):
 
     # Capacity of a conversion mean invested in year y in area 'area'
     model.capacityInvest_Dvar = Var(
-        model.YEAR_invest, model.TECHNOLOGIES, model.AREA, domain=NonNegativeIntegers, initialize=0)
+        model.YEAR_invest, model.TECHNOLOGIES, model.AREA, domain=NonNegativeReals, initialize=0)
     # Capacity of a conversion mean that is removed each year y
     model.capacityDel_Pvar = Var(
-        model.YEAR_invest, model.YEAR_invest, model.TECHNOLOGIES, model.AREA, domain=NonNegativeIntegers)
+        model.YEAR_invest, model.YEAR_invest, model.TECHNOLOGIES, model.AREA, domain=NonNegativeReals)
     # New transport flow max from area a to b created at investment time
     model.TInvest_Dvar = Var(
-        model.YEAR_invest,  model.TRANS_TECHNO, model.AREA_AREA, domain=NonNegativeIntegers)
+        model.YEAR_invest,  model.TRANS_TECHNO, model.AREA_AREA, domain=NonNegativeReals)
     # Deleted transport flow from area a to b at investment time, because of end of life
     model.TDel_Dvar = Var(
-        model.YEAR_invest,  model.TRANS_TECHNO, model.AREA_AREA, domain=NonNegativeIntegers)
+        model.YEAR_invest,  model.TRANS_TECHNO, model.AREA_AREA, domain=NonNegativeReals)
     # Transformation of technologies 1 into technologies 2
     model.transInvest_Dvar = Var(
-        model.YEAR_invest, model.TECHNOLOGIES, model.TECHNOLOGIES, model.AREA, domain=NonNegativeIntegers)
+        model.YEAR_invest, model.TECHNOLOGIES, model.TECHNOLOGIES, model.AREA, domain=NonNegativeReals)
     model.capacityDem_Dvar = Var(
-        model.YEAR_invest, model.YEAR_invest, model.TECHNOLOGIES, model.AREA, domain=NonNegativeIntegers)
+        model.YEAR_invest, model.YEAR_invest, model.TECHNOLOGIES, model.AREA, domain=NonNegativeReals)
 
     # variables encore réelles
     # capacité (en sortie) des installations d'une technologie dans une zone, en unités de puissance max
     model.capacity_Pvar = Var(
-        model.YEAR_op, model.TECHNOLOGIES, model.AREA, domain=NonNegativeIntegers, initialize=0)
+        model.YEAR_op, model.TECHNOLOGIES, model.AREA, domain=NonNegativeReals, initialize=0)
     # Maximum capacity of a storage mean
     model.CmaxInvest_Dvar = Var(
         model.YEAR_invest, model.STOCK_TECHNO, model.AREA, domain=NonNegativeReals)
@@ -511,9 +517,9 @@ def systemModel(scenario, isAbstract=False):
     model.transportCarbonCosts_Pvar = Var(
         model.YEAR_op, model.TRANS_TECHNO, model.AREA_AREA, domain=NonNegativeReals)
 
-    # model.dual = Suffix(direction=Suffix.IMPORT)
-    # model.rc = Suffix(direction=Suffix.IMPORT)
-    # model.slack = Suffix(direction=Suffix.IMPORT)
+    model.dual = Suffix(direction=Suffix.IMPORT)
+    model.rc = Suffix(direction=Suffix.IMPORT)
+    model.slack = Suffix(direction=Suffix.IMPORT)
 
     ########################
     # Objective Function   #
@@ -576,8 +582,8 @@ def systemModel(scenario, isAbstract=False):
     def capacityCostsDef_rule(model, y, tech, area):
         return sum(model.investCost[yi, tech, area]
                    * f1(i, model.LifeSpan[yi, tech, area]) * f3(r, y-dy)
-                   * (model.capacityInvest_Dvar[yi, tech, area] - model.capacityDel_Pvar[yi, y-dy, tech, area]) * model.techUnitPower[yi, tech, area]
-                   for yi in yearList[yearList < y]) + model.operationCost[y-dy, tech, area] * model.techUnitPower[y-dy, tech, area] * f3(r, y)*model.capacity_Pvar[y, tech, area] == model.capacityCosts_Pvar[y, tech, area]
+                   * (model.capacityInvest_Dvar[yi, tech, area] - model.capacityDel_Pvar[yi, y-dy, tech, area]) 
+                   for yi in yearList[yearList < y]) + model.operationCost[y-dy, tech, area] * f3(r, y)*model.capacity_Pvar[y, tech, area] == model.capacityCosts_Pvar[y, tech, area]
     model.capacityCostsCtr = Constraint(
         model.YEAR_op, model.TECHNOLOGIES, model.AREA, rule=capacityCostsDef_rule)
 
@@ -778,7 +784,7 @@ def systemModel(scenario, isAbstract=False):
         model.YEAR_op, model.TECHNOLOGIES, model.AREA, rule=CapacityTot_rule)
 
     def Capacity_rule(model, y, t, tech, area):  # INEQ forall t, tech
-        return model.capacity_Pvar[y, tech, area] * model.availabilityFactor[y, t, tech] * model.techUnitPower[y-dy, tech, area] >= model.power_Dvar[y, t, tech, area]
+        return model.capacity_Pvar[y, tech, area] * model.availabilityFactor[y, t, tech]  >= model.power_Dvar[y, t, tech, area]
     model.CapacityCtr = Constraint(
         model.YEAR_op, model.TIMESTAMP, model.TECHNOLOGIES, model.AREA, rule=Capacity_rule)
 
@@ -928,7 +934,7 @@ def systemModel(scenario, isAbstract=False):
 
     if "capacityLim" in TechParameters:
         def capacityLim_rule(model, y, tech, area):  # INEQ forall t, tech
-            return model.capacityLim[y, tech, area] >= model.capacity_Pvar[y+dy, tech, area]*model.techUnitPower[y,tech,area]
+            return model.capacityLim[y, tech, area] >= model.capacity_Pvar[y+dy, tech, area]
         model.capacityLimCtr = Constraint(
             model.YEAR_invest, model.TECHNOLOGIES, model.AREA, rule=capacityLim_rule)
 
@@ -947,7 +953,7 @@ def systemModel(scenario, isAbstract=False):
     if "EnergyNbhourCap" in TechParameters:
         def storage_rule(model, y, tech, area):  # INEQ forall t, tech
             if model.EnergyNbhourCap[y-dy, tech, area] > 0:
-                return model.EnergyNbhourCap[y-dy, tech, area] * model.capacity_Pvar[y, tech, area] * model.techUnitPower[y-dy, tech, area] >= sum(
+                return model.EnergyNbhourCap[y-dy, tech, area] * model.capacity_Pvar[y, tech, area]  >= sum(
                     model.power_Dvar[y, t, tech, area] for t in model.TIMESTAMP) * timeStep
             else:
                 return Constraint.Skip
@@ -957,7 +963,7 @@ def systemModel(scenario, isAbstract=False):
     if "RampConstraintPlus" in TechParameters:
         def rampCtrPlus_rule(model, y, t, tech, area):  # INEQ forall t<
             if model.RampConstraintPlus[y-dy, tech, area] > 0:
-                return model.power_Dvar[y, t + timeStep, tech, area] - model.power_Dvar[y, t, tech, area] <= model.capacity_Pvar[y, tech, area] * model.techUnitPower[y-dy, tech, area] * model.RampConstraintPlus[y-dy, tech, area] * timeStep
+                return model.power_Dvar[y, t + timeStep, tech, area] - model.power_Dvar[y, t, tech, area] <= model.capacity_Pvar[y, tech, area]  * model.RampConstraintPlus[y-dy, tech, area] * timeStep
             else:
                 return Constraint.Skip
         model.rampCtrPlus = Constraint(
@@ -968,7 +974,7 @@ def systemModel(scenario, isAbstract=False):
             if model.RampConstraintMoins[y-dy, tech, area] > 0:
                 var = model.power_Dvar[y, t + timeStep, tech, area] - \
                     model.power_Dvar[y, t, tech, area]
-                return var >= - model.capacity_Pvar[y, tech, area] * model.techUnitPower[y-dy, tech, area] * model.RampConstraintMoins[y-dy, tech, area] * timeStep
+                return var >= - model.capacity_Pvar[y, tech, area]  * model.RampConstraintMoins[y-dy, tech, area] * timeStep
             else:
                 return Constraint.Skip
         model.rampCtrMoins = Constraint(
@@ -1043,14 +1049,13 @@ def systemModel(scenario, isAbstract=False):
     # Définition de TmaxTot en y, en fonction de TmaxTot en y-dy
     # encore valable avec des entiers
     def TmaxTot_rule(model, y, ttech, area1, area2):
-        if y == 2010:
+        if y == YEAR_list[0]:
             return model.TmaxTot_Pvar[y, ttech, area1, area2] == 0
         else:
             return model.TmaxTot_Pvar[y, ttech, area1, area2] == model.TmaxTot_Pvar[y-dy, ttech, area1, area2] + \
                 model.TInvest_Dvar[y, ttech, area1, area2] - \
                 model.TDel_Dvar[y, ttech, area1, area2]
-    model.TmaxTot = Constraint(
-        model.YEAR_invest, model.TRANS_TECHNO, model.AREA_AREA, rule=TmaxTot_rule)
+    model.TmaxTot = Constraint(model.YEAR_invest, model.TRANS_TECHNO, model.AREA_AREA, rule=TmaxTot_rule)
 
     # Mise en place du LifeSpan
     def transportLifeSpan_rule(model, y, ttech, area1, area2):

@@ -6,9 +6,8 @@ import numpy as np
 from scenarios_ref_PACA import *
 from Functions.f_graphicTools import *
 
-ouputPath = 'output/'
+ouputPath = 'Data/output/'
 
-outputFolder = ouputPath+'out'
-# outputFolder='out_test_highs'
+outputFolder = ouputPath+'test_10_1zone_LP'
 
 capa=plot_capacity(scenarioPACA,outputFolder)

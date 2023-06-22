@@ -1,0 +1,33 @@
+,YEAR_op,TECHNOLOGIES,AREA,capacityCosts_Pvar
+0,2040,Ground PV,Marseille,1795.4110392211558
+1,2040,SMR + CCS1,Marseille,6636750.927333216
+2,2040,Existing SMR,Marseille,4054647.5316366497
+3,2040,Offshore wind - floating,Marseille,0.0
+4,2040,ElectrolysisM,Marseille,11904975.102386415
+5,2040,SMR + CCS2,Marseille,0.0
+6,2040,SMR,Marseille,522934.65127016127
+7,2040,Onshore wind,Marseille,5102911.230490944
+8,2050,Ground PV,Marseille,2083.0931119247025
+9,2050,SMR + CCS1,Marseille,4483551.123927712
+10,2050,Existing SMR,Marseille,0.0
+11,2050,Offshore wind - floating,Marseille,0.0
+12,2050,ElectrolysisM,Marseille,8869371.7685325
+13,2050,SMR + CCS2,Marseille,9278653.29466366
+14,2050,SMR,Marseille,353275.9130355353
+15,2050,Onshore wind,Marseille,3318945.1751313373
+16,2020,Ground PV,Marseille,0.0
+17,2020,SMR + CCS1,Marseille,999476.1048838948
+18,2020,Existing SMR,Marseille,8884232.043412399
+19,2020,Offshore wind - floating,Marseille,0.0
+20,2020,ElectrolysisM,Marseille,0.0
+21,2020,SMR + CCS2,Marseille,0.0
+22,2020,SMR,Marseille,1145814.2166921615
+23,2020,Onshore wind,Marseille,0.0
+24,2030,Ground PV,Marseille,2697.0341941230877
+25,2030,SMR + CCS1,Marseille,3724811.039575262
+26,2030,Existing SMR,Marseille,6001868.836063422
+27,2030,Offshore wind - floating,Marseille,0.0
+28,2030,ElectrolysisM,Marseille,14164287.816689765
+29,2030,SMR + CCS2,Marseille,0.0
+30,2030,SMR,Marseille,774071.0289284236
+31,2030,Onshore wind,Marseille,4906752.497846681

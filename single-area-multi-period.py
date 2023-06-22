@@ -15,48 +15,38 @@ from scenarios_ref_PACA import scenarioPACA
 # from scenarios import scenario
 
 outputPath='Data/output/'
-# solver= 'mosek'
+outputFolder = outputPath+'test_100_1zone_LP'
 
+# solver= 'mosek'
 solver= 'appsi_highs'
-solverpath_folder='C:\\Users\\anaelle.jodry\\Documents\\highs.mswin64.20230531'
-sys.path.append(solverpath_folder)
+
+if solver=='appsi_highs' :
+    solverpath_folder='C:\\Users\\anaelle.jodry\\Documents\\highs.mswin64.20230531'
+    sys.path.append(solverpath_folder)
 
 print('Building model...')
 model = systemModel(scenarioPACA,isAbstract=False)
-# model.write("test_model.mps", io_options = {"symbolic_solver_labels":True})
 start_clock = time.time()
 print('Calculating...')
-# h = highspy.Highs()
-# filename = 'test_model.mps'
-# h.readModel(filename)
-# h.run()
-# print('Model ', filename, ' has status ', h.getModelStatus())
-# solution = h.getSolution()
-# info = h.getInfo()
-# basis = h.getBasis()
 opt = SolverFactory(solver)
 results = opt.solve(model)
 end_clock = time.time()
 print('Computational time: {:.0f} s'.format(end_clock - start_clock)) 
 
-# print('Optimal objective = ', info.objective_function_value)
-# # num_var = h.getNumCol()
-# # for icol in range(num_var):
-# #     print(icol, solution.col_value[icol], h.basisStatusToString(basis.col_status[icol]))
-
-# h.writeSolution(solution,'test')
 
 res = {
     'variables': getVariables_panda(model), 
 }
 
-print(res)
-# try: 
-#     res['constraints'] = getConstraintsDual_panda(model)
-# except KeyError: # This exception will be raised for a MILP case
-#     pass 
+clock=pd.DataFrame(['time',end_clock - start_clock])
 
-outputFolder = 'out_test_highs'
+res['variables'].update({'Computational time (s)':clock})
+
+try: 
+    res['constraints'] = getConstraintsDual_panda(model)
+except KeyError: # This exception will be raised for a MILP case
+    pass 
+
 
 try: 
     os.mkdir(outputFolder)
@@ -69,5 +59,3 @@ for v in res['variables'].keys():
 for k, v in res['variables'].items():
     print ('Writing ' + k + '...') 
     v.to_csv(outputFolder + '/' + k + '.csv',index=True)
-
-# print(res['variables']['capacity_Pvar'])

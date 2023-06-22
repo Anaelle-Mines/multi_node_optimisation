@@ -100,47 +100,65 @@ def get_capex_new_tech_RTE(tech, hyp='ref', year=2020, var=None):
     # comme Pel est ici la puissance électrique consommée, on divise par le facteur de conversion élec->H
 
 
-    elif tech == "ElectrolysisS":
-        capex = {
-            'ref':  interp1d(years, electrolyser_capex_Reksten2022(tech='Alkaline', Pel=p_max_fonc[tech] / conv_el_h, year=np.array(years)),
-                              fill_value=(electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2020), electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2050)), bounds_error=False),
-        }
-        opex = {
-            'ref': interp1d(years, [12] * 5, fill_value=(12, 12), bounds_error=False),
-        }
-        life = {
-            'ref':  interp1d(years, [30] * 5, fill_value=(30, 30), bounds_error=False),
-        }
+    # elif tech == "ElectrolysisS":
+    #     capex = {
+    #         'ref':  interp1d(years, electrolyser_capex_Reksten2022(tech='Alkaline', Pel=p_max_fonc[tech] / conv_el_h, year=np.array(years)),
+    #                           fill_value=(electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2020), electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2050)), bounds_error=False),
+    #     }
+    #     opex = {
+    #         'ref': interp1d(years, [12] * 5, fill_value=(12, 12), bounds_error=False),
+    #     }
+    #     life = {
+    #         'ref':  interp1d(years, [30] * 5, fill_value=(30, 30), bounds_error=False),
+    #     }
+
+    # elif tech == "ElectrolysisM":
+    #     capex = {
+    #         'ref':  interp1d(years, electrolyser_capex_Reksten2022(tech='Alkaline', Pel=p_max_fonc[tech] / conv_el_h, year=np.array(years)),
+    #                          fill_value=(electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2020), electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2050)), bounds_error=False),
+    #     }
+    #     opex = {
+    #         'ref': interp1d(years, [12] * 5, fill_value=(12, 12), bounds_error=False),
+    #     }
+    #     life = {
+    #         'ref':  interp1d(years, [30] * 5, fill_value=(30, 30), bounds_error=False),
+    #     }
+
+    # elif tech == "ElectrolysisL":
+    #     capex = {
+    #         'ref':  interp1d(
+    #             years,
+    #             electrolyser_capex_Reksten2022(
+    #                 tech='Alkaline',
+    #                 Pel=p_max_fonc[tech] / conv_el_h,
+    #                 year=np.array(years))
+    #             ,fill_value=(electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2020), electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2050)), bounds_error=False
+    #         ),
+    #     }
+    #     opex = {
+    #         'ref': interp1d(years, [12] * 5, fill_value=(12, 12), bounds_error=False),
+    #     }
+    #     life = {
+    #         'ref':  interp1d(years, [30] * 5, fill_value=(30, 30), bounds_error=False),
+    #     }
 
     elif tech == "ElectrolysisM":
-        capex = {
-            'ref':  interp1d(years, electrolyser_capex_Reksten2022(tech='Alkaline', Pel=p_max_fonc[tech] / conv_el_h, year=np.array(years)),
-                             fill_value=(electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2020), electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2050)), bounds_error=False),
-        }
-        opex = {
-            'ref': interp1d(years, [12] * 5, fill_value=(12, 12), bounds_error=False),
-        }
-        life = {
-            'ref':  interp1d(years, [30] * 5, fill_value=(30, 30), bounds_error=False),
-        }
+            capex = {
+                'ref':  interp1d(years, [1313, 641, 574, 507,440],fill_value=(1313,440),bounds_error=False),
+                'high': interp1d(years,[1313]+[i*1.15 for i in [641, 574, 507,440]],fill_value=(1313,543),bounds_error=False),
+                'low': interp1d(years, [1313]+[i*0.85 for i in [641, 574, 507,440]], fill_value=(1313, 374), bounds_error=False),
 
-    elif tech == "ElectrolysisL":
-        capex = {
-            'ref':  interp1d(
-                years,
-                electrolyser_capex_Reksten2022(
-                    tech='Alkaline',
-                    Pel=p_max_fonc[tech] / conv_el_h,
-                    year=np.array(years))
-                ,fill_value=(electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2020), electrolyser_capex_Reksten2022('Alkaline', Pel=p_max_fonc[tech] , year=2050)), bounds_error=False
-            ),
-        }
-        opex = {
-            'ref': interp1d(years, [12] * 5, fill_value=(12, 12), bounds_error=False),
-        }
-        life = {
-            'ref':  interp1d(years, [30] * 5, fill_value=(30, 30), bounds_error=False),
-        }
+            }
+            opex = {
+                'ref': interp1d(years, [12] *5,fill_value=(12,12),bounds_error=False),
+                'high': interp1d(years, [12*1.15] * 5, fill_value=(12, 12), bounds_error=False),
+                'low': interp1d(years, [12*0.85] * 5, fill_value=(12, 12), bounds_error=False),
+            }
+            life = {
+                'ref':  interp1d(years, [20] *5,fill_value=(20,20),bounds_error=False),
+                'high': interp1d(years, [20] * 5, fill_value=(20, 20), bounds_error=False),
+                'low': interp1d(years, [20] * 5, fill_value=(20, 20), bounds_error=False),
+            }
 
     elif tech == 'Battery - 1h':
         capex = {
